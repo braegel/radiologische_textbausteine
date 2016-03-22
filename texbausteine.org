@@ -18,8 +18,8 @@ Innere Liquorräume: Unauffällig
 Mittellinie: Nicht verlagert
 Mark-Rinden-Differenzierung: Allseits erhalten
 Basalganglien: Seitengleich abgrenzbar.
-Venöse Sinus: Sweit beurteillbar unauffällig
-Nasennebenhölhlen : Unauffällige Belüftung soweit erfasst.
+Venöse Sinus: Soweit beurteilbar unauffällig
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 
 
@@ -99,17 +99,20 @@ Paraspinale Linie: Unauffällig
 Paraaortische Linie: Unauffällig
 Zwerchfell: Scharf abgrenzbar
 Randwinkel: Frei
-Pleura: Kein Pneumothorax. Kein Pleuraerguß.
+Pleura: Kein Pneumothorax. Kein Pleuraerguss.
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
 Mediastinum: Schlank und mittelständig.
 
 * CT Thorax
+Technik
+Spiral-CT des Thorax unter intravenöser  Kontrastmittelgabe.
+
 Axilla: Einzelne nicht suspekte Lymphknoten.
-Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguß.
+Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
-Oberbauchorgane: Soweit erfasst uns beurteilbar unauffällig.
-Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguß.
+Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
+Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss.
 Konsolidierungen: Nein
 Crazy paving: Nein
 Lungenzysten: Nein
@@ -122,14 +125,14 @@ Einzelne unspezifische pulmonale Verdichtungen. Ansonsten kein richtungsweisende
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
 * CT Abdomen
-Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguß. Kein Pericarderguß.
+Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Pericarderguss.
 Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
 Pfortader: Unauffällig.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflusstörung.
+Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
 Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
 Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
@@ -164,7 +167,7 @@ Vorderes Kreuzband: unauffällig
 Kollateralbänder:  unauffällig
 Retropatellarer chondraler Gelenküberzug: unauffällig
 Femorotibialer  chondraler Gelenküberzug: unauffällig
-Erguß: Kein signifikanter Erguß
+Erguss: Kein signifikanter Erguss
 
 Beurteilung
 
