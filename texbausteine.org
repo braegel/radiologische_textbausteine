@@ -108,6 +108,7 @@ Mediastinum: Schlank und mittelständig.
 Technik
 Spiral-CT des Thorax unter intravenöser  Kontrastmittelgabe.
 
+Befund
 Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
