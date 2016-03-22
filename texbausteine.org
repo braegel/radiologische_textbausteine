@@ -52,7 +52,10 @@ Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
 
 * HWS
-Harmonischer Verlauf der Hinterkante. Keine Höhenminderung der abgebildeten Wirbelkörper. Orientierend unauffällige Darstellung der miterfassten basalen Hirnabschnitte. Unauffällige Darstellung des Myelons.
+Hinterkante: Harmonischer Verlauf
+Höhenminderungen von Wirbelkörpern: Nein
+Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Myelon: Unauffällig
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -60,23 +63,26 @@ HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 
+Beurteilung
+
 * Schulter
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällige Darstellung.
 M. infraspinatus: Unauffällige Darstellung.
 M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
-Glenoid: Kleine Konturunterbrechung im ventralen Glenoid, die mit dem sublabralen Foramen vereinbar ist.
+Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
 
-Beurteilung: Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
+Beurteilun
+Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 
 * Rö Thx
-Paratracheale Linie: unauffällig
-Azygoösophageale Linie: unauffällig
-Paraspinale Linie: unauffällig
-Paraaortische Linie: unauffällig
-Zwerchfell: scharf abgrenzbar
-Randwinkel: frei. 
+Paratracheale Linie: Unauffällig
+Azygoösophageale Linie: Unauffällig
+Paraspinale Linie: Unauffällig
+Paraaortische Linie: Unauffällig
+Zwerchfell: Scharf abgrenzbar
+Randwinkel: Frei
 Pleura: Kein Pneumothorax. Kein Pleuraerguß.
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
@@ -85,20 +91,35 @@ Mediastinum: Schlank und mittelständig.
 * CT Thorax
 Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguß.
+Nebennieren: Soweit erfasst unauffällig.
+Oberbauchorgane: Soweit erfasst uns beurteilbar unauffällig.
 Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguß.
+Konsolidierungen: Nein
+Crazy paving: Nein
+Lungenzysten: Nein
+Honeycombing: Nein
+Rundherde: Nein
+
+Beurteilung
+Einzelne unspezifische pulmonale Verdichtungen. Ansonsten kein richtungsweisender Befund.
+
+Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
 * CT Abdomen
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguß. Kein Pericarderguß.
 Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein  Nachweis erweiterter intra- oder extrahepatischer Gallenwege.
+Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
 Pfortader: Unauffällig.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
 Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflusstörung.
-Lymphknoten: Einzelne nicht suspekte mesenteriale, paraaortale und inguinale Lymphknoten.
+Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
 Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
+Skelettsystem: Degenerative Veränderungen.
+
+Beurteilung
 
 * LWS
 Harmonischer Verlauf der Hinterkante. Keine Höhenminderung der abgebildeten Wirbelkörper. Unauffällige Darstellung des Conus medullaris und der Cauda equina. Multisegmentale Facettenhypertrophie.
