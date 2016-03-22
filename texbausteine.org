@@ -127,7 +127,7 @@ Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Mon
 
 * CT Abdomen
 Technik
-Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abomens in der portalvenösen Phase.
+Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
 
 Befund
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Pericarderguss.
