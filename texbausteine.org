@@ -122,14 +122,21 @@ Skelettsystem: Degenerative Veränderungen.
 Beurteilung
 
 * LWS
-Harmonischer Verlauf der Hinterkante. Keine Höhenminderung der abgebildeten Wirbelkörper. Unauffällige Darstellung des Conus medullaris und der Cauda equina. Multisegmentale Facettenhypertrophie.
+Hinterkante: Harmonischer Verlauf
+Höhenminderung von Wirbelkörpern: Nein
+Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
+Facettengelenke: Multisegmentale Facettenhypertrophie.
 LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 
+Beurteilung
+
+
 * Knie
+Befund
 Außenmeniskus: unauffällig
 Innenmeniskus: unauffällig
 Hinteres Kreuzband: unauffällig
@@ -137,19 +144,22 @@ Vorderes Kreuzband: unauffällig
 Kollateralbänder:  unauffällig
 Retropatellarer chondraler Gelenküberzug: unauffällig
 Femorotibialer  chondraler Gelenküberzug: unauffällig
-Kein signifikanter Erguß.
+Erguß: Kein signifikanter Erguß
+
+Beurteilung
+
 
 * Osteo
-Technik: CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
+Technik
+CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
-Befund:
-
-Die Knochendichte beträgt im Mittel:
+Befund
+ppDie Knochendichte beträgt im Mittel:
 
 Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
 
 Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
 
-Beurteilung:
+Beurteilung
 Altersentsprechende Osteopenie.
 
