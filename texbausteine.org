@@ -174,7 +174,7 @@ Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
 Befund
-ppDie Knochendichte beträgt im Mittel:
+Die Knochendichte beträgt im Mittel:
 
 Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
 
