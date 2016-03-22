@@ -5,17 +5,18 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mi
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
 
 * CCT
-- Befund
-  - Innere Liquorräume :: unauffälig
-  - Äußere Liquorräume :: unauffällig
-  - Mittellinie :: nicht verlagert
-  - Mark-Rinden-Differenzierung :: allseits erhalten
-  - Basalganglien :: seitengleich abgrenzbar.
-  - Nasennebenhölhlen :: Unauffällige Belüftung soweit erfasst.
-  - Mastoidzellen :: Unauffällige Belüftung soweit erfasst.
-  - Blutungssuspekte Dichteanhebungen :: nein
-- Beurteilung
-  - Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demakiert sich nicht.
+Befund
+Innere Liquorräume: unauffälig
+Äußere Liquorräume: unauffällig
+Mittellinie: nicht verlagert
+Mark-Rinden-Differenzierung:: allseits erhalten
+Basalganglien: seitengleich abgrenzbar.
+Nasennebenhölhlen : Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+Blutungssuspekte Dichteanhebungen: nein
+
+Beurteilung
+Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demakiert sich nicht.
 
 * cMRT
 Befund:
