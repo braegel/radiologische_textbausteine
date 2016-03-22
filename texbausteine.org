@@ -9,16 +9,16 @@ Rechtfertigende Indikation
 Blutung? Ischämie? Hirndruck?
 
 Technik
-Sequentielles natives CCT
+Sequentielles natives CCT.
 
 Befund
-Blutungssuspekte Dichteanhebungen: Nein
-Innere Liquorräume: Unauffällig
-Äußere Liquorräume: Unauffällig
-Mittellinie: Nicht verlagert
-Mark-Rinden-Differenzierung: Allseits erhalten
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Unauffällig.
+Äußere Liquorräume: Unauffällig.
+Mittellinie: Nicht verlagert.
+Mark-Rinden-Differenzierung: Allseits erhalten.
 Basalganglien: Seitengleich abgrenzbar.
-Venöse Sinus: Soweit beurteilbar unauffällig
+Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 
@@ -28,19 +28,18 @@ Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle 
 
 * cMRT
 Befund
-Diffusionsstörung: Nein
-Pathologische Signalanhebungen in der T1w: Nein
-
-Innere Liquorräume: Unauffällig
-Äußere Liquorräume: Unauffällig
-Mittellinie: Nicht verlagert
-Mark-Rinden-Differenzierung: Allseits erhalten
-Basalganglien: Seitengleich abgrenzbar
-Hirnstamm: Unauffällig
-Kleinhirn: Unauffällig
+Diffusionsstörung: Nein.
+Pathologische Signalanhebungen in der T1w: Nein.
+Innere Liquorräume: Unauffällig.
+Äußere Liquorräume: Unauffällig.
+Mittellinie: Nicht verlagert.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar.
+Hirnstamm: Unauffällig.
+Kleinhirn: Unauffällig.
 Marklager: Einzelne unspezifische Signalanhebungen im Bereich des periventrikulären Marklagers in der T2 und FLAIR.
-Nasennebenhölhlen: Unauffällige Signale soweit erfasst
-Mastoidzellen: Unauffällige Signale soweit erfasst
+Nasennebenhölhlen: Unauffällige Signale soweit erfasst.
+Mastoidzellen: Unauffällige Signale soweit erfasst.
 
 Beurteilung
 Einzelne unspezfische Marklagerveränderungen. Diese sind unter anderem mit mikroangiopathisch bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
@@ -58,19 +57,19 @@ Sinus ethmoidales: Unauffällige Belüftung.
 Sinus sphenoidales: Unauffällige Belüftung.
 Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
-Spiegelbildungen: Nein
+Spiegelbildungen: Nein.
 
 * HWS
 Rechtfertigende Indikation
 Spinale Enge? Degeneration?
 
 Technik
-Spiral-CT der HWS
+Spiral-CT der HWS.
 
-Hinterkante: Harmonischer Verlauf
-Höhenminderungen von Wirbelkörpern: Nein
+Hinterkante: Harmonischer Verlauf.
+Höhenminderungen von Wirbelkörpern: Nein.
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
-Myelon: Unauffällig
+Myelon: Unauffällig.
 HWK1/2: Keine Fraktur. Atlantodentalarthrose.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -89,16 +88,16 @@ M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
 
-Beurteilun
+Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 
 * Rö Thx
-Paratracheale Linie: Unauffällig
-Azygoösophageale Linie: Unauffällig
-Paraspinale Linie: Unauffällig
-Paraaortische Linie: Unauffällig
-Zwerchfell: Scharf abgrenzbar
-Randwinkel: Frei
+Paratracheale Linie: Unauffällig.
+Azygoösophageale Linie: Unauffällig.
+Paraspinale Linie: Unauffällig.
+Paraaortische Linie: Unauffällig.
+Zwerchfell: Scharf abgrenzbar.
+Randwinkel: Frei.
 Pleura: Kein Pneumothorax. Kein Pleuraerguss.
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
@@ -114,11 +113,11 @@ Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
 Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
 Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss.
-Konsolidierungen: Nein
-Crazy paving: Nein
-Lungenzysten: Nein
-Honeycombing: Nein
-Rundherde: Nein
+Konsolidierungen: Nein.
+Crazy paving: Nein.
+Lungenzysten: Nein.
+Honeycombing: Nein.
+Rundherde: Nein.
 
 Beurteilung
 Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
@@ -150,8 +149,8 @@ Rechtfertigende Indikation
 Lumbale Beschwerden. Degeneration?
 
 Befund
-Hinterkante: Harmonischer Verlauf
-Höhenminderung von Wirbelkörpern: Nein
+Hinterkante: Harmonischer Verlauf.
+Höhenminderung von Wirbelkörpern: Nein.
 Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
 Facettengelenke: Multisegmentale Facettenhypertrophie.
 LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
@@ -165,14 +164,14 @@ Beurteilung
 
 * Knie
 Befund
-Außenmeniskus: unauffällig
-Innenmeniskus: unauffällig
-Hinteres Kreuzband: unauffällig
-Vorderes Kreuzband: unauffällig
-Kollateralbänder:  unauffällig
-Retropatellarer chondraler Gelenküberzug: unauffällig
-Femorotibialer  chondraler Gelenküberzug: unauffällig
-Erguss: Kein signifikanter Erguss
+Außenmeniskus: unauffällig.
+Innenmeniskus: unauffällig.
+Hinteres Kreuzband: unauffällig.
+Vorderes Kreuzband: unauffällig.
+Kollateralbänder:  unauffällig.
+Retropatellarer chondraler Gelenküberzug: unauffällig.
+Femorotibialer  chondraler Gelenküberzug: unauffällig.
+Erguss: Kein signifikanter Erguss.
 
 Beurteilung
 
