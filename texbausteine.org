@@ -126,6 +126,10 @@ Einzelne unspezifische pulmonale Verdichtungen. Ansonsten kein richtungsweisende
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
 * CT Abdomen
+Technik
+Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abomens in der portalvenösen Phase.
+
+Befund
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Pericarderguss.
 Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
