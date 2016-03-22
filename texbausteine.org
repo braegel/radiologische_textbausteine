@@ -61,6 +61,12 @@ Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein
 
 * HWS
+Rechtfertigende Indikation
+Spinale Enge? Degeneration?
+
+Technik
+Spiral-CT der HWS
+
 Hinterkante: Harmonischer Verlauf
 Höhenminderungen von Wirbelkörpern: Nein
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
@@ -132,6 +138,10 @@ Skelettsystem: Degenerative Veränderungen.
 Beurteilung
 
 * LWS
+Rechtfertigende Indikation
+Lumbale Beschwerden. Degeneration?
+
+Befund
 Hinterkante: Harmonischer Verlauf
 Höhenminderung von Wirbelkörpern: Nein
 Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
