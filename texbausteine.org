@@ -5,25 +5,41 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mi
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
 
 * CCT
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
 Befund
-Innere Liquorräume: unauffälig
-Äußere Liquorräume: unauffällig
-Mittellinie: nicht verlagert
-Mark-Rinden-Differenzierung: allseits erhalten
-Basalganglien: seitengleich abgrenzbar.
+Blutungssuspekte Dichteanhebungen: Nein
+Innere Liquorräume: Unauffällig
+Äußere Liquorräume: Unauffällig
+Mittellinie: Nicht verlagert
+Mark-Rinden-Differenzierung: Allseits erhalten
+Basalganglien: Seitengleich abgrenzbar.
+Venöse Sinus: Aoweit beurteillbar unauffällig
 Nasennebenhölhlen : Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-Blutungssuspekte Dichteanhebungen: nein
+
 
 Beurteilung
 Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demakiert sich nicht.
 
 * cMRT
-Befund:
-Normale Weite der inneren und äußeren Liquorräume. Keine Verlagerung der Mittellinie. Allseits erhaltene Mark-Rinden-Differenzierung. Unauffällige Darstellung der Basalganglien, des Hirnstammes und des Kleinhirnes. Unauffällige Signale der Nasennebenhöhlen und der Mastoidzellen soweit erfasst. Keine Diffusionsstörung. Keine pathologischen Signalanhebungen in der T1w. Einzelne unspezifische Signalanhebungen im Bereich des periventrikulären Marklagers in der T2 und FLAIR.
+Befund
+Diffusionsstörung: Nein
+Pathologische Signalanhebungen in der T1w: Nein
 
-Beurteilung:
-Einzelne unspezfische Marklagerveränderungen u.a. vereinbar mit mikroangiopathisch bedingten Veränderungen. Ansonsten kein richtungsweisender Befund.
+Innere Liquorräume: Unauffällig
+Äußere Liquorräume: Unauffällig
+Mittellinie: Nicht verlagert
+Mark-Rinden-Differenzierung: Allseits erhalten
+Basalganglien: Seitengleich abgrenzbar
+Hirnstamm: Unauffällig
+Kleinhirn: Unauffällig
+Marklager: Einzelne unspezifische Signalanhebungen im Bereich des periventrikulären Marklagers in der T2 und FLAIR.
+Nasennebenhölhlen: Unauffällige Signale soweit erfasst
+Mastoidzellen: Unauffällige Signale soweit erfasst
+
+Beurteilung
+Einzelne unspezfische Marklagerveränderungen. Diese sind unter anderem mit mikroangiopathisch bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
 * CT-NNH
 Rechtfertigende Indikation: Belüftung der Nasennebenhöhlen?
