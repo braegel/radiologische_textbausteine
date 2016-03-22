@@ -7,6 +7,9 @@ Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licens
 * CCT
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
+Technik
+Sequentielles natives CCT
+
 Befund
 Blutungssuspekte Dichteanhebungen: Nein
 Innere Liquorräume: Unauffällig
@@ -42,14 +45,19 @@ Beurteilung
 Einzelne unspezfische Marklagerveränderungen. Diese sind unter anderem mit mikroangiopathisch bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
 * CT-NNH
-Rechtfertigende Indikation: Belüftung der Nasennebenhöhlen?
+Rechtfertigende Indikation
+Belüftung der Nasennebenhöhlen?
 
-Beurteilung:
+Technik
+Spiral-CT der Nasennebenhöhlen
+
+Beurteilung
 Sinus frontales: Unauffällige Belüftung.
 Sinus ethmoidales: Unauffällige Belüftung.
 Sinus sphenoidales: Unauffällige Belüftung.
 Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
+Spiegelbildungen: Nein
 
 * HWS
 Hinterkante: Harmonischer Verlauf
