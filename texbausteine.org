@@ -27,6 +27,8 @@ Beurteilung
 Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demarkiert sich nicht.
 
 * cMRT
+Klinische Angaben
+
 Befund
 Diffusionsstörung: Nein.
 Pathologische Signalanhebungen in der T1w: Nein.
@@ -81,6 +83,8 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 Beurteilung
 
 * Schulter
+Fragestellung
+
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällige Darstellung.
 M. infraspinatus: Unauffällige Darstellung.
@@ -92,6 +96,9 @@ Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 
 * Rö Thx
+Rechtfertigende Indikation
+
+Befund
 Paratracheale Linie: Unauffällig.
 Azygoösophageale Linie: Unauffällig.
 Paraspinale Linie: Unauffällig.
@@ -104,8 +111,10 @@ Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
 Mediastinum: Schlank und mittelständig.
 
 * CT Thorax
+Rechtfertigende Indikation
+
 Technik
-Spiral-CT des Thorax unter intravenöser  Kontrastmittelgabe.
+Spiral-CT des Thorax unter intravenöser Kontrastmittelgabe.
 
 Befund
 Axilla: Einzelne nicht suspekte Lymphknoten.
@@ -125,6 +134,8 @@ Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
 * CT Abdomen
+Rechtfertigende Indikation
+
 Technik
 Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
 
@@ -163,6 +174,8 @@ Beurteilung
 
 
 * Knie
+Klinische Angaben
+
 Befund
 Außenmeniskus: unauffällig.
 Innenmeniskus: unauffällig.
@@ -176,7 +189,7 @@ Erguss: Kein signifikanter Erguss.
 Beurteilung
 
 
-* Osteo
+* Knochendichte
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
