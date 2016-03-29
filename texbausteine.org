@@ -121,11 +121,6 @@ Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
 Sonstige Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
 Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss.
-Konsolidierungen: Nein.
-Crazy paving: Nein.
-Lungenzysten: Nein.
-Honeycombing: Nein.
-Rundherde: Nein.
 Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
