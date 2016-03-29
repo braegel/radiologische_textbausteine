@@ -120,7 +120,7 @@ Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
 Sonstige Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
-Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss.
+Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
 Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
