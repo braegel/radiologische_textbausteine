@@ -19,7 +19,7 @@ Mittellinie: Nicht verlagert.
 Mark-Rinden-Differenzierung: Allseits erhalten.
 Basalganglien: Seitengleich abgrenzbar.
 Venöse Sinus: Soweit beurteilbar unauffällig.
-Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Nasennebenhölen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 
 
@@ -159,6 +159,7 @@ Hinterkante: Harmonischer Verlauf.
 Höhenminderung von Wirbelkörpern: Nein.
 Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
 Facettengelenke: Multisegmentale Facettenhypertrophie.
+ISG: Mäßig degenerativ verändert.
 LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
