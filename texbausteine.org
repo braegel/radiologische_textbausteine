@@ -140,6 +140,7 @@ Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
 Pfortader: Unauffällig.
+Aorta: Gefäßsklerose.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
 Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
