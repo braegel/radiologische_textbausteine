@@ -16,6 +16,7 @@ Blutungssuspekte Dichteanhebungen: Nein.
 Innere Liquorräume: Mäßig erweitert.
 Äußere Liquorräume: Mäßig erweitert.
 Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
 Mark-Rinden-Differenzierung: Allseits erhalten.
 Basalganglien: Seitengleich abgrenzbar.
 Venöse Sinus: Soweit beurteilbar unauffällig.
