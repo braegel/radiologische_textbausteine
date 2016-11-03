@@ -186,6 +186,20 @@ Erguss: Kein signifikanter Erguss.
 
 Beurteilung
 
+* OSG
+Klinische Angaben: Distorsion
+
+Befund
+Knochen: unaufällig
+Syndesmose: unaufällig
+Außenbänder: unaufällig
+Innenband: unaufällig
+Peronealsehnen: unaufällig
+Sonstige Sehnen: unaufällig
+Achillessehne: unaufällig
+
+Beurteilung
+
 * Knochendichte
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
