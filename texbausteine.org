@@ -42,7 +42,7 @@ Hirnstamm: Unauffällig.
 Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
 Marklager: Einzelne unspezifische Signalanhebungen im Bereich des periventrikulären Marklagers in der T2 und FLAIR.
 Nasennebenhölhlen: Unauffällige Signale soweit erfasst.
-Mastoidzellen: Unauffällige Signale soweit erfasst.
+Mastoidzellen: Unauffällige Signale soweit erfasst. Frei einsehbarer innerer Gehörgang.
 
 Beurteilung
 Einzelne unspezfische Marklagerveränderungen. Diese sind unter anderem mit mikroangiopathisch bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
