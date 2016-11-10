@@ -27,13 +27,13 @@ Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 Beurteilung
 Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demarkiert sich nicht.
 
-* cMRT
+* MRT Gehirn
 Klinische Angaben
 
 Befund
 Diffusionsstörung: Nein.
 Pathologische Signalanhebungen in der T1w: Nein.
-Innere Liquorräume: Unauffällig.
+Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration. Keine signifikante temporomesiale Atrophie.
 Äußere Liquorräume: Unauffällig.
 Mittellinie: Nicht verlagert.
 Mark-Rinden-Differenzierung: Allseits erhalten.
