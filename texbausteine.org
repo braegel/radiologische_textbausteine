@@ -83,7 +83,7 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 Beurteilung
 
 * Schulter
-Fragestellung
+Klinische Angaben
 
 Befund
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
@@ -129,6 +129,17 @@ Beurteilung
 Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
+
+* MR Ellenbogen
+
+Klinische Angaben:
+
+Befund
+Distale Bizepssehne: Unauffällig
+Kollateralbänder: Unauffällig
+Knochen: Unauffällig
+
+Beurteilung
 
 * CT Abdomen
 Rechtfertigende Indikation
