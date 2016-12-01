@@ -13,7 +13,7 @@ Sequentielles natives CCT.
 
 Befund
 Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Mäßig erweitert.
+Innere Liquorräume: Mäßig erweitert. Keine NPH-Konfiguration. Keine temporomesiale Betonung.
 Äußere Liquorräume: Mäßig erweitert.
 Mittellinie: Nicht verlagert.
 Mediazeichen: Nein.
@@ -129,6 +129,33 @@ Beurteilung
 Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
+
+
+* CT Thorax-Abdomen
+Rechtfertigende Indikation
+
+Technik
+Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Thorax und des gesamten Abdomens in der portalvenösen Phase.
+
+Befund
+Axilla: Einzelne nicht suspekte Lymphknoten.
+Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
+Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
+Leber: Homogenes Leberparenchym.
+Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
+Bauchspeicheldrüse: Unauffällig.
+Pfortader: Unauffällig.
+Aorta: Gefäßsklerose.
+Milz: Unauffällig.
+Nebennieren: Unauffällig.
+Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
+Abdominale Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
+Darm: Soweit CT morphologisch beurteilbar unauffällig.
+Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
+Skelettsystem: Degenerative Veränderungen.
+
+Beurteilung
+
 
 * MR Ellenbogen
 
