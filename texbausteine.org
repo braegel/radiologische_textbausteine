@@ -45,7 +45,7 @@ Nasennebenhöhlen: Unauffällige Signale soweit erfasst.
 Mastoidzellen: Unauffällige Signale soweit erfasst. Frei einsehbarer innerer Gehörgang.
 
 Beurteilung
-Einzelne unspezfische Marklagerveränderungen. Diese sind unter anderem mit mikroangiopathisch bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
+Einzelne unspezfische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
 * CT-NNH
 Rechtfertigende Indikation
@@ -130,7 +130,6 @@ Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
-
 * CT Thorax-Abdomen
 Rechtfertigende Indikation
 
@@ -155,7 +154,6 @@ Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung d
 Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
-
 
 * MR Ellenbogen
 
@@ -252,3 +250,9 @@ Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um 
 Beurteilung
 Altersentsprechende Osteopenie.
 
+* PRT
+Technik
+Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel mittels CT. Applikation von Triamcinolon und 2 ml Bupivacain.
+
+Beurteilung
+Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
