@@ -100,16 +100,15 @@ Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Im
 Rechtfertigende Indikation
 
 Befund
-Paratracheale Linie: Unauffällig.
-Azygoösophageale Linie: Unauffällig.
-Paraspinale Linie: Unauffällig.
-Paraaortische Linie: Unauffällig.
-Zwerchfell: Scharf abgrenzbar.
-Randwinkel: Frei.
-Pleura: Kein Pneumothorax. Kein Pleuraerguss.
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
+Mediastinum:
+  Paratracheale Linie: Unauffällig
+  Azygoösophageale Linie: Unauffällig
+  Paraspinale Linie: Unauffällig
+  Paraaortische Linie: Unauffällig
+Hili: Unauffällig
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
-Mediastinum: Schlank und mittelständig.
+Pleura: Kein Pneumothorax. Scharf abgrenzbares Zwerchfell. Randwinkel frei. Kein Pleuraerguss.
 
 * CT Thorax
 Rechtfertigende Indikation
