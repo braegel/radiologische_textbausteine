@@ -4,7 +4,7 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mi
 
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
 
-* CCT
+* CCT :: 8cct
 Rechtfertigende Indikation
 Blutung? Ischämie? Hirndruck?
 
@@ -13,8 +13,8 @@ Sequentielles natives CCT.
 
 Befund
 Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Mäßig erweitert. Keine NPH-Konfiguration. Keine temporomesiale Betonung.
-Äußere Liquorräume: Mäßig erweitert.
+Innere Liquorräume: Mäßig erweitert. Keine NPH-Konfiguration.
+Äußere Liquorräume: Mäßig erweitert. Keine temporomesial betonte Atrophie.
 Mittellinie: Nicht verlagert.
 Mediazeichen: Nein.
 Mark-Rinden-Differenzierung: Allseits erhalten.
@@ -23,31 +23,30 @@ Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 
-
 Beurteilung
 Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demarkiert sich nicht.
 
-* MRT Gehirn
+* MRT Gehirn :: 8cmr
 Klinische Angaben
 
 Befund
 Diffusionsstörung: Nein.
 Pathologische Signalanhebungen in der T1w: Nein.
-Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration. Keine signifikante temporomesiale Atrophie.
-Äußere Liquorräume: Unauffällig.
+Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration.
+Äußere Liquorräume: Unauffällig. Keine signifikante temporomesiale Atrophie.
 Mittellinie: Nicht verlagert.
 Mark-Rinden-Differenzierung: Allseits erhalten.
 Basalganglien: Seitengleich abgrenzbar.
 Hirnstamm: Unauffällig.
 Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
-Marklager: Einzelne unspezifische Signalanhebungen im Bereich des periventrikulären Marklagers in der T2 und FLAIR.
-Nasennebenhöhlen: Unauffällige Signale soweit erfasst.
-Mastoidzellen: Unauffällige Signale soweit erfasst. Frei einsehbarer innerer Gehörgang.
+Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
+Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
+Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
 
 Beurteilung
 Einzelne unspezfische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
-* CT-NNH
+* CT-NNH :: 8cnnh
 Rechtfertigende Indikation
 Belüftung der Nasennebenhöhlen?
 
