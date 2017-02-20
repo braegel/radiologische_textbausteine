@@ -61,7 +61,7 @@ Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
 
-* MR-HWS
+* CT-HWS :: 8chws
 Rechtfertigende Indikation
 Spinale Enge? Degeneration?
 
