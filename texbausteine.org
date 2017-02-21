@@ -82,13 +82,13 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 
 Beurteilung
 
-* Schulter
+* MRT Schulter :: 8mschul
 Klinische Angaben
 
 Befund
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
-M. subscapularis: Unauffällige Darstellung.
-M. infraspinatus: Unauffällige Darstellung.
+M. subscapularis: Unauffällig.
+M. infraspinatus: Unauffällig.
 M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
