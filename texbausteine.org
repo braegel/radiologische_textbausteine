@@ -270,6 +270,26 @@ LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Sten
 
 Beurteilung
 
+* Knochendichte
+Technik
+CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
+
+Befund
+Die Knochendichte beträgt im Mittel:
+
+Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
+
+Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
+
+Beurteilung
+Altersentsprechende Osteopenie.
+
+* PRT
+Technik
+Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
+
+Beurteilung
+Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 * Knie
 Klinische Angaben
 
@@ -299,23 +319,5 @@ Sonstige Sehnen: unaufällig
 
 Beurteilung
 
-* Knochendichte
-Technik
-CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
-
-Befund
-Die Knochendichte beträgt im Mittel:
-
-Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
-
-Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
-
-Beurteilung
-Altersentsprechende Osteopenie.
-
-* PRT
-Technik
-Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
-
-Beurteilung
-Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
+* kleines
+- 8zv :: Zum Vergleich liegt eine Voruntersuchugn vom XXX vor.
