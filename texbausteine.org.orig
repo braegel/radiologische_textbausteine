@@ -61,14 +61,13 @@ Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
 
-* CT-HWS :: 8chws
+* MR-HWS
 Rechtfertigende Indikation
 Spinale Enge? Degeneration?
 
 Technik
 Spiral-CT der HWS.
 
-Befund
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
@@ -82,13 +81,13 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 
 Beurteilung
 
-* MRT Schulter :: 8mschul
+* Schulter
 Klinische Angaben
 
 Befund
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
-M. subscapularis: Unauffällig.
-M. infraspinatus: Unauffällig.
+M. subscapularis: Unauffällige Darstellung.
+M. infraspinatus: Unauffällige Darstellung.
 M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
@@ -96,10 +95,21 @@ Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knoch
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 
-* Rö Thx :: 8rthx
+* Rö Thx
 Rechtfertigende Indikation
 
+<<<<<<< HEAD
 Beurteilung:
+Paratracheale Linie: Unauffällig.
+Azygoösophageale Linie: Unauffällig.
+Paraspinale Linie: Unauffällig.
+Paraaortische Linie: Unauffällig.
+Zwerchfell: Scharf abgrenzbar.
+Randwinkel: Frei.
+Pleura: Kein Pneumothorax. Kein Pleuraerguss.
+=======
+Befund
+>>>>>>> c8f2d3644e7ba790a6975ddfd9140393afa62c81
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
 Mediastinum:
   Paratracheale Linie: Unauffällig
@@ -110,7 +120,7 @@ Hili: Unauffällig
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
 Pleura: Kein Pneumothorax. Scharf abgrenzbares Zwerchfell. Randwinkel frei. Kein Pleuraerguss.
 
-* CT Thorax :: 8cthx
+* CT Thorax
 Rechtfertigende Indikation
 
 Technik
@@ -154,70 +164,6 @@ Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
 
-* MR Mammografie
-
-Fragestellung: Malignom?
-
-Sequenzen:
-
-Befund
-
-Rechte Mamma:
-KM aufnehmende Herde:
-- Nein/Fokus/Masse/nicht-massig
-- Nicht weiter klassifizierbarer Fokus (<5mm)
-- KM-aufnehmende Masse
-  - Form der Masse: rund/oval/lobuliert/irregulär (suspekt)
-  - Rand der Masse: glatt/irregulär/spikuliert
-  - T1-reiche Signale innerhalb der Masse: ja (Gutartig: Lymphknoten, Fettnekrose, Hamartom - Verlaufskontrolle nötig zum Ausschluss eines Wachstums)/nein
-  - T2FS-reiche Signale innerhalb der Masse: ja/nein (suspekt).
-  - KM-Aufnahme: homogen/randständig (40%-ige Malignomwahrscheinlichkeit)/septiert
-  - Septierungen: nein/ja und KM-aufnehmend (suspekt)/ja aber nicht KM-aufnehmend (Fibroadenom)
-  - Nidus: ja (suspekt)/nein
-  - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
-- Nicht-massige KM-Aufnahme
-  - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-- Cutis: unauffällig
-- Mamille: unauffällig
-- Brustwand: unauffällig
-- Axilläre Lymphknoten: unauffällig
-
-Linke Mamma:
-KM aufnehmende Herde:
-- Nein/Fokus/Masse/nicht-massig
-- Nicht weiter klassifizierbarer Fokus (<5mm)
-- KM-aufnehmende Masse
-  - Form der Masse: rund/oval/lobuliert/irregulär (suspekt)
-  - Rand der Masse: glatt/irregulär/spikuliert
-  - T1-reiche Signale innerhalb der Masse: ja (Gutartig: Lymphknoten, Fettnekrose, Hamartom - Verlaufskontrolle nötig zum Ausschluss eines Wachstums)/nein
-  - T2FS-reiche Signale innerhalb der Masse: ja/nein (suspekt).
-  - KM-Aufnahme: homogen/randständig (40%-ige Malignomwahrscheinlichkeit)/septiert
-  - Septierungen: nein/ja und KM-aufnehmend (suspekt)/ja aber nicht KM-aufnehmend (Fibroadenom)
-  - Nidus: ja (suspekt)/nein
-  - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
-- Nicht-massige KM-Aufnahme
-  - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-- Cutis: unauffällig
-- Mamille: unauffällig
-- Brustwand: unauffällig
-- Axilläre Lymphknoten: unauffällig
-
-Beurteilung
-
-
-Bi-RADS rechts:
-Bi-RADS  links: 
-
-0 - weitere Diagnostik nötig
-1 - unauffällig
-2 - kein Malignom
-3 - Verlaufskontrolle nötig
-4 - Biopsie nötig
-5 - Mamma-Karzinom sehr wahrscheinlich
-6 - Bekanntes Karzinom
-
-Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
-Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
 * MR Ellenbogen
 
 Klinische Angaben:
