@@ -177,10 +177,11 @@ KM aufnehmende Herde:
   - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
 - Nicht-massige KM-Aufnahme
   - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-- Cutis: unauffällig
-- Mamille: unauffällig
-- Brustwand: unauffällig
-- Axilläre Lymphknoten: unauffällig
+Brustdrüsenkörper: unauffällig
+Cutis: unauffällig
+Mamille: unauffällig
+Brustwand: unauffällig
+Axilläre Lymphknoten: unauffällig
 
 Linke Mamma:
 KM aufnehmende Herde:
@@ -197,16 +198,16 @@ KM aufnehmende Herde:
   - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
 - Nicht-massige KM-Aufnahme
   - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-- Cutis: unauffällig
-- Mamille: unauffällig
-- Brustwand: unauffällig
-- Axilläre Lymphknoten: unauffällig
-
+Brustdrüsenkörper: unauffällig
+Cutis: unauffällig
+Mamille: unauffällig
+Brustwand: unauffällig
+Axilläre Lymphknoten: unauffällig
 Beurteilung
 
 
-Bi-RADS rechts:
-Bi-RADS  links: 
+Rechts Bi-RADS:
+Links Bi-RADS:: 
 
 0 - weitere Diagnostik nötig
 1 - unauffällig
