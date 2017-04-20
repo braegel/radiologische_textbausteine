@@ -149,6 +149,7 @@ Nebennieren: Unauffällig.
 Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
 Abdominale Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
 Darm: Soweit CT morphologisch beurteilbar unauffällig.
+Appendix: Durchmesser xx mm (Normwert < 7mm)
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
 
@@ -310,13 +311,13 @@ Beurteilung
 Klinische Angaben: Distorsion
 
 Befund
-Knochen: unaufällig
-Syndesmose: unaufällig
-Außenbänder: unaufällig
-Innenband: unaufällig
-Peronealsehnen: unaufällig
-Achillessehne: unaufällig
-Sonstige Sehnen: unaufällig
+Knochen: unauffällig
+Syndesmose: unauffällig
+Außenbänder: unauffällig
+Innenband: unauffällig
+Peronealsehnen: unauffällig
+Achillessehne: unauffällig
+Sonstige Sehnen: unauffällig
 
 Beurteilung
 
