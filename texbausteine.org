@@ -22,6 +22,7 @@ Basalganglien: Seitengleich abgrenzbar.
 Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demarkiert sich nicht.
@@ -42,6 +43,7 @@ Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
 Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
 Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
 Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 Einzelne unspezfische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
@@ -60,6 +62,7 @@ Sinus sphenoidales: Unauffällige Belüftung.
 Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 * CT-HWS :: 8chws
 Rechtfertigende Indikation
@@ -79,6 +82,7 @@ HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -92,6 +96,7 @@ M. infraspinatus: Unauffällig.
 M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
@@ -109,6 +114,7 @@ Mediastinum:
 Hili: Unauffällig
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
 Pleura: Kein Pneumothorax. Scharf abgrenzbares Zwerchfell. Randwinkel frei. Kein Pleuraerguss.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 * CT Thorax :: 8cthx
 Rechtfertigende Indikation
@@ -123,6 +129,7 @@ Nebennieren: Soweit erfasst unauffällig.
 Sonstige Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
 Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
 Skelettsystem: Degenerative Veränderungen.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
@@ -152,6 +159,7 @@ Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Appendix: Durchmesser xx mm (Normwert < 7mm)
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -162,6 +170,7 @@ Fragestellung: Malignom?
 Sequenzen:
 
 Befund
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Rechte Mamma:
 KM aufnehmende Herde:
@@ -228,7 +237,7 @@ Befund
 Distale Bizepssehne: Unauffällig
 Kollateralbänder: Unauffällig
 Knochen: Unauffällig
-
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 Beurteilung
 
 * CT Abdomen
@@ -251,6 +260,7 @@ Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und 
 Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -269,6 +279,7 @@ LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose
 LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -282,6 +293,8 @@ Die Knochendichte beträgt im Mittel:
 Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
 
 Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
+
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 Altersentsprechende Osteopenie.
@@ -304,6 +317,7 @@ Kollateralbänder:  unauffällig.
 Retropatellarer chondraler Gelenküberzug: unauffällig.
 Femorotibialer  chondraler Gelenküberzug: unauffällig.
 Erguss: Kein signifikanter Erguss.
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -318,6 +332,7 @@ Innenband: unauffällig
 Peronealsehnen: unauffällig
 Achillessehne: unauffällig
 Sonstige Sehnen: unauffällig
+Voraufnahmen: Liegen zum Befudungszeitpunkt nicht vor.
 
 Beurteilung
 
