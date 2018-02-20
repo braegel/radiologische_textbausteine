@@ -107,6 +107,25 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
+* MR-HWS :: 8mhws
+Fragestellung
+Spinale Enge? Degeneration?
+
+Befund
+Hinterkante: Harmonischer Verlauf.
+Höhenminderungen von Wirbelkörpern: Nein.
+Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+HWK1/2: Keine Fraktur.
+HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung
+
 * MRT Schulter :: 8mschul
 Klinische Angaben
 
@@ -124,8 +143,9 @@ Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Im
 
 * Rö Thx :: 8rthx
 Rechtfertigende Indikation
+Infiltrat? Stauung?
 
-Beurteilung:
+Befund
 Herz: Nicht vergrößert. Keine Zeichen einer akuten kardialen Dekompensation.
 Mediastinum:
   Paratracheale Linie: Unauffällig
@@ -136,6 +156,9 @@ Hili: Unauffällig
 Lunge: Ein umschriebenes flächiges Infiltrat lässt sich nicht abgrenzen.
 Pleura: Kein Pneumothorax. Scharf abgrenzbares Zwerchfell. Randwinkel frei. Kein Pleuraerguss.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung
+Kein richtungsweisender Befund.
 
 * CT Thorax :: 8cthx
 Rechtfertigende Indikation
@@ -285,8 +308,8 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
-* LWS
-Rechtfertigende Indikation
+* MR LWS :: 8mlws
+Fragestellung
 Lumbale Beschwerden. Degeneration?
 
 Befund
