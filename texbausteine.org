@@ -62,7 +62,28 @@ Sinus sphenoidales: Unauffällige Belüftung.
 Sinus maxillares: Unauffällige Belüftung.
 Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
+Nasenseptum: Leichte Deviation.
+Conchae nasalis: Unauffällig.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+* CT-Felsenbein :: 8cfb
+Rechtfertigende Indikation
+Pathologie der Felsenbeine?
+
+Technik
+Spiral-CT der Felsenbeine
+
+Befund
+Mastoidzellen: Unauffällige Belüftung.
+Bogengänge: Unauffällig.
+Gehörknöchelchen: Unauffällig.
+Äußerer Gehörgang: Unauffällig.
+Prussak-Raum: Unauffällig.
+Scutum: Unauffällig.
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung:
+Kein richtungsweisender Befund
 
 * CT-HWS :: 8chws
 Rechtfertigende Indikation
