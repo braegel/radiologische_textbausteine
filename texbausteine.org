@@ -87,7 +87,7 @@ Kein richtungsweisender Befund
 
 * CT-HWS :: 8chws
 Rechtfertigende Indikation
-Spinale Enge? Degeneration?
+Spinale Enge? Degeneration? Fraktur?
 
 Technik
 Spiral-CT der HWS.
