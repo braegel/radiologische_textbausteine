@@ -353,13 +353,13 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 Klinische Angaben
 
 Befund
-Außenmeniskus: unauffällig.
-Innenmeniskus: unauffällig.
-Hinteres Kreuzband: unauffällig.
-Vorderes Kreuzband: unauffällig.
-Kollateralbänder:  unauffällig.
-Retropatellarer chondraler Gelenküberzug: unauffällig.
-Femorotibialer  chondraler Gelenküberzug: unauffällig.
+Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
+Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
+Hinteres Kreuzband: Unauffällig.
+Vorderes Kreuzband: Unauffällig.
+Kollateralbänder:  Unauffällig.
+Retropatellarer chondraler Gelenküberzug: Unauffällig.
+Femorotibialer  chondraler Gelenküberzug: Unauffällig.
 Erguss: Kein signifikanter Erguss.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
@@ -382,3 +382,5 @@ Beurteilung
 
 * kleines
 - 8zv :: Zum Vergleich liegt eine Voruntersuchugn vom XXX vor.
+- 8bp :: Breitbasige dorsale Protrusion.
+- 8glsa :: Geringe lineare Signalanhebungen, die die Oberfläche nicht eindeutig überschreiten.
