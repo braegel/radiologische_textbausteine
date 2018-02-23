@@ -382,6 +382,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Beurteilung
 
 * kleines
-- 8zv :: Zum Vergleich liegt eine Voruntersuchugn vom XXX vor.
+- 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
 - 8bp :: Breitbasige dorsale Protrusion.
 - 8glsa :: Geringe lineare Signalanhebungen, die die Oberfläche nicht eindeutig überschreiten.
+- 8rm :: Rotatorenmanschette
