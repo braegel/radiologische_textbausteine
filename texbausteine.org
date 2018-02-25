@@ -9,7 +9,7 @@ Rechtfertigende Indikation
 Blutung? Ischämie? Hirndruck?
 
 Technik
-Sequentielles natives CCT.
+CCT nativ nach SOP.
 
 Befund
 Blutungssuspekte Dichteanhebungen: Nein.
