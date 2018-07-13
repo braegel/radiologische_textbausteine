@@ -180,7 +180,7 @@ Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 
 Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
-* CT Thorax-Abdomen
+* CT Thorax-Abdomen :: 8cthxabd
 Rechtfertigende Indikation
 
 Technik
@@ -207,7 +207,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
-* MR Mammografie
+* MR Mammografie :: 8mmammo
 
 Fragestellung: Malignom?
 
@@ -273,7 +273,7 @@ Links Bi-RADS::
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
-* MR Ellenbogen
+* MR Ellenbogen :: 8mell
 
 Klinische Angaben:
 
@@ -284,7 +284,7 @@ Knochen: Unauffällig
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Beurteilung
 
-* CT Abdomen
+* CT Abdomen :: 8cabd
 Rechtfertigende Indikation
 
 Technik
@@ -328,7 +328,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
-* Knochendichte
+* Knochendichte :: 8mkd
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
@@ -344,13 +344,13 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Beurteilung
 Altersentsprechende Osteopenie.
 
-* PRT
+* PRT :: 8mprt
 Technik
 Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
 
 Beurteilung
 Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
-* Knie
+* Knie :: 8mknie
 Klinische Angaben
 
 Befund
@@ -366,7 +366,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
-* OSG
+* MR OSG :: 8mosg
 Klinische Angaben: Distorsion
 
 Befund
@@ -375,8 +375,9 @@ Syndesmose: unauffällig
 Außenbänder: unauffällig
 Innenband: unauffällig
 Peronealsehnen: unauffällig
+Mediale Beugesehnen: 
 Achillessehne: unauffällig
-Sonstige Sehnen: unauffällig
+Strecksehnen: unauffällig
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
