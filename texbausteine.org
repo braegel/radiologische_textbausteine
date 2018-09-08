@@ -46,7 +46,7 @@ Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Ge
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
-Einzelne unspezifsche Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
+Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
 * CT-NNH :: 8cnnh
 Rechtfertigende Indikation
