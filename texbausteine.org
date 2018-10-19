@@ -128,6 +128,7 @@ Beurteilung
 
 * MRT Schulter :: 8mschul
 Klinische Angaben
+Verletzung der Rotatorenmanschette?
 
 Befund
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
