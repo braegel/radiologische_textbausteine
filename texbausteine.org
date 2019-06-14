@@ -329,6 +329,26 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
+* MR ISG :: 8misg
+Fragestellung:
+Sakroileitis?
+
+Technik:
+MRT der ISG nach SOP nativ.
+
+Befund:
+Paraartikuläre Osteitis: Nein
+Kapsulitis: Nein
+Enthesitis: Kein Anhalt
+Erosionen: Nein
+Fettmetaplasie des paraartikulären Knochenmarkes: Nein
+Transartikuläre Knochenbrücken: Nein
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung:
+Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
+Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
+
 * Knochendichte :: 8mkd
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
