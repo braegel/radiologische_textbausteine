@@ -13,7 +13,7 @@ CCT nativ nach SOP.
 
 Befund
 Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Mäßig erweitert. yKeine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
+Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
 Äußere Liquorräume: Mäßig erweitert. 
 Mittellinie: Nicht verlagert.
 Mediazeichen: Nein.
@@ -296,8 +296,9 @@ Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. K
 Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
+Arterien: Gefäßsklerose.
 Pfortader: Unauffällig.
-Aorta: Gefäßsklerose.
+Lebervenen: Unauffällig.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
 Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
