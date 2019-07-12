@@ -4,12 +4,33 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mi
 
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
 
-* CCT :: 8cct
-Rechtfertigende Indikation
-Blutung? Ischämie? Hirndruck?
+* CCT :: 8cctnorm
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
-Technik
-CCT nativ nach SOP.
+Technik: CCT nativ nach SOP.
+
+Befund
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Unauffällig.
+Äußere Liquorräume: Unauffällig. 
+Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar.
+Venöse Sinus: Soweit beurteilbar unauffällig.
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung
+- Kein Anhalt für eine intrakranielle Einblutung.
+- Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Keine Zeichen eines erhöhten Hirndruckes.
+
+* CCT alter Mensch :: 8cctalt
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nativ nach SOP.
 
 Befund
 Blutungssuspekte Dichteanhebungen: Nein.
@@ -25,7 +46,33 @@ Mastoidzellen: Unauffällige Belüftung soweit erfasst.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
-Keine Zeichen eines erhöhten Hirndruckes. Kein Anhalt für eine intrakranielle Einblutung. Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Kein Anhalt für eine intrakranielle Einblutung.
+- Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Keine Zeichen eines erhöhten Hirndruckes.
+
+* CCT alt + Mikroangiopathie und/oder Lakunen :: 8cctm
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nativ nach SOP.
+
+Befund
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
+Äußere Liquorräume: Mäßig erweitert.
+Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar. Dichteminderungen des periventrikulären Marklagers.
+Venöse Sinus: Soweit beurteilbar unauffällig.
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung
+- Kein Anhalt für eine intrakranielle Einblutung.
+- Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Dichteminderungen des periventrikulären Marklager, die unter anderem mit mikroangiopathischen und lakunären Veränderungen vereinbar sind. Das Alter lakunärer Veränderungen lässt sich mittels CT nicht zuverlässig einschätzen.
+- Keine Zeichen eines erhöhten Hirndruckes.
 
 * MRT Gehirn :: 8cmr
 Klinische Angaben
@@ -407,5 +454,8 @@ Beurteilung
 * kleines
 - 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
 - 8bp :: Breitbasige dorsale Protrusion.
+- 8be :: Breitbasige dorsale Extrusion.
 - 8glsa :: Geringe lineare Signalanhebungen, die die Oberfläche nicht eindeutig überschreiten.
 - 8rm :: Rotatorenmanschette
+- 8nph1 :: Deutlich erweitert. Spitzwinkeliges posteriores Corpus callosum.
+- 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
