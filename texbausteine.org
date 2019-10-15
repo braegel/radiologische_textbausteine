@@ -121,12 +121,13 @@ Technik
 Spiral-CT der Felsenbeine
 
 Befund
-Mastoidzellen: Unauffällige Belüftung.
-Bogengänge: Unauffällig.
-Gehörknöchelchen: Unauffällig.
-Äußerer Gehörgang: Unauffällig.
-Prussak-Raum: Unauffällig.
-Scutum: Unauffällig.
+Mastoidzellen: unauffällig
+Äußerer Gehörgang: unauffällig
+Gehörknöchelchen: unauffällig
+Prussak-Raum: unauffällig
+Scutum: unauffällig
+Lateraler Bogengang: unauffällig.
+Tegmen tympani: unauffällig
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung:
