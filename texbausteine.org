@@ -460,3 +460,13 @@ Beurteilung
 - 8rm :: Rotatorenmanschette
 - 8nph1 :: Deutlich erweitert. Spitzwinkeliges posteriores Corpus callosum.
 - 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
+- 8covid ::
+Checkliste COVID-19
+Milchglastrübung oder Konsolidierung vorhanden:
+Runde Morpholgie der Transparenzminderungen:
+Mehr als zwei Lungenlappen beteiligt:
+Beide Lungen beteiligt: 
+Keine axiale Lungenbeteiligung:
+Periphere Lungenbeteiligung:
+Crazy paving pattern:
+Reverser Halo:
