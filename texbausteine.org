@@ -470,3 +470,10 @@ Keine axiale Lungenbeteiligung:
 Periphere Lungenbeteiligung:
 Crazy paving pattern:
 Reverser Halo:
+- 8perf ::
+CT-Perfusion:
+Seitendifferenz TTP > 4s: nein
+Areale mit einer MTT > 6s: nein
+Areale mit einer CBF < 20 ml/100g/min: nein
+Areale mit einer CBV > 6 ml/100g: nein
+Areale mit einer CBV < 5 ml/100g: nein
