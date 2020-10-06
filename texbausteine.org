@@ -419,6 +419,29 @@ Beurteilung:
 Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
 Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
 
+* MR Hüfte (FAI):: 8mfai
+Fragestellung:
+Femoroacetabuläres Impingement
+
+Technik:
+MRT der Hüfte nach SOP
+
+Befund:
+Doppellinienzeichen: nein
+Erguss: nein
+Checkliste FAI:
+Retroverison des superioren acetabulären Randes:  (NW >0°)
+Lateraler center-edge-angle: (NW 25-35, Overcoverage ab > 40°)
+Protrusio acetabuli: nein
+Pathologisch verbreiterter Schenkelhals: nein
+"Pistolengriffdeformität": nein
+Abgrenzbarer Einriss im Labrum: nein
+Abgrenzbarer Knorpeldefekt: nein
+Ödem am anterolateralen medialen Schenkelhals: nein
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Beurteilung:
+
 * Knochendichte :: 8mkd
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
