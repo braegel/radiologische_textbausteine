@@ -4,6 +4,26 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mi
 
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
 
+* Ganzkörper CT :: 8cgk
+Rechtfertigene Indikation: Osteolysen?
+
+Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
+
+Befund:
+Keine sichere Beurteilbarkeit der Weichteile bei Niedrigdosistechnik.
+Schädel: Unauffällig.
+HWS: Unauffällig.
+Obere Extremität soweit ersasst: Unauffällig.
+Rippen: Unauffällig.
+BWS: Unauffällig.
+Lunge: Unauffällig.
+LWS: Unauffällig.
+Becken: Unauffällig.
+Untere extremität soweit erfasst: Unauffällig.
+
+Beurteilung:
+Kein Nachweis von Osteolysen
+
 * CCT :: 8cctnorm
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
@@ -163,6 +183,7 @@ Befund
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Myelon: Unauffällig.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -471,9 +492,12 @@ Periphere Lungenbeteiligung:
 Crazy paving pattern:
 Reverser Halo:
 - 8perf ::
+
 CT-Perfusion:
-Seitendifferenz TTP > 4s: nein
-Areale mit einer MTT > 6s: nein
-Areale mit einer CBF < 20 ml/100g/min: nein
+Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
+Seitendifferenz TTP > 4s: ja/nein
+Areale mit einer MTT > 6s: ja/nein
+Areale mit einer CBF < 15 ml/100g/min: nein
 Areale mit einer CBV > 6 ml/100g: nein
-Areale mit einer CBV < 5 ml/100g: nein
+Areale mit einer CBV < 2 ml/100g: nein/CBV-ASPECT-Score: 10 (experimentell)
+TTD/CBV-Mismatch: ja/nein/nicht beurteilbar, bei ACI Verschluss
