@@ -481,18 +481,30 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Beurteilung
 
 * MR OSG :: 8mosg
-Klinische Angaben: Distorsion
+Klinische Angaben:
+Distorsion
+
+Technik:
+MRT des OSG nach SOP nativ
 
 Befund
-Knochen: unauffällig
-Syndesmose: unauffällig
-Außenbänder: unauffällig
-Innenband: unauffällig
-Peronealsehnen: unauffällig
-Mediale Beugesehnen: 
-Achillessehne: unauffällig
-Strecksehnen: unauffällig
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Voraufnahmen: Zum Befundungszeitpunkt liegen keine Voraufnahmen vor.
+Knochen: Unauffällig/Os trigonum.
+Gelenke: Kein Erguss. Keine Kapselverbreiterungen in der T1w.
+Bänder:
+  Syndesmose: Unauffällig.
+  Lig. fibulotalare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
+  Lig. fibulotalare post.: Unauffällig.
+  Lig. fibulcalcaneare.: Unauffällig.
+  Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
+  Lig. deltoideum (tiefer Anteil): Unauffällig.
+  Plantarfascie: Unauffällig.
+Sehnen:
+  Mediale Beugesehnen: Unauffällig.
+  Strecksehnen: Unauffällig
+  Achillessehne: Unauffällig. Keine Bursitis. Keine Haglundexostose.
+  Peronealsehnen: Unauffällig.
+Akzessorische Muskeln: Nein.
 
 Beurteilung
 
