@@ -535,4 +535,4 @@ Areale mit einer MTT > 6s: ja/nein
 Areale mit einer CBF < 15 ml/100g/min: nein
 Areale mit einer CBV > 6 ml/100g: nein
 Areale mit einer CBV < 2 ml/100g: nein/CBV-ASPECT-Score: 10 (experimentell, da nicht einheitlich definiert)
-TTD/CBV-Mismatch: ja/nein/nicht beurteilbar, bei ACI Verschluss
+MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/bei Tandemverschluss
