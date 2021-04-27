@@ -343,6 +343,24 @@ Links Bi-RADS::
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
+* Rö Handgelenk
+Rechtfertigende Indikation:
+Schmerzen
+
+Technik:
+Röntgen des Handgelenkes in zwei Ebenen
+
+Befund:
+Knochen: Unauffällig
+Scapholunärer Spalt (NW <= 3mm):
+Karpaler Bogen I: Unauffällig
+Karpaler Bogen II: Unauffällig
+Karpaler Bogen III: Unauffällig
+Scapholunärer Winkel (NW 30-60°):
+Capitolunärer Winkel (NW <30°): 
+
+Beurteilung:
+
 * MR Ellenbogen :: 8mell
 
 Klinische Angaben:
