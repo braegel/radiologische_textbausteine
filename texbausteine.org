@@ -397,6 +397,26 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
+* MR Becken :: 8mbecken
+Fragestellung
+Schmerzen
+
+Technik
+MRT des Beckens nach SOP
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+ISG: unauffällig
+Hüftgelenke: unauffällig
+Übrige Knochen: unauffällig
+Hüftmuskulatur und Sehnen: unauffällig
+Bursa trochanterica: unauffällig 
+Lymphknoten: unauffällig
+Übrige Weichteile: unauffällig 
+
+Beurteilung
+Kein richtungsweisender Befund.
+
 * MR LWS :: 8mlws
 Fragestellung
 Lumbale Beschwerden. Degeneration?
