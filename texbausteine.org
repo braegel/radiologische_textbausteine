@@ -223,7 +223,7 @@ Stauungszeichen:
   Vergrößertes Arterie-zu-Bronchus-Verhältnis: Nein
   Vergrößertes Herz: nein
   Verbreiterte Pedikel: Kein Anhalt
-  Kerley-Linien:: nein
+  Kerley-Linien: nein
   Peribronchiales Cuffing: Nein
   Unscharfe zentrale intrapulmonale Gefäße: Nein
   Verbreitete interlobäre Fissuren: Nein
