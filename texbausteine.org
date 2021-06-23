@@ -217,26 +217,37 @@ Infiltrat? Stauung?
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor
-Blutumverteilung: Kein Anhalt
-Vergrößertes Arterie-zu-Bronchus-Verhältnis: Nein
-Vergrößertes Herz: nein
-Verbreiterte Pedikel: Kein Anhalt
-Kerley-Linien:: nein
-Peribronchiales Cuffing: Nein
-Unscharfe zentrale intrapulmonale Gefäße: Nein
-Verbreitete interlobäre Fissuren: Nein
-Konsolidierungen: Nein
-Bronchopneumogramme: Nein
-Pleuraerguss: Nein
+
+Stauungszeichen:
+  Blutumverteilung: Kein Anhalt
+  Vergrößertes Arterie-zu-Bronchus-Verhältnis: Nein
+  Vergrößertes Herz: nein
+  Verbreiterte Pedikel: Kein Anhalt
+  Kerley-Linien:: nein
+  Peribronchiales Cuffing: Nein
+  Unscharfe zentrale intrapulmonale Gefäße: Nein
+  Verbreitete interlobäre Fissuren: Nein
+
+
 Mediastinum:
   Paratracheale Linie: Unauffällig
   Azygoösophageale Linie: Unauffällig
   Paraspinale Linie: Unauffällig
   Paraaortische Linie: Unauffällig
-Hili: Unauffällig
-Zwerchfell: Scharf abgrenzbar. Randwinkel frei.
-Pneumothorax: nein
+  Hili: Unauffällig
 
+Lunge:
+  Raumforderungen: Nein
+  Konsolidierungen: Nein
+  Bronchopneumogramme: Nein
+  Parenchym: Unauffällig
+  "Hidden Areas": Unauffällig
+  
+Pleura:
+  Zwerchfell: Scharf abgrenzbar. Randwinkel frei.
+  Pleuraerguss: nein
+  Pneumothorax: nein
+  
 Beurteilung
 Kein richtungsweisender Befund.
 
