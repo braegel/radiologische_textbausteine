@@ -282,7 +282,7 @@ Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Thorax und des gesamten
 Befund
 Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
-Lungenparenchym: Einzelne unspezifisch pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
+Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
 Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
@@ -399,7 +399,7 @@ Beurteilung
 Rechtfertigende Indikation
 
 Technik
-Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
+Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
 
 Befund
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. Keine freie Luft.
