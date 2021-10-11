@@ -366,6 +366,26 @@ Links Bi-RADS::
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
+* Rö Hände :: 8ra
+Rechtfertigende Indikation:
+Schmerzen.
+
+Technik:
+Röntgen beider Hände in zwei Ebenen.
+
+Checkliste Rheumatoide Arthritis:
+Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
+Osteopenie: juxtaartikulär/diffus
+Erosionen: Ausgedünnte Kortikalis/Mouse ears/Subchondrale Erosionen/Proc. styloideus ulnae/radii/Pencil in cup/Destruktion der distalen Ulna/ Destruktion der proximalen Handwurzelknochen
+Knorpelschäden: verbreitete Gelenke/verschmälerte Gelenkerguss
+Subchondrale Zysten: nein
+Capping des Proc. styloideus ulnae: nein
+Malalignement der Handwurzel: nein
+Malalignement der Finger: nein
+
+Beurteilung:
+Kein richtungsweisender Befund.
+
 * Rö Handgelenk
 Rechtfertigende Indikation:
 Schmerzen
