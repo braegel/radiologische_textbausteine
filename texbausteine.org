@@ -112,6 +112,7 @@ Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
 Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
+
 Beurteilung
 Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
 
@@ -607,8 +608,15 @@ Keine axiale Lungenbeteiligung:
 Periphere Lungenbeteiligung:
 Crazy paving pattern:
 Reverser Halo:
+- 8epil ::
+Checkliste Epilepsie
+Polymikrogyrie: Nein
+Fokale kortikale Dysplasie: Nein
+Anhalt für Neurokutanae Syndrome: Nein
+Heterotpie: Nein
+Kavernom: Nein
+Mesotemporale-Sklerose: Nein
 - 8perf ::
-
 CT-Perfusion:
 Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
 Seitendifferenz TTP > 4s: ja/nein
