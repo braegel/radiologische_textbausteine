@@ -613,7 +613,7 @@ Checkliste Epilepsie
 Polymikrogyrie: Nein
 Fokale kortikale Dysplasie: Nein
 Anhalt für Neurokutanae Syndrome: Nein
-Heterotpie: Nein
+Heterotopie: Nein
 Kavernom: Nein
 Mesotemporale-Sklerose: Nein
 - 8perf ::
