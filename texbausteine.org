@@ -441,6 +441,28 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
+* MR Abdomen :: 8mabd
+Fragestellung
+
+Technik
+MRT des Abdomens nach SOP.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss.
+Leber: Homogenes Leberparenchym.
+Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
+Bauchspeicheldrüse: Unauffällig.
+Milz: Unauffällig.
+Nebennieren: Unauffällig.
+Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
+Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
+Darm: Soweit MR morphologisch beurteilbar unauffällig.
+Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
+Skelettsystem: Degenerative Veränderungen.
+
+Beurteilung
+
 * MR Becken :: 8mbecken
 Fragestellung
 Schmerzen
@@ -466,6 +488,7 @@ Fragestellung
 Lumbale Beschwerden. Degeneration?
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Numerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderung von Wirbelkörpern: Nein.
@@ -477,7 +500,6 @@ LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose
 LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -546,6 +568,7 @@ Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bi
 
 Beurteilung
 Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
+
 * Knie :: 8mknie
 Klinische Angaben
 
@@ -556,7 +579,7 @@ Hinteres Kreuzband: Unauffällig.
 Vorderes Kreuzband: Unauffällig.
 Kollateralbänder:  Unauffällig.
 Retropatellarer chondraler Gelenküberzug: Unauffällig.
-Femorotibialer  chondraler Gelenküberzug: Unauffällig.
+Femorotibialer chondraler Gelenküberzug: Unauffällig.
 Erguss: Kein signifikanter Erguss.
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
