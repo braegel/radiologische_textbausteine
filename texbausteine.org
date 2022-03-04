@@ -1,4 +1,4 @@
-Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Mittel: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
+Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
 
@@ -463,6 +463,39 @@ Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
 
+* Becken-Bein-Angio :: 8cbba
+Rechtfertigende Indikation
+Schmerzen
+
+Technik
+CT Angiografie der Becken-Bein-Arterien nach SOP
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Aorta: unauffällig
+Links:
+  A. iliaca communis: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+Rechts:
+  A. iliaca communis: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+Knochen: unauffällig. 
+Lymphknoten: unauffällig
+Weichteile: unauffällig
+Übrige Weichteile: unauffällig 
+
+Beurteilung
+Kein richtungsweisender Befund.
+
+
 * MR Becken :: 8mbecken
 Fragestellung
 Schmerzen
@@ -573,6 +606,7 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 Klinische Angaben
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
 Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
 Hinteres Kreuzband: Unauffällig.
@@ -580,8 +614,11 @@ Vorderes Kreuzband: Unauffällig.
 Kollateralbänder:  Unauffällig.
 Retropatellarer chondraler Gelenküberzug: Unauffällig.
 Femorotibialer chondraler Gelenküberzug: Unauffällig.
+M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
+M. quardiceps femoris: Unauffällig, soweit erfasst
+M. gastrocnemius: Unauffällig, soweit erfasst.
+M. popliteus: Unauffällig.
 Erguss: Kein signifikanter Erguss.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
