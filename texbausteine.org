@@ -637,9 +637,9 @@ Knochen: Unauffällig/Os trigonum.
 Gelenke: Kein Erguss. Keine Kapselverbreiterungen in der T1w.
 Bänder:
   Syndesmose: Unauffällig.
-  Lig. fibulotalare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
-  Lig. fibulotalare post.: Unauffällig.
-  Lig. fibulcalcaneare.: Unauffällig.
+  Lig. talofibulare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
+  Lig. talofibulare post.: Unauffällig.
+  Lig. calcaneofibulare: Unauffällig.
   Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
   Lig. deltoideum (tiefer Anteil): Unauffällig.
   Plantarfascie: Unauffällig.
