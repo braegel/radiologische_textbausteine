@@ -10,6 +10,7 @@ Rechtfertigene Indikation: Osteolysen?
 Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
 
 Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Keine sichere Beurteilbarkeit der Weichteile bei Niedrigdosistechnik.
 Schädel: Unauffällig.
 HWS: Unauffällig.
@@ -30,6 +31,7 @@ Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 Technik: CCT nativ nach SOP.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Blutungssuspekte Dichteanhebungen: Nein.
 Innere Liquorräume: Unauffällig.
 Äußere Liquorräume: Unauffällig. 
@@ -40,7 +42,6 @@ Basalganglien: Seitengleich abgrenzbar.
 Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 - Kein Anhalt für eine intrakranielle Einblutung.
@@ -53,6 +54,7 @@ Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 Technik: CCT nativ nach SOP.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Blutungssuspekte Dichteanhebungen: Nein.
 Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
 Äußere Liquorräume: Mäßig erweitert. 
@@ -63,7 +65,6 @@ Basalganglien: Seitengleich abgrenzbar.
 Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 - Kein Anhalt für eine intrakranielle Einblutung.
@@ -76,6 +77,7 @@ Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 Technik: CCT nativ nach SOP.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Blutungssuspekte Dichteanhebungen: Nein.
 Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
 Äußere Liquorräume: Mäßig erweitert.
@@ -86,7 +88,6 @@ Basalganglien: Seitengleich abgrenzbar. Dichteminderungen des periventrikulären
 Venöse Sinus: Soweit beurteilbar unauffällig.
 Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
 Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 - Kein Anhalt für eine intrakranielle Einblutung.
@@ -98,6 +99,7 @@ Beurteilung
 Klinische Angaben
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Diffusionsstörung: Nein.
 Pathologische Signalanhebungen in der T1w: Nein.
 Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration.
@@ -110,8 +112,6 @@ Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
 Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
 Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
 Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-
 
 Beurteilung
 Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
@@ -124,6 +124,7 @@ Technik
 Spiral-CT der Nasennebenhöhlen
 
 Beurteilung
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Sinus frontales: Unauffällige Belüftung.
 Sinus ethmoidales: Unauffällige Belüftung.
 Sinus sphenoidales: Unauffällige Belüftung.
@@ -132,7 +133,6 @@ Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
 Nasenseptum: Leichte Deviation. Keine Perforationen.
 Conchae nasalis: Unauffällig.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 * CT-Felsenbein :: 8cfb
 Rechtfertigende Indikation
@@ -142,6 +142,7 @@ Technik
 Spiral-CT der Felsenbeine
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Mastoidzellen: unauffällig
 Äußerer Gehörgang: unauffällig
 Gehörknöchelchen: unauffällig
@@ -149,7 +150,6 @@ Prussak-Raum: unauffällig
 Scutum: unauffällig
 Lateraler Bogengang: unauffällig.
 Tegmen tympani: unauffällig
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung:
 Kein richtungsweisender Befund
@@ -162,6 +162,7 @@ Technik
 Spiral-CT der HWS.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
@@ -172,7 +173,6 @@ HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -181,6 +181,7 @@ Fragestellung
 Spinale Enge? Degeneration?
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
 Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
@@ -192,7 +193,6 @@ HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -201,13 +201,13 @@ Klinische Angaben
 Verletzung der Rotatorenmanschette?
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällig.
 M. infraspinatus: Unauffällig.
 M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
 Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
@@ -261,13 +261,13 @@ Technik
 Spiral-CT des Thorax unter intravenöser Kontrastmittelgabe.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Nebennieren: Soweit erfasst unauffällig.
 Sonstige Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
 Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
 Skelettsystem: Degenerative Veränderungen.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
@@ -281,6 +281,7 @@ Technik
 Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Thorax und des gesamten Abdomens in der portalvenösen Phase.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Axilla: Einzelne nicht suspekte Lymphknoten.
 Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
 Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
@@ -297,7 +298,6 @@ Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Appendix: Durchmesser xx mm (Normwert < 7mm)
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -374,6 +374,7 @@ Schmerzen.
 Technik:
 Röntgen beider Hände in zwei Ebenen.
 
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Checkliste Rheumatoide Arthritis:
 Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
 Osteopenie: juxtaartikulär/diffus
@@ -395,6 +396,7 @@ Technik:
 Röntgen des Handgelenkes in zwei Ebenen
 
 Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Knochen: Unauffällig
 Scapholunärer Spalt (NW <= 3mm):
 Karpaler Bogen I: Unauffällig
@@ -410,10 +412,10 @@ Beurteilung:
 Klinische Angaben:
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Distale Bizepssehne: Unauffällig
 Kollateralbänder: Unauffällig
 Knochen: Unauffällig
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Beurteilung
 
 * CT Abdomen :: 8cabd
@@ -423,6 +425,7 @@ Technik
 Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. Keine freie Luft.
 Leber: Homogenes Leberparenchym.
 Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
@@ -437,7 +440,6 @@ Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und 
 Darm: Soweit CT morphologisch beurteilbar unauffällig.
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 
@@ -544,13 +546,13 @@ Technik:
 MRT der ISG nach SOP nativ.
 
 Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Paraartikuläre Osteitis: Nein
 Kapsulitis: Nein
 Enthesitis: Kein Anhalt
 Erosionen: Nein
 Fettmetaplasie des paraartikulären Knochenmarkes: Nein
 Transartikuläre Knochenbrücken: Nein
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung:
 Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
@@ -564,6 +566,7 @@ Technik:
 MRT der Hüfte nach SOP
 
 Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Doppellinienzeichen: nein
 Erguss: nein
 Checkliste FAI:
@@ -575,7 +578,6 @@ Pathologisch verbreiterter Schenkelhals: nein
 Abgrenzbarer Einriss im Labrum: nein
 Abgrenzbarer Knorpeldefekt: nein
 Ödem am anterolateralen medialen Schenkelhals: nein
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung:
 
@@ -584,13 +586,12 @@ Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
 Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Die Knochendichte beträgt im Mittel:
 
 Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
 
 Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
-
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Beurteilung
 Altersentsprechende Osteopenie.
