@@ -95,7 +95,7 @@ Beurteilung
 - Dichteminderungen des periventrikulären Marklager, die unter anderem mit mikroangiopathischen und lakunären Veränderungen vereinbar sind. Das Alter lakunärer Veränderungen lässt sich mittels CT nicht zuverlässig einschätzen.
 - Keine Zeichen eines erhöhten Hirndruckes.
 
-* MRT Gehirn :: 8cmr
+* MRT Gehirn :: 8mc
 Klinische Angaben
 
 Befund
@@ -165,7 +165,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
-Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -184,7 +184,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
-Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
 Myelon: Unauffällig.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -270,9 +270,7 @@ Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraergu
 Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
-Einzelne unspezifische pulmonale Verdichtungen. Kein richtungsweisender Befund.
 
-Einzelne kleine unspezifische ovaläre Verdichtungen. Verlaufskontrolle in 3 Monaten mittels Niedrigdosis-CT angeraten.
 
 * CT Thorax-Abdomen :: 8cthxabd
 Rechtfertigende Indikation
