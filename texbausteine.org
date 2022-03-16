@@ -694,3 +694,10 @@ T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Una
 T2-hyperintense Herde im Putamen oder im Globus pallidus: Unauffällig.
 ADC des Putamens und des Nucleus caudatus: Unauffällig. 
 Putamen: Unauffällig.
+
+- 8eisengehirn ::
+Checkliste Eisenablagerung:
+T1-Signalanhebung bilateral symmetrisch der Substantia nigra: nein
+T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
+T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
+  
