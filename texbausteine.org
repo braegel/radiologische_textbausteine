@@ -697,7 +697,7 @@ Putamen: Unauffällig.
 
 - 8eisengehirn ::
 Checkliste Eisenablagerung:
-T1-Signalanhebung bilateral symmetrisch der Substantia nigra: nein
+T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
 T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
 T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
   
