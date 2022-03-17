@@ -173,6 +173,8 @@ Larynx: Unauffällig.
 Trachea: Unauffällig.
 Schilddrüse: Unauffällig.
 Lymphknoten: Unauffällig.
+Basal mit erfasste Hirnabschnitte: Unauffällig.
+Myelon: Unauffällig.
 Übrige Weichteile: Unauffällig.
 Knochen: Unauffällig.
 
