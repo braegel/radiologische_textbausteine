@@ -154,6 +154,31 @@ Tegmen tympani: unauffällig
 Beurteilung:
 Kein richtungsweisender Befund
 
+* MR-Hals :: 8mhals
+Fragestellung:
+Lymphknoten?
+
+Technik:
+MRT des Halses nach SOP.
+
+Befund:
+Voraufnahmen: Es liegen keine Voraufnahmen vor.
+Nasennebenhöhlen: Unauffällig, soweit erfasst.
+Nasopharynx: Unauffällig.
+Oropharynx: Unauffällig.
+Glandula parotis: Unauffällig.
+Glandula submandibularis: Unauffällig.
+Glandula sublingualis: Unauffällig.
+Larynx: Unauffällig.
+Trachea: Unauffällig.
+Schilddrüse: Unauffällig.
+Lymphknoten: Unauffällig.
+Übrige Weichteile: Unauffällig.
+Knochen: Unauffällig.
+
+Beurteilung:
+
+
 * CT-HWS :: 8chws
 Rechtfertigende Indikation
 Spinale Enge? Degeneration? Fraktur?
