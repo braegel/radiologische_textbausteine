@@ -163,7 +163,7 @@ MRT des Halses nach SOP.
 
 Befund:
 Voraufnahmen: Es liegen keine Voraufnahmen vor.
-Nasennebenhöhlen: Unauffällig, soweit erfasst.
+Nasennebenhöhlen, soweit erfasst: Unauffällig, soweit erfasst.
 Nasopharynx: Unauffällig.
 Oropharynx: Unauffällig.
 Glandula parotis: Unauffällig.
