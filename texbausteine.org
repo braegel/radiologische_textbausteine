@@ -432,6 +432,25 @@ Capitolunärer Winkel (NW <30°):
 
 Beurteilung:
 
+* MR Handgelenk :: 8mhg
+Klinische Angaben:
+Schmerzen
+
+Technik:
+MRT des Handgelenkes nach SOP
+
+Befund:
+Knochen: Unauffällig.
+SL-Abstand: Unauffällig.
+Gelenke: Unauffällig.
+TFCC: Unauffällig.
+Strecksehen: Unauffällig.
+Beugesehnen: Unauffällig.
+Muskulatur: Unauffällig.
+Übrige Weichteile: Unauffällig.
+
+Beurteilung:
+
 * MR Ellenbogen :: 8mell
 
 Klinische Angaben:
@@ -441,7 +460,9 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Distale Bizepssehne: Unauffällig
 Kollateralbänder: Unauffällig
 Knochen: Unauffällig
-Beurteilung
+
+Beurteilung:
+
 
 * CT Abdomen :: 8cabd
 Rechtfertigende Indikation
