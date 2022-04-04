@@ -225,10 +225,9 @@ Beurteilung
 
 * MRT Schulter :: 8mschul
 Klinische Angaben
-Verletzung der Rotatorenmanschette?
 
 Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Bursa subacromialis-subdeltoidea: Unauffällig.
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällig.
 M. infraspinatus: Unauffällig.
