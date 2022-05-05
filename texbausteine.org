@@ -336,17 +336,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 Rechte Mamma:
 KM aufnehmende Herde:
-- Nein/Fokus/Masse/nicht-massig
-- Nicht weiter klassifizierbarer Fokus (<5mm)
-- KM-aufnehmende Masse
-  - Form der Masse: rund/oval/lobuliert/irregulär (suspekt)
-  - Rand der Masse: glatt/irregulär/spikuliert
-  - T1-reiche Signale innerhalb der Masse: ja (Gutartig: Lymphknoten, Fettnekrose, Hamartom - Verlaufskontrolle nötig zum Ausschluss eines Wachstums)/nein
-  - T2FS-reiche Signale innerhalb der Masse: ja/nein (suspekt).
-  - KM-Aufnahme: homogen/randständig (40%-ige Malignomwahrscheinlichkeit)/septiert
-  - Septierungen: nein/ja und KM-aufnehmend (suspekt)/ja aber nicht KM-aufnehmend (Fibroadenom)
-  - Nidus: ja (suspekt)/nein
-  - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
+- Masse 7mm mit irregulärer Form und irregulärem Rand, relativ signalreich in der T1 DD auch Lymphknoten, Fettnekrose, Hamartom), mit Signalanhebung mit Nidus in der STIR. KM Kinetik Typ II-III.
 - Nicht-massige KM-Aufnahme
   - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
 Brustdrüsenkörper: unauffällig
@@ -544,8 +534,7 @@ Kein richtungsweisender Befund.
 
 
 * MR Becken :: 8mbecken
-
-  Fragestellung
+Fragestellung
 Schmerzen
 
 Technik
@@ -749,3 +738,11 @@ T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
 T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
 T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
   
+-8ac ::
+Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"):
+T1-Signalminderung im Rotatorinterval: nein
+T1w-Verbreiterung des Ligamentum coracohumerale (LCH): nein
+T1w-Verbreiterung des axillärer Rezessus: nein
+Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
+Perikapsuläres Ödem: nein
+
