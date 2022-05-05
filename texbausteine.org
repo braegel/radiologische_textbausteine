@@ -442,14 +442,17 @@ Muskulatur: Unauffällig.
 Beurteilung:
 
 * MR Ellenbogen :: 8mell
-
 Klinische Angaben:
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Humeroulnares Gelenk: Unauffällig.
+Humeroradiales Gelenk: Unauffällig.
+Proximales radioulnares Gelenk: Unauffällig.
+Epicondylen: Unauffällig.
 Distale Bizepssehne: Unauffällig
 Kollateralbänder: Unauffällig
-Knochen: Unauffällig
+Übrige Weichteile: Unauffällig.
 
 Beurteilung:
 
