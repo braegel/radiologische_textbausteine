@@ -223,11 +223,12 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 
 Beurteilung
 
-* MRT Schulter :: 8mschul
+* MRT Schulter :: 8ms
 Klinische Angaben
 
 Befund
 Bursa subacromialis-subdeltoidea: Unauffällig.
+Bursa subcoracoidea: Unauffällig.
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällig.
 M. infraspinatus: Unauffällig.
