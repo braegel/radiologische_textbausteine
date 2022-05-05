@@ -697,52 +697,52 @@ Beurteilung
 - 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
 - 8covid ::
 Checkliste COVID-19
-Milchglastrübung oder Konsolidierung vorhanden:
-Runde Morpholgie der Transparenzminderungen:
-Mehr als zwei Lungenlappen beteiligt:
-Beide Lungen beteiligt: 
-Keine axiale Lungenbeteiligung:
-Periphere Lungenbeteiligung:
-Crazy paving pattern:
-Reverser Halo:
+  Milchglastrübung oder Konsolidierung vorhanden: nein
+  Runde Morpholgie der Transparenzminderungen: nein
+  Mehr als zwei Lungenlappen beteiligt: nein
+  Beide Lungen beteiligt: nein
+  Keine axiale Lungenbeteiligung: nein
+  Periphere Lungenbeteiligung: nein
+  Crazy paving pattern: nein
+  Reverser Halo: nein
 - 8epil ::
 Checkliste Epilepsie
-Polymikrogyrie: Nein
-Fokale kortikale Dysplasie: Nein
-Anhalt für Neurokutanae Syndrome: Nein
-Heterotopie: Nein
-Kavernom: Nein
-Mesotemporale-Sklerose: Nein
+  Polymikrogyrie: Nein
+  Fokale kortikale Dysplasie: Nein
+  Anhalt für Neurokutanae Syndrome: Nein
+  Heterotopie: Nein
+  Kavernom: Nein
+  Mesotemporale-Sklerose: Nein
 - 8perf ::
 CT-Perfusion:
-Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
-Seitendifferenz TTP > 4s: ja/nein
-Areale mit einer MTT > 6s: ja/nein
-Areale mit einer CBF < 15 ml/100g/min: nein
-Areale mit einer CBV > 6 ml/100g: nein
-Areale mit einer CBV < 2 ml/100g: nein/CBV-ASPECT-Score: 10 (experimentell, da nicht einheitlich definiert)
-MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/bei Tandemverschluss
+  Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
+  Seitendifferenz TTP > 4s: ja/nein
+  Areale mit einer MTT > 6s: ja/nein
+  Areale mit einer CBF < 15 ml/100g/min: nein
+  Areale mit einer CBV > 6 ml/100g: nein
+  Areale mit einer CBV < 2 ml/100g: nein/CBV-ASPECT-Score: 10 (experimentell, da nicht einheitlich definiert)
+  MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/bei Tandemverschluss
 
 - 8parkinson ::
 Checkliste M. Parkinson:
-Vergrößerte Sulci und innere Ventrikel: gering
-Substanzia nigra in der T2w: Unauffällig. 
-T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Unauffällig. 
-T2-hyperintense Herde im Putamen oder im Globus pallidus: Unauffällig.
-ADC des Putamens und des Nucleus caudatus: Unauffällig. 
-Putamen: Unauffällig.
+  Vergrößerte Sulci und innere Ventrikel: gering
+  Substanzia nigra in der T2w: Unauffällig. 
+  T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Unauffällig. 
+  T2-hyperintense Herde im Putamen oder im Globus pallidus: Unauffällig.
+  ADC des Putamens und des Nucleus caudatus: Unauffällig. 
+  Putamen: Unauffällig.
 
 - 8eisengehirn ::
 Checkliste Eisenablagerung:
-T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
-T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
-T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
+  T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
+  T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
+  T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
   
 -8cak ::
 Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"):
-T1-Signalminderung im Rotatorinterval: nein
-T1w-Verbreiterung des Ligamentum coracohumerale (LCH): nein
-T1w-Verbreiterung des axillärer Rezessus: nein
-Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
-Perikapsuläres Ödem: nein
+  T1-Signalminderung im Rotatorinterval: nein
+  T1w-Verbreiterung des Ligamentum coracohumerale (LCH): nein
+  T1w-Verbreiterung des axillärer Rezessus: nein
+  Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
+  Perikapsuläres Ödem: nein
 
