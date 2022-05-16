@@ -238,7 +238,7 @@ Checkliste Impingement:
   Acromion Typ: 2
   Ligamentum coracoacromiale: Unauffällig.
   Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
-Arthropatie der Rotatorenmanschette: Nein (Hamada Typ 1)
+Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
 Sonstiger Knochen: Unauffällig. 
 
 Beurteilung
@@ -763,4 +763,23 @@ Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"):
   T1w-Verbreiterung des axillärer Rezessus: nein
   Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
   Perikapsuläres Ödem: nein
+
+-8cpa :: 
+Charakterisierung Raumforderung der Bauchspeicheldrüse:
+  Lokalisation: periampullär/Kopf/Körper/Schwanz
+  Morphologie: solide/zystisch/gemischt
+  Größter Durchmesser [mm]:
+  Kontrastierung: vermindert
+  Ductus hepatocholedochus [mm]:
+  Ductus pancreaticus [mm]:
+  Eingelegter Stent: nein
+  Pankreasparenchym: Unauffällig/Atroph/Ödematös
+  Truncus coeliacus: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
+  Arteria mesenterica superior: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
+  Arteria hepatica: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
+  Mesenterialvenen:
+    Kontakt: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
+    Stenose: nein/<%50%/>50%/Verschluss/Thrombose
+  Lokale Invasion: Kein Anhalt/Peripankreatisches Fettgewebe/Mesenterialwurzel/Vena cava inferior/Aorta/Duodenum/Kolon transversum
+  Radiologische TNM, soweit erfasst:
 
