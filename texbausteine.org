@@ -232,13 +232,27 @@ Bursa subcoracoidea: Unauffällig.
 Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
 M. subscapularis: Unauffällig.
 M. infraspinatus: Unauffällig.
-M. supraspinatus: In den wassersensitiven Sequenzen zeigen sich Signalanhebungen entlang und innerhalb der Supraspinatussehne.
+M. supraspinatus: Unauffällig. Gelenkseitige/Bursaseitige/Interne Partialruptur mit einer Breite von mm (Footprint/PASTA)./Inkomplette/Komplette "full thickness" Ruptur.
 Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
-Knochen: AC-Gelenksarthrose mit Kapselschwellung und kleiner subakromialer Knochenkonsole mit konsekutivem Impingement der Supraspinatussehne.
+Checkliste Impingement:
+  Acromion Typ: 2
+  Ligamentum coracoacromiale: Unauffällig.
+  Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
+Arthropatie der Rotatorenmanschette: Nein (Hamada Typ 1)
+Sonstiger Knochen: Unauffällig. 
 
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 
+Hamada Klassifikation der Arthropathie der Rotatorenmanschette:
+1. Acromiohumeraler Abstand > 6 mm
+2. Acromiohumeraler Abstand < 5 mm
+3. Acromiohumeraler Abstand < 5 mm und Acetabularisierung des coracoacromialen Bogens
+4. Verschmälerung des glenohumeralen Gelenkes
+   4a) ohne Acetabularisierung
+   4b) mit Acetabularisierung
+5. Nekrose des Humeruskopfes manchmal mit Kollaps des Humeruskopfes
+    
 * Rö Thx :: 8rthx
 Rechtfertigende Indikation
 Infiltrat? Stauung?
