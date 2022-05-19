@@ -665,7 +665,8 @@ Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in
 Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
 Hinteres Kreuzband: Unauffällig.
 Vorderes Kreuzband: Unauffällig.
-Kollateralbänder:  Unauffällig.
+Mediales Kollateralband: Unauffällig.
+Laterales Kollateralband: Unauffällig.
 Retropatellarer chondraler Gelenküberzug: Unauffällig.
 Femorotibialer chondraler Gelenküberzug: Unauffällig.
 M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
