@@ -784,3 +784,21 @@ Charakterisierung Raumforderung der Bauchspeicheldrüse:
   Lokale Invasion: Kein Anhalt/Peripankreatisches Fettgewebe/Mesenterialwurzel/Vena cava inferior/Aorta/Duodenum/Kolon transversum
   Radiologische TNM, soweit erfasst:
 
+8cpt:
+Checkliste pulsatiler Tinnitus:
+  Idiopathische intrakranielle Hypertension: Kein Anhalt.
+  Glomus jugulare Paragagnliom: Kein Anhalt.
+  Durale arteriovenöse Fistel: Kein Anhalt.
+  Glomus tympanicum Paragangliom: Kein Anhalt.
+  Temporales Menigeom: Kein Anhalt.
+  Karotis-Cavernosus Fistel: Kein Anhalt.
+  Intracerebrale arteriovenöse Fistel: Kein Anhalt.
+  ACI-Stenose: Kein Anhalt.
+  ACI-Dissektion: Kein Anhalt.
+  Fibromuskuläre Dysplasie der Karotis: Kein Anhalt.
+  Dehiszenz des semizirkulären Kanals: Kein Anhalt.
+  Stenose der Hirnsinus: Kein Anhalt.
+  Divertikel des Sinus transversus: Kein Anhalt.
+  Cochleäre Otosklerose: Kein Anhalt.
+  Aberante ACI: Kein Anhalt.
+  
