@@ -623,7 +623,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Doppellinienzeichen: nein
 Erguss: nein
 Checkliste FAI:
-  Retroverison des superioren acetabulären Randes:  (NW >0°)
+  Retroversion des superioren acetabulären Randes:  (NW >0°)
   Lateraler center-edge-angle: (NW 25-35, Overcoverage ab > 40°)
   Protrusio acetabuli: nein
   Pathologisch verbreiterter Schenkelhals: nein
