@@ -576,7 +576,6 @@ Fragestellung
 Lumbale Beschwerden. Degeneration?
 
 Befund
-Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
 Hinterkante: Harmonischer Verlauf.
@@ -584,6 +583,7 @@ Höhenminderung von Wirbelkörpern: Nein.
 Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
 Facettengelenke: Multisegmentale nach kaudal zunehmende Facettenhypertrophie.
 ISG: Mäßig degenerativ verändert.
+Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet.
 LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
