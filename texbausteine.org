@@ -576,6 +576,7 @@ Fragestellung
 Lumbale Beschwerden. Degeneration?
 
 Befund
+Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
 Hinterkante: Harmonischer Verlauf.
@@ -805,7 +806,7 @@ Checkliste pulsatiler Tinnitus:
 8casbest:
 Checkliste Asbestose:
   Retikulationen: nein
-  Zentrilobuläre punktförmige oder verzeigte Verdichtungen: nein
+  Zentrilobuläre punktförmige oder verzweigte Verdichtungen: nein
   Parallel zur Pleura verlaufende Bänder: nein
   Rechtwinklig zur Pleura verlaufende Bänder mit einer Länge von 2-5 cm: nein
   Mosaikmuster: nein
