@@ -3,257 +3,48 @@ Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier We
 * CC-Lizenz zur freien Verwendung
 
 Die Texte sind zur freien Verwendung mit der [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 International License]] Lizenz versehen.
-
-* Ganzkörper CT :: 8cgk
-Rechtfertigene Indikation: Osteolysen?
-
-Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
-
-Befund:
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Keine sichere Beurteilbarkeit der Weichteile bei Niedrigdosistechnik.
-Schädel: Unauffällig.
-HWS: Unauffällig.
-Obere Extremität soweit erfasst: Unauffällig.
-Rippen: Unauffällig.
-BWS: Unauffällig.
-Lunge: Unauffällig.
-LWS: Unauffällig.
-Becken: Unauffällig.
-Untere Extremität soweit erfasst: Unauffällig.
-
-Beurteilung:
-Kein Nachweis von Osteolysen
-
-* CCT :: 8cctnorm
-Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
-
-Technik: CCT nativ nach SOP.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Unauffällig.
-Äußere Liquorräume: Unauffällig. 
-Mittellinie: Nicht verlagert.
-Mediazeichen: Nein.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar.
-Venöse Sinus: Soweit beurteilbar unauffällig.
-Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
-Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-
-Beurteilung
-Kein Anhalt für eine intrakranielle Einblutung.
-Ein frischer territorialer Infarkt demarkiert sich nicht.
-Keine Zeichen eines erhöhten Hirndruckes.
-
-* CCT alter Mensch :: 8cctalt
-Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
-
-Technik: CCT nativ nach SOP.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
-Äußere Liquorräume: Mäßig erweitert. 
-Mittellinie: Nicht verlagert.
-Mediazeichen: Nein.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar.
-Venöse Sinus: Soweit beurteilbar unauffällig.
-Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
-Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-
-Beurteilung
-- Kein Anhalt für eine intrakranielle Einblutung.
-- Ein frischer territorialer Infarkt demarkiert sich nicht.
-- Keine Zeichen eines erhöhten Hirndruckes.
-
-* CCT alt + Mikroangiopathie und/oder Lakunen :: 8cctm
-Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
-
-Technik: CCT nativ nach SOP.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
-Äußere Liquorräume: Mäßig erweitert.
-Mittellinie: Nicht verlagert.
-Mediazeichen: Nein.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar. Dichteminderungen des periventrikulären Marklagers.
-Venöse Sinus: Soweit beurteilbar unauffällig.
-Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
-Mastoidzellen: Unauffällige Belüftung soweit erfasst.
-
-Beurteilung
-- Kein Anhalt für eine intrakranielle Einblutung.
-- Ein frischer territorialer Infarkt demarkiert sich nicht.
-- Dichteminderungen des periventrikulären Marklager, die unter anderem mit mikroangiopathischen und lakunären Veränderungen vereinbar sind. Das Alter lakunärer Veränderungen lässt sich mittels CT nicht zuverlässig einschätzen.
-- Keine Zeichen eines erhöhten Hirndruckes.
-
-* MRT Gehirn :: 8mc
-Klinische Angaben
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Diffusionsstörung: Nein.
-Pathologische Signalanhebungen in der T1w: Nein.
-Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration.
-Äußere Liquorräume: Unauffällig. Keine signifikante temporomesiale Atrophie.
-Mittellinie: Nicht verlagert.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar.
-Hirnstamm: Unauffällig.
-Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
-Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
-Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
-Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
-
-Beurteilung
-Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
-
-* CT-NNH :: 8cnnh
-Rechtfertigende Indikation
-Belüftung der Nasennebenhöhlen?
-
-Technik
-Spiral-CT der Nasennebenhöhlen
-
-Beurteilung
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Sinus frontales: Unauffällige Belüftung.
-Sinus ethmoidales: Unauffällige Belüftung.
-Sinus sphenoidales: Unauffällige Belüftung.
-Sinus maxillares: Unauffällige Belüftung.
-Mastoidzellen: Unauffällige Belüftung.
-Spiegelbildungen: Nein.
-Nasenseptum: Leichte Deviation. Keine Perforationen.
-Conchae nasalis: Unauffällig.
-
-* CT-Felsenbein :: 8cfb
-Rechtfertigende Indikation
-Pathologie der Felsenbeine?
-
-Technik
-Spiral-CT der Felsenbeine
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Mastoidzellen: unauffällig
-Äußerer Gehörgang: unauffällig
-Gehörknöchelchen: unauffällig
-Prussak-Raum: unauffällig
-Scutum: unauffällig
-Lateraler Bogengang: unauffällig.
-Tegmen tympani: unauffällig
-
-Beurteilung:
-Kein richtungsweisender Befund
-
-* MR-Hals :: 8mhals
-Fragestellung:
-Lymphknoten?
+* Röntgen
+** Rö Handgelenk
+Rechtfertigende Indikation:
+Schmerzen
 
 Technik:
-MRT des Halses nach SOP.
+Röntgen des Handgelenkes in zwei Ebenen
 
 Befund:
-Voraufnahmen: Es liegen keine Voraufnahmen vor.
-Nasennebenhöhlen, soweit erfasst: Unauffällig.
-Nasopharynx: Unauffällig.
-Oropharynx: Unauffällig.
-Glandula parotis: Unauffällig.
-Glandula submandibularis: Unauffällig.
-Glandula sublingualis: Unauffällig.
-Larynx: Unauffällig.
-Trachea: Unauffällig.
-Schilddrüse: Unauffällig.
-Lymphknoten: Unauffällig.
-Basal mit erfasste Hirnabschnitte: Unauffällig.
-Myelon: Unauffällig.
-Übrige Weichteile: Unauffällig.
-Knochen: Unauffällig.
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Knochen: Unauffällig
+Scapholunärer Spalt (NW <= 3mm):
+Karpaler Bogen I: Unauffällig
+Karpaler Bogen II: Unauffällig
+Karpaler Bogen III: Unauffällig
+Scapholunärer Winkel (NW 30-60°):
+Capitolunärer Winkel (NW <30°): 
 
 Beurteilung:
 
+** Rö Hände :: 8ra
+Rechtfertigende Indikation:
+Schmerzen.
 
-* CT-HWS :: 8chws
-Rechtfertigende Indikation
-Spinale Enge? Degeneration? Fraktur?
+Technik:
+Röntgen beider Hände in zwei Ebenen.
 
-Technik
-Spiral-CT der HWS.
-
-Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Hinterkante: Harmonischer Verlauf.
-Höhenminderungen von Wirbelkörpern: Nein.
-Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
-HWK1/2: Keine Fraktur.
-HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+Checkliste Rheumatoide Arthritis:
+Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
+Osteopenie: juxtaartikulär/diffus
+Erosionen: Ausgedünnte Kortikalis/Mouse ears/Subchondrale Erosionen/Proc. styloideus ulnae/radii/Pencil in cup/Destruktion der distalen Ulna/ Destruktion der proximalen Handwurzelknochen
+Knorpelschäden: verbreitete Gelenke/verschmälerte Gelenkerguss
+Subchondrale Zysten: nein
+Capping des Proc. styloideus ulnae: nein
+Malalignement der Handwurzel: nein
+Malalignement der Finger: nein
 
-Beurteilung
+Beurteilung:
+Kein richtungsweisender Befund.
 
-* MR-HWS :: 8mhws
-Fragestellung
-Spinale Enge? Degeneration?
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Hinterkante: Harmonischer Verlauf.
-Höhenminderungen von Wirbelkörpern: Nein.
-Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
-Myelon: Unauffällig.
-HWK1/2: Keine Fraktur.
-HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
-
-Beurteilung
-
-* MRT Schulter :: 8ms
-Klinische Angaben
-
-Befund
-Bursa subacromialis-subdeltoidea: Unauffällig.
-Bursa subcoracoidea: Unauffällig.
-Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
-M. subscapularis: Unauffällig.
-M. infraspinatus: Unauffällig.
-M. supraspinatus: Unauffällig. Gelenkseitige/Bursaseitige/Interne Partialruptur mit einer Breite von mm (Footprint/PASTA)./Inkomplette/Komplette "full thickness" Ruptur.
-Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
-Checkliste Impingement:
-  Acromion Typ: 2
-  Ligamentum coracoacromiale: Unauffällig.
-  Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
-Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
-Sonstiger Knochen: Unauffällig. 
-
-Beurteilung
-Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
-
-Hamada Klassifikation der Arthropathie der Rotatorenmanschette:
-1. Acromiohumeraler Abstand > 6 mm
-2. Acromiohumeraler Abstand < 5 mm
-3. Acromiohumeraler Abstand < 5 mm und Acetabularisierung des coracoacromialen Bogens
-4. Verschmälerung des glenohumeralen Gelenkes
-   4a) ohne Acetabularisierung
-   4b) mit Acetabularisierung
-5. Nekrose des Humeruskopfes manchmal mit Kollaps des Humeruskopfes
-    
-* Rö Thx :: 8rthx
+** Rö Thx :: 8rthx
 Rechtfertigende Indikation
 Infiltrat? Stauung?
 
@@ -295,7 +86,135 @@ Pleura:
 Beurteilung
 Kein richtungsweisender Befund.
 
-* CT Thorax :: 8cthx
+* CT
+** CCT :: 8cctnorm
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nativ nach SOP.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Unauffällig.
+Äußere Liquorräume: Unauffällig. 
+Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar.
+Venöse Sinus: Soweit beurteilbar unauffällig.
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+
+Beurteilung
+Kein Anhalt für eine intrakranielle Einblutung.
+Ein frischer territorialer Infarkt demarkiert sich nicht.
+Keine Zeichen eines erhöhten Hirndruckes.
+
+** CCT alt + Mikroangiopathie und/oder Lakunen :: 8cctm
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nativ nach SOP.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
+Äußere Liquorräume: Mäßig erweitert.
+Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar. Dichteminderungen des periventrikulären Marklagers.
+Venöse Sinus: Soweit beurteilbar unauffällig.
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+
+Beurteilung
+- Kein Anhalt für eine intrakranielle Einblutung.
+- Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Dichteminderungen des periventrikulären Marklager, die unter anderem mit mikroangiopathischen und lakunären Veränderungen vereinbar sind. Das Alter lakunärer Veränderungen lässt sich mittels CT nicht zuverlässig einschätzen.
+- Keine Zeichen eines erhöhten Hirndruckes.
+
+** CCT alter Mensch :: 8cctalt
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nativ nach SOP.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Nein.
+Innere Liquorräume: Mäßig erweitert. Keine typische NPH-Konfiguration. Keine eindeutige temporomesial betonte Atrophie. Unauffällige Breite der Temporalhörner.
+Äußere Liquorräume: Mäßig erweitert. 
+Mittellinie: Nicht verlagert.
+Mediazeichen: Nein.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar.
+Venöse Sinus: Soweit beurteilbar unauffällig.
+Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
+Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+
+Beurteilung
+- Kein Anhalt für eine intrakranielle Einblutung.
+- Ein frischer territorialer Infarkt demarkiert sich nicht.
+- Keine Zeichen eines erhöhten Hirndruckes.
+
+** CT Abdomen :: 8cabd
+Rechtfertigende Indikation
+
+Technik
+Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. Keine freie Luft.
+Leber: Homogenes Leberparenchym.
+Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
+Bauchspeicheldrüse: Unauffällig.
+Arterien: Gefäßsklerose.
+Pfortader: Unauffällig.
+Lebervenen: Unauffällig.
+Milz: Unauffällig.
+Nebennieren: Unauffällig.
+Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
+Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
+Darm: Soweit CT morphologisch beurteilbar unauffällig.
+Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
+Skelettsystem: Degenerative Veränderungen.
+
+Beurteilung
+
+** CT Becken-Bein-Angio :: 8cbba
+Rechtfertigende Indikation
+Schmerzen
+
+Technik
+CT Angiografie der Becken-Bein-Arterien nach SOP
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Aorta: unauffällig
+Links:
+  A. iliaca communis: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+Rechts:
+  A. iliaca communis: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+Knochen: unauffällig. 
+Lymphknoten: unauffällig
+Weichteile: unauffällig
+Übrige Weichteile: unauffällig 
+
+Beurteilung
+Kein richtungsweisender Befund.
+
+** CT Thorax :: 8cthx
 Rechtfertigende Indikation
 
 Technik
@@ -312,8 +231,7 @@ Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
 
-
-* CT Thorax-Abdomen :: 8cthxabd
+** CT Thorax-Abdomen :: 8cthxabd
 Rechtfertigende Indikation
 
 Technik
@@ -340,7 +258,269 @@ Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
 
-* MR Mammografie :: 8mmammo
+** CT-Felsenbein :: 8cfb
+Rechtfertigende Indikation
+Pathologie der Felsenbeine?
+
+Technik
+Spiral-CT der Felsenbeine
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Mastoidzellen: unauffällig
+Äußerer Gehörgang: unauffällig
+Gehörknöchelchen: unauffällig
+Prussak-Raum: unauffällig
+Scutum: unauffällig
+Lateraler Bogengang: unauffällig.
+Tegmen tympani: unauffällig
+
+Beurteilung:
+Kein richtungsweisender Befund
+
+** CT-HWS :: 8chws
+Rechtfertigende Indikation
+Spinale Enge? Degeneration? Fraktur?
+
+Technik
+Spiral-CT der HWS.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Hinterkante: Harmonischer Verlauf.
+Höhenminderungen von Wirbelkörpern: Nein.
+Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+HWK1/2: Keine Fraktur.
+HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+
+Beurteilung
+
+** CT-NNH :: 8cnnh
+Rechtfertigende Indikation
+Belüftung der Nasennebenhöhlen?
+
+Technik
+Spiral-CT der Nasennebenhöhlen
+
+Beurteilung
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Sinus frontales: Unauffällige Belüftung.
+Sinus ethmoidales: Unauffällige Belüftung.
+Sinus sphenoidales: Unauffällige Belüftung.
+Sinus maxillares: Unauffällige Belüftung.
+Mastoidzellen: Unauffällige Belüftung.
+Spiegelbildungen: Nein.
+Nasenseptum: Leichte Deviation. Keine Perforationen.
+Conchae nasalis: Unauffällig.
+
+** Ganzkörper CT :: 8cgk
+Rechtfertigene Indikation: Osteolysen?
+
+Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
+
+Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Keine sichere Beurteilbarkeit der Weichteile bei Niedrigdosistechnik.
+Schädel: Unauffällig.
+HWS: Unauffällig.
+Obere Extremität soweit erfasst: Unauffällig.
+Rippen: Unauffällig.
+BWS: Unauffällig.
+Lunge: Unauffällig.
+LWS: Unauffällig.
+Becken: Unauffällig.
+Untere Extremität soweit erfasst: Unauffällig.
+
+Beurteilung:
+Kein Nachweis von Osteolysen
+
+** Knochendichte :: 8mkd
+Technik
+CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Die Knochendichte beträgt im Mittel:
+
+Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
+
+Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
+
+Beurteilung
+Altersentsprechende Osteopenie.
+
+* MRT
+** Knie :: 8mknie
+Beurteilung
+Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
+
+Klinische Angaben
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
+Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
+Hinteres Kreuzband: Unauffällig.
+Vorderes Kreuzband: Unauffällig.
+Mediales Kollateralband: Unauffällig.
+Laterales Kollateralband: Unauffällig.
+Retropatellarer chondraler Gelenküberzug: Unauffällig.
+Femorotibialer chondraler Gelenküberzug: Unauffällig.
+M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
+M. quardiceps femoris: Unauffällig, soweit erfasst
+M. gastrocnemius: Unauffällig, soweit erfasst.
+M. popliteus: Unauffällig.
+Tractus iliotibialis: Unauffällig.
+Hoffa-Fettkörper: Unauffällig.
+Erguss: Kein signifikanter Erguss.
+
+Beurteilung
+** MR Abdomen :: 8mabd
+Fragestellung
+
+Technik
+MRT des Abdomens nach SOP.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss.
+Leber: Homogenes Leberparenchym.
+Gallenwege: Kein Nachweis von Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
+Bauchspeicheldrüse: Unauffällig.
+Milz: Unauffällig.
+Nebennieren: Unauffällig.
+Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
+Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
+Darm: Soweit MR morphologisch beurteilbar unauffällig.
+Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
+Skelettsystem: Degenerative Veränderungen.
+
+Beurteilung
+
+** MR Becken :: 8mbecken
+Fragestellung
+Schmerzen
+
+Technik
+MRT des Beckens nach SOP
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+ISG: unauffällig
+Hüftgelenke: unauffällig
+Übrige Knochen: unauffällig
+Hüftmuskulatur und Sehnen: unauffällig
+Bursa trochanterica: unauffällig 
+Lymphknoten: unauffällig
+Übrige Weichteile: unauffällig 
+
+Beurteilung
+Kein richtungsweisender Befund.
+
+** MR Ellenbogen :: 8mell
+Klinische Angaben:
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Humeroulnares Gelenk: Unauffällig.
+Humeroradiales Gelenk: Unauffällig.
+Proximales radioulnares Gelenk: Unauffällig.
+Epicondylen: Unauffällig.
+Distale Bizepssehne: Unauffällig
+Kollateralbänder: Unauffällig
+Übrige Weichteile: Unauffällig.
+
+Beurteilung:
+
+** MR Handgelenk :: 8mhg
+Klinische Angaben:
+Schmerzen
+
+Technik:
+MRT des Handgelenkes nach SOP
+
+Befund:
+Knochen: Unauffällig.
+SL-Abstand: Unauffällig.
+Gelenke: Unauffällig.
+TFCC: Unauffällig.
+Strecksehen: Unauffällig.
+Beugesehnen: Unauffällig.
+Muskulatur: Unauffällig.
+Übrige Weichteile: Unauffällig.
+
+Beurteilung:
+
+** MR Hüfte (FAI):: 8mfai
+Fragestellung:
+Femoroacetabuläres Impingement
+
+Technik:
+MRT der Hüfte nach SOP
+
+Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Doppellinienzeichen: nein
+Erguss: nein
+Checkliste FAI:
+  Retroversion des superioren acetabulären Randes:  (NW >0°)
+  Lateraler center-edge-angle: (NW 25-35, Overcoverage ab > 40°)
+  Protrusio acetabuli: nein
+  Pathologisch verbreiterter Schenkelhals: nein
+  "Pistolengriffdeformität": nein
+  Abgrenzbarer Einriss im Labrum: nein
+  Abgrenzbarer Knorpeldefekt: nein
+  Ödem am anterolateralen medialen Schenkelhals: nein
+
+Beurteilung:
+
+** MR ISG :: 8misg
+Fragestellung:
+Sakroileitis?
+
+Technik:
+MRT der ISG nach SOP nativ.
+
+Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Paraartikuläre Osteitis: Nein
+Kapsulitis: Nein
+Enthesitis: Kein Anhalt
+Erosionen: Nein
+Fettmetaplasie des paraartikulären Knochenmarkes: Nein
+Transartikuläre Knochenbrücken: Nein
+
+Beurteilung:
+Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
+Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
+
+** MR LWS :: 8mlws
+Fragestellung
+Lumbale Beschwerden. Degeneration?
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
+Hinterkante: Harmonischer Verlauf.
+Höhenminderung von Wirbelkörpern: Nein.
+Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
+Facettengelenke: Multisegmentale nach kaudal zunehmende Facettenhypertrophie.
+ISG: Mäßig degenerativ verändert.
+Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet.
+LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+
+Beurteilung
+
+** MR Mammografie :: 8mmammo
 
 Fragestellung: Malignom?
 
@@ -396,290 +576,7 @@ Links Bi-RADS::
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
-* Rö Hände :: 8ra
-Rechtfertigende Indikation:
-Schmerzen.
-
-Technik:
-Röntgen beider Hände in zwei Ebenen.
-
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Checkliste Rheumatoide Arthritis:
-Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
-Osteopenie: juxtaartikulär/diffus
-Erosionen: Ausgedünnte Kortikalis/Mouse ears/Subchondrale Erosionen/Proc. styloideus ulnae/radii/Pencil in cup/Destruktion der distalen Ulna/ Destruktion der proximalen Handwurzelknochen
-Knorpelschäden: verbreitete Gelenke/verschmälerte Gelenkerguss
-Subchondrale Zysten: nein
-Capping des Proc. styloideus ulnae: nein
-Malalignement der Handwurzel: nein
-Malalignement der Finger: nein
-
-Beurteilung:
-Kein richtungsweisender Befund.
-
-* Rö Handgelenk
-Rechtfertigende Indikation:
-Schmerzen
-
-Technik:
-Röntgen des Handgelenkes in zwei Ebenen
-
-Befund:
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Knochen: Unauffällig
-Scapholunärer Spalt (NW <= 3mm):
-Karpaler Bogen I: Unauffällig
-Karpaler Bogen II: Unauffällig
-Karpaler Bogen III: Unauffällig
-Scapholunärer Winkel (NW 30-60°):
-Capitolunärer Winkel (NW <30°): 
-
-Beurteilung:
-
-* MR Handgelenk :: 8mhg
-Klinische Angaben:
-Schmerzen
-
-Technik:
-MRT des Handgelenkes nach SOP
-
-Befund:
-Knochen: Unauffällig.
-SL-Abstand: Unauffällig.
-Gelenke: Unauffällig.
-TFCC: Unauffällig.
-Strecksehen: Unauffällig.
-Beugesehnen: Unauffällig.
-Muskulatur: Unauffällig.
-Übrige Weichteile: Unauffällig.
-
-Beurteilung:
-
-* MR Ellenbogen :: 8mell
-Klinische Angaben:
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Humeroulnares Gelenk: Unauffällig.
-Humeroradiales Gelenk: Unauffällig.
-Proximales radioulnares Gelenk: Unauffällig.
-Epicondylen: Unauffällig.
-Distale Bizepssehne: Unauffällig
-Kollateralbänder: Unauffällig
-Übrige Weichteile: Unauffällig.
-
-Beurteilung:
-
-
-* CT Abdomen :: 8cabd
-Rechtfertigende Indikation
-
-Technik
-Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. Keine freie Luft.
-Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
-Bauchspeicheldrüse: Unauffällig.
-Arterien: Gefäßsklerose.
-Pfortader: Unauffällig.
-Lebervenen: Unauffällig.
-Milz: Unauffällig.
-Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
-Darm: Soweit CT morphologisch beurteilbar unauffällig.
-Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
-Skelettsystem: Degenerative Veränderungen.
-
-Beurteilung
-
-* MR Abdomen :: 8mabd
-Fragestellung
-
-Technik
-MRT des Abdomens nach SOP.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss.
-Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis von Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
-Bauchspeicheldrüse: Unauffällig.
-Milz: Unauffällig.
-Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
-Darm: Soweit MR morphologisch beurteilbar unauffällig.
-Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
-Skelettsystem: Degenerative Veränderungen.
-
-Beurteilung
-
-* Becken-Bein-Angio :: 8cbba
-Rechtfertigende Indikation
-Schmerzen
-
-Technik
-CT Angiografie der Becken-Bein-Arterien nach SOP
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Aorta: unauffällig
-Links:
-  A. iliaca communis: unauffällig
-  A. femoralis superficialis: unauffällig
-  A. poplitea: unauffällig
-  A. tibialis anterior: unauffällig
-  A. tibialis posterior: unauffällig
-  A. fibularis: unauffällig
-Rechts:
-  A. iliaca communis: unauffällig
-  A. femoralis superficialis: unauffällig
-  A. poplitea: unauffällig
-  A. tibialis anterior: unauffällig
-  A. tibialis posterior: unauffällig
-  A. fibularis: unauffällig
-Knochen: unauffällig. 
-Lymphknoten: unauffällig
-Weichteile: unauffällig
-Übrige Weichteile: unauffällig 
-
-Beurteilung
-Kein richtungsweisender Befund.
-
-
-* MR Becken :: 8mbecken
-Fragestellung
-Schmerzen
-
-Technik
-MRT des Beckens nach SOP
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-ISG: unauffällig
-Hüftgelenke: unauffällig
-Übrige Knochen: unauffällig
-Hüftmuskulatur und Sehnen: unauffällig
-Bursa trochanterica: unauffällig 
-Lymphknoten: unauffällig
-Übrige Weichteile: unauffällig 
-
-Beurteilung
-Kein richtungsweisender Befund.
-
-* MR LWS :: 8mlws
-Fragestellung
-Lumbale Beschwerden. Degeneration?
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
-Hinterkante: Harmonischer Verlauf.
-Höhenminderung von Wirbelkörpern: Nein.
-Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
-Facettengelenke: Multisegmentale nach kaudal zunehmende Facettenhypertrophie.
-ISG: Mäßig degenerativ verändert.
-Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet.
-LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-
-Beurteilung
-
-* MR ISG :: 8misg
-Fragestellung:
-Sakroileitis?
-
-Technik:
-MRT der ISG nach SOP nativ.
-
-Befund:
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Paraartikuläre Osteitis: Nein
-Kapsulitis: Nein
-Enthesitis: Kein Anhalt
-Erosionen: Nein
-Fettmetaplasie des paraartikulären Knochenmarkes: Nein
-Transartikuläre Knochenbrücken: Nein
-
-Beurteilung:
-Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
-Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
-
-* MR Hüfte (FAI):: 8mfai
-Fragestellung:
-Femoroacetabuläres Impingement
-
-Technik:
-MRT der Hüfte nach SOP
-
-Befund:
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Doppellinienzeichen: nein
-Erguss: nein
-Checkliste FAI:
-  Retroversion des superioren acetabulären Randes:  (NW >0°)
-  Lateraler center-edge-angle: (NW 25-35, Overcoverage ab > 40°)
-  Protrusio acetabuli: nein
-  Pathologisch verbreiterter Schenkelhals: nein
-  "Pistolengriffdeformität": nein
-  Abgrenzbarer Einriss im Labrum: nein
-  Abgrenzbarer Knorpeldefekt: nein
-  Ödem am anterolateralen medialen Schenkelhals: nein
-
-Beurteilung:
-
-* Knochendichte :: 8mkd
-Technik
-CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Die Knochendichte beträgt im Mittel:
-
-Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
-
-Im Vergleich zum Normalkollektiv (20 jährige Erwachsene) weicht dieser Wert um XXX Standartabweichungen ab (T-Wert).
-
-Beurteilung
-Altersentsprechende Osteopenie.
-
-* PRT :: 8mprt
-Technik
-Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
-
-Beurteilung
-Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
-
-* Knie :: 8mknie
-Klinische Angaben
-
-Befund
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
-Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
-Hinteres Kreuzband: Unauffällig.
-Vorderes Kreuzband: Unauffällig.
-Mediales Kollateralband: Unauffällig.
-Laterales Kollateralband: Unauffällig.
-Retropatellarer chondraler Gelenküberzug: Unauffällig.
-Femorotibialer chondraler Gelenküberzug: Unauffällig.
-M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
-M. quardiceps femoris: Unauffällig, soweit erfasst
-M. gastrocnemius: Unauffällig, soweit erfasst.
-M. popliteus: Unauffällig.
-Tractus iliotibialis: Unauffällig.
-Hoffa-Fettkörper: Unauffällig.
-Erguss: Kein signifikanter Erguss.
-
-Beurteilung
-* MR OSG :: 8mosg
+** MR OSG :: 8mosg
 Klinische Angaben:
 Distorsion
 
@@ -707,16 +604,129 @@ Akzessorische Muskeln: Nein.
 
 Beurteilung
 
-* kleines
-- 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
-- 8bp :: Breitbasige dorsale Protrusion.
-- 8be :: Breitbasige dorsale Extrusion.
-- 8glsa :: Geringe lineare Signalanhebungen, die die Oberfläche nicht eindeutig überschreiten.
-- 8rm :: Rotatorenmanschette
-- 8nph1 :: Deutlich erweitert. Spitzwinkeliges posteriores Corpus callosum.
-- 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
-- 8covid ::
-Checkliste COVID-19
+** MR-Hals :: 8mhals
+Fragestellung:
+Lymphknoten?
+
+Technik:
+MRT des Halses nach SOP.
+
+Befund:
+Voraufnahmen: Es liegen keine Voraufnahmen vor.
+Nasennebenhöhlen, soweit erfasst: Unauffällig.
+Nasopharynx: Unauffällig.
+Oropharynx: Unauffällig.
+Glandula parotis: Unauffällig.
+Glandula submandibularis: Unauffällig.
+Glandula sublingualis: Unauffällig.
+Larynx: Unauffällig.
+Trachea: Unauffällig.
+Schilddrüse: Unauffällig.
+Lymphknoten: Unauffällig.
+Basal mit erfasste Hirnabschnitte: Unauffällig.
+Myelon: Unauffällig.
+Übrige Weichteile: Unauffällig.
+Knochen: Unauffällig.
+
+Beurteilung:
+
+** MR-HWS :: 8mhws
+Fragestellung
+Spinale Enge? Degeneration?
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Hinterkante: Harmonischer Verlauf.
+Höhenminderungen von Wirbelkörpern: Nein.
+Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Myelon: Unauffällig.
+HWK1/2: Keine Fraktur.
+HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
+HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+
+Beurteilung
+
+** MRT Gehirn :: 8mc
+Klinische Angaben
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Diffusionsstörung: Nein.
+Pathologische Signalanhebungen in der T1w: Nein.
+Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration.
+Äußere Liquorräume: Unauffällig. Keine signifikante temporomesiale Atrophie.
+Mittellinie: Nicht verlagert.
+Mark-Rinden-Differenzierung: Allseits erhalten.
+Basalganglien: Seitengleich abgrenzbar.
+Hirnstamm: Unauffällig.
+Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
+Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
+Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
+Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
+
+Beurteilung
+Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
+
+** MRT Schulter :: 8ms
+Klinische Angaben
+
+Befund
+Bursa subacromialis-subdeltoidea: Unauffällig.
+Bursa subcoracoidea: Unauffällig.
+Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
+M. subscapularis: Unauffällig.
+M. infraspinatus: Unauffällig.
+M. supraspinatus: Unauffällig. Gelenkseitige/Bursaseitige/Interne Partialruptur mit einer Breite von mm (Footprint/PASTA)./Inkomplette/Komplette "full thickness" Ruptur.
+Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
+Checkliste Impingement:
+  Acromion Typ: 2
+  Ligamentum coracoacromiale: Unauffällig.
+  Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
+Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
+Sonstiger Knochen: Unauffällig. 
+
+Beurteilung
+Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
+
+Hamada Klassifikation der Arthropathie der Rotatorenmanschette:
+1. Acromiohumeraler Abstand > 6 mm
+2. Acromiohumeraler Abstand < 5 mm
+3. Acromiohumeraler Abstand < 5 mm und Acetabularisierung des coracoacromialen Bogens
+4. Verschmälerung des glenohumeralen Gelenkes
+   4a) ohne Acetabularisierung
+   4b) mit Acetabularisierung
+5. Nekrose des Humeruskopfes manchmal mit Kollaps des Humeruskopfes
+    
+* Interventionen
+** PRT :: 8mprt
+Technik
+Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
+
+* Checklisten
+** Adhäsive Kapsulitis :: 8cak
+Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"):
+  T1-Signalminderung im Rotatorinterval: nein
+  T1w-Breite des Ligamentum coracohumerale (LCH) [mm] (Normwert < 4mm; Sensitivität 60%, Spezifität 95%): 
+  T1w-Verbreiterung des axillärer Rezessus: nein
+  Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
+  Perikapsuläres Ödem: nein
+** Asbestose :: 8casbest
+Checkliste Asbestose:
+  Retikulationen: nein
+  Zentrilobuläre punktförmige oder verzweigte Verdichtungen: nein
+  Parallel zur Pleura verlaufende Bänder: nein
+  Rechtwinklig zur Pleura verlaufende Bänder mit einer Länge von 2-5 cm: nein
+  Mosaikmuster: nein
+  Traktionsbronchiektasien: nein
+  Honeycombing: nein
+  Pleurale Verkalkungen: nein
+  Suspekte Herde/Rundatelektasen: nein
+** COVID-19 :: 8covid
+Checkliste COVID-19:
   Milchglastrübung oder Konsolidierung vorhanden: nein
   Runde Morpholgie der Transparenzminderungen: nein
   Mehr als zwei Lungenlappen beteiligt: nein
@@ -725,16 +735,8 @@ Checkliste COVID-19
   Periphere Lungenbeteiligung: nein
   Crazy paving pattern: nein
   Reverser Halo: nein
-- 8epil ::
-Checkliste Epilepsie
-  Polymikrogyrie: Nein
-  Fokale kortikale Dysplasie: Nein
-  Anhalt für Neurokutanae Syndrome: Nein
-  Heterotopie: Nein
-  Kavernom: Nein
-  Mesotemporale-Sklerose: Nein
-- 8perf ::
-CT-Perfusion:
+** CT-Perfusion :: 8perf
+Checkliste CT-Perfusion:
   Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
   Seitendifferenz TTP > 4s: ja/nein
   Areale mit einer MTT > 6s: ja/nein
@@ -742,31 +744,28 @@ CT-Perfusion:
   Areale mit einer CBV > 6 ml/100g: nein
   Areale mit einer CBV < 2 ml/100g: nein/CBV-ASPECT-Score: 10 (experimentell, da nicht einheitlich definiert)
   MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/bei Tandemverschluss
-
-- 8parkinson ::
-Checkliste M. Parkinson:
+** Eisenablagerungen :: 8eisengehirn
+Checkliste Eisenablagerungen:
+  T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
+  T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
+  T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
+** Epilepsie :: 8epil
+Checkliste Epilepssie:
+  Polymikrogyrie: Nein
+  Fokale kortikale Dysplasie: Nein
+  Anhalt für Neurokutanae Syndrome: Nein
+  Heterotopie: Nein
+  Kavernom: Nein
+  Mesotemporale-Sklerose: Nein
+** M. Parkinson :: 8parkinson
+Checkliste Morpus Parkinson:
   Vergrößerte Sulci und innere Ventrikel: gering
   Substanzia nigra in der T2w: Unauffällig. 
   T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Unauffällig. 
   T2-hyperintense Herde im Putamen oder im Globus pallidus: Unauffällig.
   ADC des Putamens und des Nucleus caudatus: Unauffällig. 
   Putamen: Unauffällig.
-
-- 8eisengehirn ::
-Checkliste Eisenablagerung:
-  T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
-  T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
-  T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
-  
--8cak ::
-Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"):
-  T1-Signalminderung im Rotatorinterval: nein
-  T1w-Breite des Ligamentum coracohumerale (LCH) [mm] (Normwert < 4mm; Sensitivität 60%, Spezifität 95%): 
-  T1w-Verbreiterung des axillärer Rezessus: nein
-  Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
-  Perikapsuläres Ödem: nein
-
--8cpa :: 
+** Pankreasraumforderung :: 8cpankreas 
 Charakterisierung Raumforderung der Bauchspeicheldrüse:
   Lokalisation: periampullär/Kopf/Körper/Schwanz
   Morphologie: solide/zystisch/gemischt
@@ -784,8 +783,7 @@ Charakterisierung Raumforderung der Bauchspeicheldrüse:
     Stenose: nein/<%50%/>50%/Verschluss/Thrombose
   Lokale Invasion: Kein Anhalt/Peripankreatisches Fettgewebe/Mesenterialwurzel/Vena cava inferior/Aorta/Duodenum/Kolon transversum
   Radiologische TNM, soweit erfasst:
-
-8cpt:
+** Pulsatiler Tinnitus :: 8cpt
 Checkliste pulsatiler Tinnitus:
   Idiopathische intrakranielle Hypertension: Kein Anhalt.
   Glomus jugulare Paragagnliom: Kein Anhalt.
@@ -802,15 +800,11 @@ Checkliste pulsatiler Tinnitus:
   Divertikel des Sinus transversus: Kein Anhalt.
   Cochleäre Otosklerose: Kein Anhalt.
   Aberante ACI: Kein Anhalt.
-  
-8casbest:
-Checkliste Asbestose:
-  Retikulationen: nein
-  Zentrilobuläre punktförmige oder verzweigte Verdichtungen: nein
-  Parallel zur Pleura verlaufende Bänder: nein
-  Rechtwinklig zur Pleura verlaufende Bänder mit einer Länge von 2-5 cm: nein
-  Mosaikmuster: nein
-  Traktionsbronchiektasien: nein
-  Honeycombing: nein
-  Pleurale Verkalkungen: nein
-  Suspekte Herde/Rundatelektasen: nein
+* kleines
+- 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
+- 8bp :: Breitbasige dorsale Protrusion.
+- 8be :: Breitbasige dorsale Extrusion.
+- 8glsa :: Geringe lineare Signalanhebungen, die die Oberfläche nicht eindeutig überschreiten.
+- 8rm :: Rotatorenmanschette
+- 8nph1 :: Deutlich erweitert. Spitzwinkeliges posteriores Corpus callosum.
+- 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
