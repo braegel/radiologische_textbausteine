@@ -802,3 +802,14 @@ Checkliste pulsatiler Tinnitus:
   Cochleäre Otosklerose: Kein Anhalt.
   Aberante ACI: Kein Anhalt.
   
+8casbest:
+Checkliste Asbestose:
+  Retikulationen: nein
+  Zentrilobuläre punktförmige oder verzeigte Verdichtungen: nein
+  Parallel zur Pleura verlaufende Bänder: nein
+  Rechtwinklig zur Pleura verlaufende Bänder mit einer Länge von 2-5 cm: nein
+  Mosaikmuster: nein
+  Traktionsbronchiektasien: nein
+  Honeycombing: nein
+  Pleurale Verkalkungen: nein
+  Suspekte Herde/Rundatelektasen: nein
