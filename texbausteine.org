@@ -356,9 +356,6 @@ Altersentsprechende Osteopenie.
 
 * MRT
 ** Knie :: 8mknie
-Beurteilung
-Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
-
 Klinische Angaben
 
 Befund
@@ -705,6 +702,9 @@ Hamada Klassifikation der Arthropathie der Rotatorenmanschette:
 ** PRT :: 8mprt
 Technik
 Planung der Injektion mittels CT. Einbringung einer atraumatischen Chibanadel bis vor die Nervenwurzel. Lagekontrolle nach Gabe von Kontrastmittel. Applikation von Triamcinolon und 2 ml Bupivacain.
+
+Beurteilung
+Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 
 * Checklisten
 ** Adhäsive Kapsulitis :: 8cak
