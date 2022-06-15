@@ -750,7 +750,7 @@ Checkliste Eisenablagerungen:
   T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
   T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
 ** Epilepsie :: 8epil
-Checkliste Epilepssie:
+Checkliste Epilepsie:
   Polymikrogyrie: Nein
   Fokale kortikale Dysplasie: Nein
   Anhalt für Neurokutanae Syndrome: Nein
