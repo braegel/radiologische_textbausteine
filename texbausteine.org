@@ -290,6 +290,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
 Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Atlanto-Occipitale-Dislokation: Nein.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
 HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
