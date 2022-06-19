@@ -278,6 +278,31 @@ Tegmen tympani: unauffällig
 Beurteilung:
 Kein richtungsweisender Befund
 
+** Rö-HWS :: 8rhws
+Rechtfertigende Indikation:
+Trauma.
+
+Technik:
+Röntgen der HWS in zwei Ebenen
+
+Befund:
+Alignment:
+  anterior: Unauffällig.
+  posterior: Unauffällig.
+  spinolaminär: Unauffällig. 
+Prävertebraler Raum:
+  C2: mm (NW < 7mm)
+  C3: mm (NW < 5mm)
+  C4: mm (NW < 5mm)
+  C6: mm (NW < 22mm. Bei Kindern < 15 NW: < 14 mm)
+Erweiterte Bandscheiben: nein
+Erweiterte Abstand zwischen den Dornfortsätzen: nein
+Dens Dislokation: nein
+Abgrenzbare Fraktur: nein
+
+Beurteilung:
+Kein richtungsweisender Befund.
+  
 ** CT-HWS :: 8chws
 Rechtfertigende Indikation
 Spinale Enge? Degeneration? Fraktur?
