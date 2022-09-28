@@ -86,6 +86,24 @@ Pleura:
 Beurteilung
 Kein richtungsweisender Befund.
 
+** Rö Ellenbogen :: 8rell
+Rechtfertigende Indikation:
+Schmerzen
+
+Technik:
+Röntgen des Ellenbogens in zwei Ebenen
+
+Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Weite des Gelenkspalts des Humeroulnargelenks in der seitlichen Aufnahme: mm (NW < 4mm)
+Radius-Capitulum-Linie ap: Unauffällig/Versetzt
+Radius-Capitulum-Linie seitlich: Unauffällig/Versetzt
+Asymmetrie der Gelenklinie: Nein.
+Proc. coronoideus: Unauffällig.
+Sonstiger Knochen: Unauffällig
+
+Beurteilung:
+
 * CT
 ** CCT :: 8cctnorm
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
@@ -386,23 +404,43 @@ Klinische Angaben
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Außenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
-Innenmeniskus: Keine eindeutige Konturunterbrechung. Kein Amputationszeichen in der koronaren Ansicht. Kein Anhalt für eine Ruptur der meniskokapsulären Anheftung.
+Erguss: Nicht signifikant.
+Außenmeniskus:
+  Eindeutige Unterbrechung der Oberfläche: Nein
+  Empty-Meniscus-, Amputations- oder Bow-Tie-Zeichen: Nein
+  Meniskokapsuläre Anheftung: Unauffällig
+  Vorderhornwurzel: Unauffällig
+  Hinterhornwurzel: Unauffällig
+  Extrusion: Nein
+Innenmeniskus:
+  Eindeutige Unterbrechung der Oberfläche: Nein
+  Empty-Meniscus-, Amputations- oder Bow-Tie-Zeichen: Nein
+  Meniskokapsuläre Anheftung: Unauffällig
+  Vorderhornwurzel: Unauffällig
+  Hinterhornwurzel: Unauffällig
+  Extrusion: Nein
+Vorderes Kreuzband:
+  Konturunterbrechung in der T2 Wichtung: nein/mehr/weniger als 50% der Fasern
+  Faserverlauf flacher als interkondyläres Dach: nein
+  Flüssigkeit zwischen vorderem Kreuzband lateraler Kondyle ("Empty Notch Sign"): nein
 Hinteres Kreuzband: Unauffällig.
-Vorderes Kreuzband: Unauffällig.
-Mediales Kollateralband: Unauffällig.
-Laterales Kollateralband: Unauffällig.
-Retropatellarer chondraler Gelenküberzug: Unauffällig.
-Femorotibialer chondraler Gelenküberzug: Unauffällig.
+Femorotibialer chondraler Gelenküberzug: Unauffällig
+Retropatellarer chondraler Gelenküberzug: Unauffällig
+Mediales Retinakulum: Unauffällig
+Hoffa-Fettkörper: Unauffällig
+Mediales Kollateralband: Unauffällig
+Posterolateral Corner: 
+  Laterales Kollateralband: Unauffällig
+  M. bizeps femoris: Unauffällig
+  M. popliteus: Unauffällig
+Tractus iliotibialis: Unauffällig
 M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
-M. quadriceps femoris: Unauffällig, soweit erfasst
+M. quadriceps femoris/Patellarsehne: Unauffällig, soweit erfasst
 M. gastrocnemius: Unauffällig, soweit erfasst.
-M. popliteus: Unauffällig.
-Tractus iliotibialis: Unauffällig.
-Hoffa-Fettkörper: Unauffällig.
-Erguss: Kein signifikanter Erguss.
 
-Beurteilung
+Beurteilung:
+Kein signifikanter Kniebinnenschaden.
+
 ** MR Abdomen :: 8mabd
 Fragestellung
 
@@ -447,15 +485,28 @@ Kein richtungsweisender Befund.
 
 ** MR Ellenbogen :: 8mell
 Klinische Angaben:
+Akute/chronische Ellenbogeninstabilität.
+Berufe oder Sportarten mit Überkopftätigkeit oder Wurfsportarten.
+Frühere Verletzung.
 
-Befund
+Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Humeroulnares Gelenk: Unauffällig.
-Humeroradiales Gelenk: Unauffällig.
+Primäre Stabilisatoren (O'Driscoll):
+  Humeroulnares Gelenk: Unauffällig.
+  LUCL: Unauffällig.
+  aMCL (Stabilisator bei Valgusstress): Unauffällig.
+Sekudäre Stabilisatoren:
+  Humeroradiales Gelenk: Unauffällig.
+  Anteriore Gelenkkapsel: Unauffällig.
+  Extensorenmuskulatur: Unauffällig.
+  Flexorenmuskulatur: Unauffällig.
+Übrige Kollateralbänder:
+  pMCL (Stabilisator für die Innenrotation): Unauffällig.
+  RCL: Unauffällig.
+  Lig. anulare radii: Unauffällig.
 Proximales radioulnares Gelenk: Unauffällig.
 Epicondylen: Unauffällig.
 Distale Bizepssehne: Unauffällig
-Kollateralbänder: Unauffällig
 Übrige Weichteile: Unauffällig.
 
 Beurteilung:
