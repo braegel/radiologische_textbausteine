@@ -451,7 +451,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss.
 Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis von Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
+Gallenwege: Kein Nachweis von Konkrementen. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
 Bauchspeicheldrüse: Unauffällig.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
