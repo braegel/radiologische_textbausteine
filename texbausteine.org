@@ -422,7 +422,7 @@ Innenmeniskus:
 Vorderes Kreuzband:
   Konturunterbrechung in der T2 Wichtung: nein/mehr/weniger als 50% der Fasern
   Faserverlauf flacher als interkondyläres Dach: nein
-  Flüssigkeit zwischen vorderem Kreuzband lateraler Kondyle ("Empty Notch Sign"): nein
+  Flüssigkeit zwischen vorderem Kreuzband und lateraler Kondyle ("Empty Notch Sign"): nein
 Hinteres Kreuzband: Unauffällig.
 Femorotibialer chondraler Gelenküberzug: Unauffällig
 Retropatellarer chondraler Gelenküberzug: Unauffällig
@@ -495,7 +495,7 @@ Primäre Stabilisatoren (O'Driscoll):
   Humeroulnares Gelenk: Unauffällig.
   LUCL: Unauffällig.
   aMCL (Stabilisator bei Valgusstress): Unauffällig.
-Sekudäre Stabilisatoren:
+Sekundäre Stabilisatoren:
   Humeroradiales Gelenk: Unauffällig.
   Anteriore Gelenkkapsel: Unauffällig.
   Extensorenmuskulatur: Unauffällig.
