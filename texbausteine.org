@@ -13,13 +13,14 @@ Röntgen des Handgelenkes in zwei Ebenen
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Knochen: Unauffällig
+Längenunterschied Ulna vs. Radius (NW <= 2mm): 
 Scapholunärer Spalt (NW <= 3mm):
 Karpaler Bogen I: Unauffällig
 Karpaler Bogen II: Unauffällig
 Karpaler Bogen III: Unauffällig
 Scapholunärer Winkel (NW 30-60°):
 Capitolunärer Winkel (NW <30°): 
+Knochen: Unauffällig
 
 Beurteilung:
 
