@@ -520,6 +520,7 @@ Technik:
 MRT des Handgelenkes nach SOP
 
 Befund:
+Längenvarianz der Ulna gegenüber dem Radius (NW <=2mm): 
 Knochen: Unauffällig.
 SL-Abstand: Unauffällig.
 Gelenke: Unauffällig.
