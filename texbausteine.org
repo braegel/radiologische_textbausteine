@@ -623,39 +623,51 @@ Sequenzen:
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
+Qualitätssicherung:
+Korrekte Kontrastmittelapplikation: ja
+Bewegungsartefakte: nein
+Parenchymasymmetrien: nein
+Asymmetrische Hintergrundanreicherung in der frühen Dynamik: nein
+
 Rechte Mamma:
+Anteil des fibroglandulären Gewebes am gesamten Brustvolumen: ACR
+Cutis: unauffällig
+Mamille: unauffällig
+Brustwand: unauffällig
+Axilläre Lymphknoten: unauffällig
+T2w:
+- Fibrotische Areale und Ödeme: nein
+- Zysten: einfach/komplex/kompliziert
+Iatrogene Befund: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
+Konstrastmittelsequenzen:
+- Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
 KM aufnehmende Herde:
+- begleitendes Ödem
 - Masse 7mm mit irregulärer Form und irregulärem Rand, relativ signalreich in der T1 DD auch Lymphknoten, Fettnekrose, Hamartom), mit Signalanhebung mit Nidus in der STIR. KM Kinetik Typ II-III.
 - Nicht-massige KM-Aufnahme
   - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-Brustdrüsenkörper: unauffällig
-Cutis: unauffällig
-Mamille: unauffällig
-Brustwand: unauffällig
-Axilläre Lymphknoten: unauffällig
+- Kaiser-Score.
 
 Linke Mamma:
-KM aufnehmende Herde:
-- Nein/Fokus/Masse/nicht-massig
-- Nicht weiter klassifizierbarer Fokus (<5mm)
-- KM-aufnehmende Masse
-  - Form der Masse: rund/oval/lobuliert/irregulär (suspekt)
-  - Rand der Masse: glatt/irregulär/spikuliert
-  - T1-reiche Signale innerhalb der Masse: ja (Gutartig: Lymphknoten, Fettnekrose, Hamartom - Verlaufskontrolle nötig zum Ausschluss eines Wachstums)/nein
-  - T2FS-reiche Signale innerhalb der Masse: ja/nein (suspekt).
-  - KM-Aufnahme: homogen/randständig (40%-ige Malignomwahrscheinlichkeit)/septiert
-  - Septierungen: nein/ja und KM-aufnehmend (suspekt)/ja aber nicht KM-aufnehmend (Fibroadenom)
-  - Nidus: ja (suspekt)/nein
-  - KM Kinetik: Typ I (6%), Typ II (6 - 77%), Typ III (29-77%)
-- Nicht-massige KM-Aufnahme
-  - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
-Brustdrüsenkörper: unauffällig
+Anteil des fibroglandulären Gewebes am gesamten Brustvolumen: ACR
 Cutis: unauffällig
 Mamille: unauffällig
 Brustwand: unauffällig
 Axilläre Lymphknoten: unauffällig
-Beurteilung
+T2w:
+- Fibrotische Areale und Ödeme: nein
+- Zysten: einfach/komplex/kompliziert
+Iatrogene Befund: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
+Konstrastmittelsequenzen:
+- Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
+KM aufnehmende Herde:
+- begleitendes Ödem
+- Masse 7mm mit irregulärer Form und irregulärem Rand, relativ signalreich in der T1 DD auch Lymphknoten, Fettnekrose, Hamartom), mit Signalanhebung mit Nidus in der STIR. KM Kinetik Typ II-III.
+- Nicht-massige KM-Aufnahme
+  - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
+- Kaiser-Score.
 
+Beurteilung
 
 Rechts Bi-RADS:
 Links Bi-RADS:: 
@@ -669,7 +681,9 @@ Links Bi-RADS::
 6 - Bekanntes Karzinom
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
-Basiert auf: http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
+Quelle:
+- http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
+- "Strukturierte Auswertung der multiparametrischen MRT der Mamma" aus radiologie up2date
 ** MR OSG :: 8mosg
 Klinische Angaben:
 Distorsion
