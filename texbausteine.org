@@ -14,6 +14,7 @@ Röntgen des Handgelenkes in zwei Ebenen
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Längenunterschied Ulna vs. Radius (NW <= 2mm): 
+Carpal Bossing: nein
 Scapholunärer Spalt (NW <= 3mm):
 Karpaler Bogen I: Unauffällig
 Karpaler Bogen II: Unauffällig
@@ -520,13 +521,14 @@ Technik:
 MRT des Handgelenkes nach SOP
 
 Befund:
-Knochen: Unauffällig.
+Carpal Bossing: Nein
 SL-Abstand: Unauffällig.
-Gelenke: Unauffällig.
 TFCC: Unauffällig.
 Strecksehen: Unauffällig.
 Beugesehnen: Unauffällig.
 Muskulatur: Unauffällig.
+Gelenke: Unauffällig.
+Knochen: Unauffällig.
 Übrige Weichteile: Unauffällig.
 
 Beurteilung:
