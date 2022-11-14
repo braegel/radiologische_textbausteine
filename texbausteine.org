@@ -520,7 +520,6 @@ Technik:
 MRT des Handgelenkes nach SOP
 
 Befund:
-Längenvarianz der Ulna gegenüber dem Radius (NW <=2mm): 
 Knochen: Unauffällig.
 SL-Abstand: Unauffällig.
 Gelenke: Unauffällig.
@@ -684,7 +683,7 @@ Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Quelle:
 - http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
 - "Strukturierte Auswertung der multiparametrischen MRT der Mamma" aus radiologie up2date
-** MR OSG :: 8mosg
+ ** MR OSG :: 8mosg
 Klinische Angaben:
 Distorsion
 
