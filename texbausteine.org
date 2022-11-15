@@ -177,6 +177,24 @@ Beurteilung
 - Ein frischer territorialer Infarkt demarkiert sich nicht.
 - Keine Zeichen eines erhöhten Hirndruckes.
 
+** CTA der Kopf-Hals-Arterien
+Rechtfertigende Indikation: Stenose? Verschluss?
+
+Technik: CTA der Kopf-Hals-Arterien nach SOP.
+
+Befund
+Karotiden: Unauffällig.
+MCA: Unauffällig.
+ACA: Unauffällig.
+Vertebralarterien: Unauffällig.
+A. basilaris: Unauffällig.
+PCA: Unauffällig. 
+
+Beurteilung
+- Kein abgrenzbarer Gefäßverschluss.
+- Kein Anhalt für eine hämodynamisch wirksame Stenose.  
+
+
 ** CT Abdomen :: 8cabd
 Rechtfertigende Indikation
 
@@ -521,6 +539,7 @@ Technik:
 MRT des Handgelenkes nach SOP
 
 Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Carpal Bossing: Nein
 SL-Abstand: Unauffällig.
 TFCC: Unauffällig.
