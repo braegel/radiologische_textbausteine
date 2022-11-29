@@ -476,7 +476,7 @@ Bauchspeicheldrüse: Unauffällig.
 Milz: Unauffällig.
 Nebennieren: Unauffällig.
 Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
+Lymphknoten: Unauffällig.
 Darm: Soweit MR morphologisch beurteilbar unauffällig.
 Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
 Skelettsystem: Degenerative Veränderungen.
