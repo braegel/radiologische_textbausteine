@@ -636,7 +636,6 @@ LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Sten
 Beurteilung
 
 ** MR Mammografie :: 8mmammo
-
 Fragestellung: Malignom?
 
 Sequenzen:
@@ -705,7 +704,8 @@ Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Quelle:
 - http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html
 - "Strukturierte Auswertung der multiparametrischen MRT der Mamma" aus radiologie up2date
- ** MR OSG :: 8mosg
+
+** MR OSG :: 8mosg
 Klinische Angaben:
 Distorsion
 
