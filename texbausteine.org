@@ -658,7 +658,7 @@ Axilläre Lymphknoten: unauffällig
 T2w:
 - Fibrotische Areale und Ödeme: nein
 - Zysten: einfach/komplex/kompliziert
-Iatrogene Befund: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
+Iatrogene Befunde: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
 Konstrastmittelsequenzen:
 - Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
 KM aufnehmende Herde:
@@ -677,7 +677,7 @@ Axilläre Lymphknoten: unauffällig
 T2w:
 - Fibrotische Areale und Ödeme: nein
 - Zysten: einfach/komplex/kompliziert
-Iatrogene Befund: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
+Iatrogene Befunde: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
 Konstrastmittelsequenzen:
 - Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
 KM aufnehmende Herde:
