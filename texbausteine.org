@@ -690,7 +690,7 @@ KM aufnehmende Herde:
 Beurteilung
 
 Rechts Bi-RADS:
-Links Bi-RADS:: 
+Links Bi-RADS:
 
 0 - weitere Diagnostik nötig
 1 - unauffällig
