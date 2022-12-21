@@ -940,3 +940,4 @@ Checkliste pulsatiler Tinnitus:
 - 8rm :: Rotatorenmanschette
 - 8nph1 :: Deutlich erweitert. Spitzwinkeliges posteriores Corpus callosum.
 - 8nph2 :: Prominente innere Liquorräume und spitzwinkeliges posteriores Corpus callosum. Bei entsprechender Klinik ist der Befund mit einem Normaldruckhydrozephalus (NPH) vereinbar.
+- 8milz :: Milzvolumen (Prassopoulos et al 1997): 30 + 0,58 x x x = ml (Normwert 107 - 315 ml)
