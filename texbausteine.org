@@ -820,16 +820,6 @@ Sonstiger Knochen: Unauffällig.
 
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
-
-Hamada Klassifikation der Arthropathie der Rotatorenmanschette:
-1. Acromiohumeraler Abstand > 6 mm
-2. Acromiohumeraler Abstand < 5 mm
-3. Acromiohumeraler Abstand < 5 mm und Acetabularisierung des coracoacromialen Bogens
-4. Verschmälerung des glenohumeralen Gelenkes
-   4a) ohne Acetabularisierung
-   4b) mit Acetabularisierung
-5. Nekrose des Humeruskopfes manchmal mit Kollaps des Humeruskopfes
-    
 * Interventionen
 ** PRT :: 8mprt
 Technik
