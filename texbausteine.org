@@ -1,4 +1,4 @@
-Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
+<Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
 
@@ -193,8 +193,6 @@ PCA: Unauffällig.
 Beurteilung
 - Kein abgrenzbarer Gefäßverschluss.
 - Kein Anhalt für eine hämodynamisch wirksame Stenose.  
-
-
 ** CT Abdomen :: 8cabd
 Rechtfertigende Indikation
 
@@ -268,6 +266,34 @@ Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraergu
 Skelettsystem: Degenerative Veränderungen.
 
 Beurteilung
+** CT Herz
+Rechtfertigende Indikation
+
+Technik
+EKG getriggertes Spiral-CT des Herzen unter intravenöser Kontrastmittelgabe.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Rechter Vorhof: Unauffällig.
+Linker Vorhof: Unauffällig.
+Rechter Ventrikel: Unauffällig.
+Linker Ventrikel: Unauffällig.
+Herzklappen: Unauffällig.
+Pulmonalarterien: Unauffällig.
+Aorta: Unauffällig.
+Perikard: Unauffällig.
+Dominanter Versorgungstyp:
+Abgang RCA: Rechter Sinus valsalva.
+Abgang LM: Linker Sinus valsalva.
+LM: Unauffällig.
+  LAD: Unauffällig.
+    Diagnonaläste: Unauffällig.
+  LCX: Unauffällig.
+    Marginaläste: Unauffällig.
+RCA: Unauffällig.
+  AM: Unauffällig.
+
+Cad.Rads: 
 
 ** CT Thorax-Abdomen :: 8cthxabd
 Rechtfertigende Indikation
