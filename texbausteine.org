@@ -1,4 +1,4 @@
-<Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
+Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
 
@@ -97,7 +97,7 @@ Röntgen des Ellenbogens in zwei Ebenen
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Weite des Gelenkspalts des Humeroulnargelenks in der seitlichen Aufnahme: mm (NW < 4mm)
+Weite des Gelenkspaltes des Humeroulnargelenks in der seitlichen Aufnahme: mm (NW < 4mm)
 Radius-Capitulum-Linie ap: Unauffällig/Versetzt
 Radius-Capitulum-Linie seitlich: Unauffällig/Versetzt
 Asymmetrie der Gelenklinie: Nein.
@@ -409,7 +409,7 @@ Nasenseptum: Leichte Deviation. Keine Perforationen.
 Conchae nasalis: Unauffällig.
 
 ** Ganzkörper CT :: 8cgk
-Rechtfertigene Indikation: Osteolysen?
+Rechtfertigende Indikation: Osteolysen?
 
 Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
 
@@ -429,7 +429,7 @@ Untere Extremität soweit erfasst: Unauffällig.
 Beurteilung:
 Kein Nachweis von Osteolysen
 
-** Knochendichte :: 8mkd
+** Knochendichte :: 8ckd
 Technik
 CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern unter gleichzeitiger Messung eines Referenzkörpers. Computerassistierte Auswertung der Knochendichte.
 
@@ -905,6 +905,11 @@ Checkliste Epilepsie:
   Heterotopie: Nein
   Kavernom: Nein
   Mesotemporale-Sklerose: Nein
+** Leberfibrose :: 8cleber
+Marker für Leberfibrose (nach Obmann et al 2018 PMID: 29990333):
+  LIMA-FS: (Normwert <2,85)
+  LIMVA-FS: (Normwert <6,7)
+Verdacht auf Leberfibrose (Positiver Vorhersagewert 82%)
 ** M. Parkinson :: 8parkinson
 Checkliste Morpus Parkinson:
   Vergrößerte Sulci und innere Ventrikel: gering
