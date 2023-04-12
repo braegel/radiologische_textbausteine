@@ -203,7 +203,8 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Miterfasste Lungenabschnitte:
 Leber: 
-Gallenblase: 
+Gallenblase:
+Gallenwege:
 Bauchspeicheldrüse:
 Milz: 
 Rechte Nebenniere:
