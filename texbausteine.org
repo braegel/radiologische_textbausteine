@@ -197,24 +197,35 @@ Beurteilung
 Rechtfertigende Indikation
 
 Technik
-Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der arteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase.
+Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der spätarteriellen Phase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase. Rekonstruktion von MPRs in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss. Keine freie Luft.
-Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
-Bauchspeicheldrüse: Unauffällig.
-Arterien: Gefäßsklerose.
-Pfortader: Unauffällig.
+Miterfasste Lungenabschnitte:
+Leber: 
+Gallenblase: 
+Bauchspeicheldrüse:
+Milz: 
+Rechte Nebenniere:
+Linke Nebenniere:
+Rechte Niere:
+Linke Niere:
+Harnleiter:
+Harnblase:
+Prostata:
+Uterus und Eierstöcke:
+Magen: 
+Darm:
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste: Unauffällig.
 Lebervenen: Unauffällig.
-Milz: Unauffällig.
-Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
-Darm: Soweit CT morphologisch beurteilbar unauffällig.
-Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
-Skelettsystem: Degenerative Veränderungen.
+Lymphknoten:
+Peritoneum/Mesenterium:
+Retroperitoneum:
+Bauchmuskulatur:
+Wirbelsäule:
+Darm: 
+Übrige Weichteile:
 
 Beurteilung
 
