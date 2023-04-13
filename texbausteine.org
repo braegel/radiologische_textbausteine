@@ -246,7 +246,7 @@ Mediastinum:
 - Aorta:
 - Herz:  
 - Koronararterien:
-- Ösophagus
+- Ösophagus:
 Pulmonalarterien:
 Lungenparenchym:
 - Oberlappen rechts:
@@ -437,7 +437,7 @@ Mediastinum:
 - Aorta:
 - Herz:  
 - Koronararterien:
-- Ösophagus
+- Ösophagus:
 Pulmonalarterien:
 Lungenparenchym:
 - Oberlappen rechts:
