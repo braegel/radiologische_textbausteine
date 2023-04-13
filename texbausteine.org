@@ -285,7 +285,7 @@ Lymphknoten:
 Peritoneum/Mesenterium:
 Retroperitoneum:
 Bauchmuskulatur:
-Wirbelsäule:
+LWS:
 Darm: 
 Übrige Weichteile:
 
@@ -476,7 +476,7 @@ Lymphknoten:
 Peritoneum/Mesenterium:
 Retroperitoneum:
 Bauchmuskulatur:
-Wirbelsäule:
+LWS:
 Darm: 
 Übrige Weichteile:
 
