@@ -846,6 +846,9 @@ Lymphknoten:
 Basal miterfasste Hirnabschnitte:
 Übrige Weichteile:
 HWS:
+
+Beurteilung:
+
 ** CT Hals-Thorax-Abdomen :: 8chalsthxabd
 Rechtfertigende Indikation
 
