@@ -265,16 +265,35 @@ Kein richtungsweisender Befund.
 Rechtfertigende Indikation
 
 Technik
-Spiral-CT des Thorax unter intravenöser Kontrastmittelgabe.
+Spiral-CT des Thorax unter intravenöser Kontrastmittelgabe. Rekonstruktion von MPRs in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Axilla: Einzelne nicht suspekte Lymphknoten.
-Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
-Nebennieren: Soweit erfasst unauffällig.
-Sonstige Oberbauchorgane: Soweit erfasst und beurteilbar unauffällig.
-Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
-Skelettsystem: Degenerative Veränderungen.
+Axilläre Lymphknoten:
+Mediastinum:
+- Lymphknoten:
+- Aorta:
+- Herz:  
+- Koronararterien:
+- Ösophagus
+Pulmonalarterien:
+Rechte Nebenniere:
+Linke Nebenniere:
+Oberbauchorgane, soweit erfasst: 
+Lungenparenchym:
+- Oberlappen rechts:
+- Mittellappen:
+- Unterlappen rechts:
+- Oberlappen links:
+- Unterlappen links:
+Zentrale Atemwege:   
+Pleura rechts:
+Pleura links:
+Wirbelkörper:
+Rippen:
+Sternum:
+Klavikula rechts:
+Klavikula links:
 
 Beurteilung
 ** CT Herz
@@ -310,26 +329,62 @@ Cad.Rads:
 Rechtfertigende Indikation
 
 Technik
-Orale und intravenöse Kontrastmittelgabe. Spiral-CT des Thorax und des gesamten Abdomens in der portalvenösen Phase.
+Spiral-CT des Thorax und des Oberbauches in der spätarteriellen Organphase. Spiral-CT des gesamten Abdomens in der portalvenösen Phase. Rekonstruktion von MPRs in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Axilla: Einzelne nicht suspekte Lymphknoten.
-Mediastinum: Einzelne nicht suspekte Lymphknoten. Kein Perikarderguss.
-Lungenparenchym: Einzelne unspezifische pulmonale Verdichtungen. Kein Pleuraerguss. Kein Crazy paving. Kein Honeycombing. Keine Konsolidierung. Keine suspekten Rundherde.
-Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis röntgendichter Konkremente. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
-Bauchspeicheldrüse: Unauffällig.
-Pfortader: Unauffällig.
-Aorta: Gefäßsklerose.
-Milz: Unauffällig.
-Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Abdominale Lymphknoten: Einzelne nicht suspekt vergrößerte mesenteriale, paraaortale und inguinale Lymphknoten.
-Darm: Soweit CT morphologisch beurteilbar unauffällig.
-Appendix: Durchmesser xx mm (Normwert < 7mm)
-Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
-Skelettsystem: Degenerative Veränderungen.
+
+Thorax:
+Axilläre Lymphknoten:
+Mediastinum:
+- Lymphknoten:
+- Aorta:
+- Herz:  
+- Koronararterien:
+- Ösophagus
+Pulmonalarterien:
+Rechte Nebenniere:
+Linke Nebenniere:
+Lungenparenchym:
+- Oberlappen rechts:
+- Mittellappen:
+- Unterlappen rechts:
+- Oberlappen links:
+- Unterlappen links:
+Zentrale Atemwege:   
+Pleura rechts:
+Pleura links:
+BWS:
+Rippen:
+Sternum:
+Klavikula rechts:
+Klavikula links:
+
+Abdomen:
+Leber: 
+Gallenblase:
+Gallenwege:
+Bauchspeicheldrüse:
+Milz: 
+Rechte Nebenniere:
+Linke Nebenniere:
+Rechte Niere:
+Linke Niere:
+Harnleiter:
+Harnblase:
+Prostata:
+Uterus und Eierstöcke:
+Magen: 
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste:
+Lebervenen:
+Lymphknoten:
+Peritoneum/Mesenterium:
+Retroperitoneum:
+Bauchmuskulatur:
+Wirbelsäule:
+Darm: 
+Übrige Weichteile:
 
 Beurteilung
 
@@ -769,6 +824,102 @@ Sehnen:
 Akzessorische Muskeln: Nein.
 
 Beurteilung
+
+** CT-Hals :: 8chals
+Rechtfertigende Indikation
+
+Technik:
+CT des Halses unter i.V. Kontrastmittelgabe nach SOP. Rekonstruktion von MPRs in drei Ebenen.
+
+Befund:
+Voraufnahmen: Es liegen keine Voraufnahmen vor.
+Nasennebenhöhlen, soweit erfasst:
+Nasopharynx:
+Oropharynx:
+Glandula parotis:
+Glandula submandibularis:
+Glandula sublingualis:
+Larynx:
+Trachea:
+Schilddrüse:
+Lymphknoten:
+Basal miterfasste Hirnabschnitte:
+Übrige Weichteile:
+HWS:
+** CT Hals-Thorax-Abdomen :: 8chalsthxabd
+Rechtfertigende Indikation
+
+Technik: Spiral-CT des Thorax und des Oberbauches in der spätarteriellen Organphase. Spiral-CT des Halses und des gesamten Abdomens in der portalvenösen Phase. Rekonstruktion von MPRs in drei Ebenen.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+Hals:
+Nasennebenhöhlen, soweit erfasst:
+Nasopharynx:
+Oropharynx:
+Glandula parotis:
+Glandula submandibularis:
+Glandula sublingualis:
+Larynx:
+Trachea:
+Schilddrüse:
+Lymphknoten:
+Basal miterfasste Hirnabschnitte:
+HWS:
+
+Thorax:
+Axilläre Lymphknoten:
+Mediastinum:
+- Lymphknoten:
+- Aorta:
+- Herz:  
+- Koronararterien:
+- Ösophagus
+Pulmonalarterien:
+Rechte Nebenniere:
+Linke Nebenniere:
+Lungenparenchym:
+- Oberlappen rechts:
+- Mittellappen:
+- Unterlappen rechts:
+- Oberlappen links:
+- Unterlappen links:
+Zentrale Atemwege:   
+Pleura rechts:
+Pleura links:
+BWS:
+Rippen:
+Sternum:
+Klavikula rechts:
+Klavikula links:
+
+Abdomen:
+Leber: 
+Gallenblase:
+Gallenwege:
+Bauchspeicheldrüse:
+Milz: 
+Rechte Nebenniere:
+Linke Nebenniere:
+Rechte Niere:
+Linke Niere:
+Harnleiter:
+Harnblase:
+Prostata:
+Uterus und Eierstöcke:
+Magen: 
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste:
+Lebervenen:
+Lymphknoten:
+Peritoneum/Mesenterium:
+Retroperitoneum:
+Bauchmuskulatur:
+Wirbelsäule:
+Darm: 
+Übrige Weichteile:
+
 
 ** MR-Hals :: 8mhals
 Fragestellung:
