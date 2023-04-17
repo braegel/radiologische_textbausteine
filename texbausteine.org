@@ -13,14 +13,14 @@ Röntgen des Handgelenkes in zwei Ebenen
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Längenunterschied Ulna vs. Radius (NW <= 2mm): 
+Längenunterschied Ulna vs. Radius (NW <= 2mm):
 Carpal Bossing: nein
 Scapholunärer Spalt (NW <= 3mm):
 Karpaler Bogen I: Unauffällig
 Karpaler Bogen II: Unauffällig
 Karpaler Bogen III: Unauffällig
 Scapholunärer Winkel (NW 30-60°):
-Capitolunärer Winkel (NW <30°): 
+Capitolunärer Winkel (NW <30°):
 Knochen: Unauffällig
 
 Beurteilung:
@@ -79,12 +79,12 @@ Lunge:
   Bronchopneumogramme: Nein
   Parenchym: Unauffällig
   "Hidden Areas": Unauffällig
-  
+
 Pleura:
   Zwerchfell: Scharf abgrenzbar. Randwinkel frei.
   Pleuraerguss: nein
   Pneumothorax: nein
-  
+
 Beurteilung
 Kein richtungsweisender Befund.
 
@@ -116,7 +116,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Blutungssuspekte Dichteanhebungen: Nein.
 Innere Liquorräume: Unauffällig.
-Äußere Liquorräume: Unauffällig. 
+Äußere Liquorräume: Unauffällig.
 Mittellinie: Nicht verlagert.
 Mediazeichen: Nein.
 Mark-Rinden-Differenzierung: Allseits erhalten.
@@ -188,11 +188,11 @@ MCA: Unauffällig.
 ACA: Unauffällig.
 Vertebralarterien: Unauffällig.
 A. basilaris: Unauffällig.
-PCA: Unauffällig. 
+PCA: Unauffällig.
 
 Beurteilung
 - Kein abgrenzbarer Gefäßverschluss.
-- Kein Anhalt für eine hämodynamisch wirksame Stenose.  
+- Kein Anhalt für eine hämodynamisch wirksame Stenose.
 ** CT-Hals :: 8chals
 Rechtfertigende Indikation
 
@@ -244,7 +244,7 @@ Axilläre Lymphknoten:
 Mediastinum:
 - Lymphknoten:
 - Aorta:
-- Herz:  
+- Herz:
 - Koronararterien:
 - Ösophagus:
 Pulmonalarterien:
@@ -254,21 +254,19 @@ Lungenparenchym:
 - Unterlappen rechts:
 - Oberlappen links:
 - Unterlappen links:
-Zentrale Atemwege:   
+Zentrale Atemwege:
 Pleura rechts:
 Pleura links:
 BWS:
 Rippen:
 Sternum:
-Klavikula rechts:
-Klavikula links:
 
 Abdomen:
-Leber: 
+Leber:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
-Milz: 
+Milz:
 Rechte Nebenniere:
 Linke Nebenniere:
 Rechte Niere:
@@ -300,11 +298,11 @@ Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der spätarteriell
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Miterfasste Lungenabschnitte:
-Leber: 
+Leber:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
-Milz: 
+Milz:
 Rechte Nebenniere:
 Linke Nebenniere:
 Rechte Niere:
@@ -371,7 +369,7 @@ Axilläre Lymphknoten:
 Mediastinum:
 - Lymphknoten:
 - Aorta:
-- Herz:  
+- Herz:
 - Koronararterien:
 - Ösophagus
 Pulmonalarterien:
@@ -384,14 +382,12 @@ Lungenparenchym:
 - Unterlappen rechts:
 - Oberlappen links:
 - Unterlappen links:
-Zentrale Atemwege:   
+Zentrale Atemwege:
 Pleura rechts:
 Pleura links:
 Wirbelkörper:
 Rippen:
 Sternum:
-Klavikula rechts:
-Klavikula links:
 
 Beurteilung
 ** CT Herz
@@ -421,7 +417,7 @@ LM: Unauffällig.
 RCA: Unauffällig.
   AM: Unauffällig.
 
-Cad.Rads: 
+Cad.Rads:
 
 ** CT Thorax-Abdomen :: 8cthxabd
 Rechtfertigende Indikation
@@ -437,7 +433,7 @@ Axilläre Lymphknoten:
 Mediastinum:
 - Lymphknoten:
 - Aorta:
-- Herz:  
+- Herz:
 - Koronararterien:
 - Ösophagus:
 Pulmonalarterien:
@@ -447,14 +443,12 @@ Lungenparenchym:
 - Unterlappen rechts:
 - Oberlappen links:
 - Unterlappen links:
-Zentrale Atemwege:   
+Zentrale Atemwege:
 Pleura rechts:
 Pleura links:
 BWS:
 Rippen:
 Sternum:
-Klavikula rechts:
-Klavikula links:
 
 Abdomen:
 Leber: 
@@ -479,7 +473,7 @@ Peritoneum/Mesenterium:
 Retroperitoneum:
 Bauchmuskulatur:
 LWS:
-Darm: 
+Darm:
 Übrige Weichteile:
 
 Beurteilung
@@ -515,7 +509,7 @@ Befund:
 Alignment:
   anterior: Unauffällig.
   posterior: Unauffällig.
-  spinolaminär: Unauffällig. 
+  spinolaminär: Unauffällig.
 Prävertebraler Raum:
   C2: mm (NW < 7mm)
   C3: mm (NW < 5mm)
@@ -1004,7 +998,7 @@ Checkliste Impingement:
   Ligamentum coracoacromiale: Unauffällig.
   Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
 Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
-Sonstiger Knochen: Unauffällig. 
+Sonstiger Knochen: Unauffällig.
 
 Beurteilung
 Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
@@ -1075,12 +1069,12 @@ Verdacht auf Leberfibrose (Positiver Vorhersagewert 82%)
 ** M. Parkinson :: 8parkinson
 Checkliste Morpus Parkinson:
   Vergrößerte Sulci und innere Ventrikel: gering
-  Substanzia nigra in der T2w: Unauffällig. 
+  Substanzia nigra in der T2w: Unauffällig.
   T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Unauffällig. 
   T2-hyperintense Herde im Putamen oder im Globus pallidus: Unauffällig.
   ADC des Putamens und des Nucleus caudatus: Unauffällig. 
   Putamen: Unauffällig.
-** Pankreasraumforderung :: 8cpankreas 
+** Pankreasraumforderung :: 8cpankreas
 Charakterisierung Raumforderung der Bauchspeicheldrüse:
   Lokalisation: periampullär/Kopf/Körper/Schwanz
   Morphologie: solide/zystisch/gemischt
