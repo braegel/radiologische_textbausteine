@@ -72,6 +72,7 @@ Mediastinum:
   Paraspinale Linie: Unauffällig
   Paraaortische Linie: Unauffällig
   Hili: Unauffällig
+  Retrosternaler Raum: Unauffällig.
 
 Lunge:
   Raumforderungen: Nein
