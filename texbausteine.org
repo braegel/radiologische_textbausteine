@@ -323,6 +323,8 @@ Bauchmuskulatur:
 Wirbelsäule:
 Darm: 
 Übrige Weichteile:
+Freie Luft:
+Freie Flüssigkeit: 
 
 Beurteilung
 
