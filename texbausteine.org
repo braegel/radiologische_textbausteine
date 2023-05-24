@@ -299,7 +299,9 @@ Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der spätarteriell
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Miterfasste Lungenabschnitte:
-Leber:
+Freie Luft:
+Freie Flüssigkeit:
+Magen:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
@@ -311,20 +313,16 @@ Linke Niere:
 Harnleiter:
 Harnblase:
 Prostata:
-Uterus und Eierstöcke:
-Magen: 
+Uterus und Ovarien:
 Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
 Lebervenen:
-Lymphknoten:
+Lymphknoten-Stationen:
 Peritoneum/Mesenterium:
-Retroperitoneum:
 Bauchmuskulatur:
-Wirbelsäule:
-Darm: 
+Darm:
 Übrige Weichteile:
-Freie Luft:
-Freie Flüssigkeit: 
+LWS:
 
 Beurteilung
 
@@ -386,6 +384,7 @@ Lungenparenchym:
 - Oberlappen links:
 - Unterlappen links:
 Zentrale Atemwege:
+Freie Luft: 
 Pleura rechts:
 Pleura links:
 Wirbelkörper:
@@ -454,11 +453,15 @@ Rippen:
 Sternum:
 
 Abdomen:
-Leber: 
+
+Leber:
+Freie Luft:
+Freie Flüssigkeit:
+Magen:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
-Milz: 
+Milz:
 Rechte Nebenniere:
 Linke Nebenniere:
 Rechte Niere:
@@ -466,18 +469,16 @@ Linke Niere:
 Harnleiter:
 Harnblase:
 Prostata:
-Uterus und Eierstöcke:
-Magen: 
+Uterus und Ovarien:
 Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
 Lebervenen:
-Lymphknoten:
+Lymphknoten-Stationen:
 Peritoneum/Mesenterium:
-Retroperitoneum:
 Bauchmuskulatur:
-LWS:
 Darm:
 Übrige Weichteile:
+LWS:
 
 Beurteilung
 
@@ -728,7 +729,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Carpal Bossing: Nein
 SL-Abstand: Unauffällig.
 TFCC: Unauffällig.
-Strecksehen: Unauffällig.
+Strecksehnen: Unauffällig.
 Beugesehnen: Unauffällig.
 Muskulatur: Unauffällig.
 Gelenke: Unauffällig.
@@ -799,6 +800,7 @@ LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose
 LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
 
 Beurteilung
+
 ** MR LWS :: 8mlws
 Fragestellung
 Lumbale Beschwerden. Degeneration?
@@ -981,6 +983,7 @@ Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
 Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
 Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
 Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
+TOF-Angio: Unauffällig.
 
 Beurteilung
 Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
@@ -1004,7 +1007,7 @@ Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
 Sonstiger Knochen: Unauffällig.
 
 Beurteilung
-Der Befund ist mit einer Tendinitis der Sehne des M. supraspinatus vereinbar. Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
+Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
 * Interventionen
 ** PRT :: 8mprt
 Technik
