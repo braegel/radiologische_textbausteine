@@ -263,6 +263,9 @@ Rippen:
 Sternum:
 
 Abdomen:
+Freie Luft:
+Freie Flüssigkeit:
+Magen: 
 Leber:
 Gallenblase:
 Gallenwege:
@@ -276,16 +279,15 @@ Harnleiter:
 Harnblase:
 Prostata:
 Uterus und Eierstöcke:
-Magen: 
-Aorta abdominalis und ihre Hauptäste:
-Pfortader und ihre Hauptäste:
-Lebervenen:
+Darm: 
 Lymphknoten:
 Peritoneum/Mesenterium:
 Retroperitoneum:
 Bauchmuskulatur:
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste:
+Lebervenen:
 LWS:
-Darm: 
 Übrige Weichteile:
 
 Beurteilung:
@@ -302,6 +304,7 @@ Miterfasste Lungenabschnitte:
 Freie Luft:
 Freie Flüssigkeit:
 Magen:
+Leber:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
@@ -314,14 +317,14 @@ Harnleiter:
 Harnblase:
 Prostata:
 Uterus und Ovarien:
-Aorta abdominalis und ihre Hauptäste:
-Pfortader und ihre Hauptäste:
-Lebervenen:
+Darm:
+Übrige Weichteile:
 Lymphknoten-Stationen:
 Peritoneum/Mesenterium:
 Bauchmuskulatur:
-Darm:
-Übrige Weichteile:
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste:
+Lebervenen:
 LWS:
 
 Beurteilung
@@ -453,11 +456,10 @@ Rippen:
 Sternum:
 
 Abdomen:
-
-Leber:
 Freie Luft:
 Freie Flüssigkeit:
 Magen:
+Leber:
 Gallenblase:
 Gallenwege:
 Bauchspeicheldrüse:
@@ -470,14 +472,14 @@ Harnleiter:
 Harnblase:
 Prostata:
 Uterus und Ovarien:
-Aorta abdominalis und ihre Hauptäste:
-Pfortader und ihre Hauptäste:
-Lebervenen:
+Darm:
 Lymphknoten-Stationen:
 Peritoneum/Mesenterium:
 Bauchmuskulatur:
-Darm:
 Übrige Weichteile:
+Aorta abdominalis und ihre Hauptäste:
+Pfortader und ihre Hauptäste:
+Lebervenen:
 LWS:
 
 Beurteilung
