@@ -912,6 +912,7 @@ Bänder:
   Lig. calcaneofibulare: Unauffällig.
   Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
   Lig. deltoideum (tiefer Anteil): Unauffällig.
+  Lig. calcaneonaviculare plantare: Unauffällig.
   Plantarfaszie: Unauffällig.
 Sehnen:
   Mediale Beugesehnen: Unauffällig.
