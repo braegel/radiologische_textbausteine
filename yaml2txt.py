@@ -21,6 +21,18 @@ class Report:
             print("Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch die im Strahlenschutz fachkundige unterzeichende Person gestellt.")
         print()
         print("Befund")
+        
+        for finding_category in self.findings:
+            if list(finding_category)[0] != 'general':
+                print()
+                print("  "+list(finding_category)[0]+":")
+                for findings in finding_category.values():
+                    for finding in findings:
+                        if isinstance(finding,str):
+                            print(finding+": Unauffällig")
+                        else:
+                            for finding, answer in finding.items():
+                                print(finding+": "+str(answer))
         print()
         print("Beurteilung")
         print()
@@ -33,25 +45,6 @@ def read_yaml(file_path):
             print(exc)
             data = None
     return data
-
-def data_txt(data):
-    for modality in data['modality']:
-        if isinstance(modality, dict):
-            for regions in modality.values():
-                for region in regions:
-#                    print(modality.keys())
-#                    print('cr' in modality.keys())
-                    if('cr' in modality.keys()): #TODO MRI CT
-                        print("* " + "Röntgen "+region['region']+": "+region['shortcut'])
-                    print("Rechtfertigende Indikation: " + region['history']) # TODO for MRI
-                    print()
-                    print("Technik: " + region['technique'])
-                    print()
-                    print("Befund:")
-                    for finding_cat in region['findings']:
-                        print (f"{finding_cat}")
-                    print();
-                    print("Beurteilung: \n")
 
 def parse_yaml(data):
     for modality in data['modality']:
@@ -66,7 +59,6 @@ def main():
     txt_file = 'textbausteine.txt'  # your txt file path
     data = read_yaml(yaml_file)
     list_of_reports=parse_yaml(data)
-#    data_txt(data)
 
 if __name__ == "__main__":
     main()
