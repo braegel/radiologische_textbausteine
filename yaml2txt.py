@@ -16,9 +16,13 @@ def data_txt(data):
                 for region in regions:
 #                    print(modality.keys())
 #                    print('cr' in modality.keys())
-                    if('cr' in modality.keys()):
+                    if('cr' in modality.keys()): #TODO MRI CT
                         print("* " + "Röntgen "+region['region']+": "+region['shortcut'])
                     print("Rechtfertigende Indikation: " + region['history']) # TODO for MRI
+                    print()
+                    print("Befund:")
+                    for finding in region['findings']: 
+                        print(str(finding)+": ") # TODO current
 def main():
     yaml_file = 'textbausteine.yaml'  # your yaml file path
     txt_file = 'textbausteine.txt'  # your txt file path
