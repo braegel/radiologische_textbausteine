@@ -1,1 +1,0 @@
-{'modality': [{'cr': [{'region': 'Handgelenk', 'technique': 'Röntgen des Handgelenkes in zwei Ebenen'}]}, 'ct', 'mr']}

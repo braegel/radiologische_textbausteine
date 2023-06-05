@@ -5,47 +5,52 @@
 modality:
   - cr:
     - region: Handgelenk
+      shortcut: 8rhg
       technique: Röntgen des Handgelenkes in zwei Ebenen
+      history: Schmerzen
+      findings:
+        - Längenunterschied Ulna vs. Radius (NW <= 2mm)
+        - Carpal Bossing:
+            - ja
+            - nein
+        - Scapholunärer Spalt (NW <= 3mm)
+        - Karpaler Bogen I
+        - Karpaler Bogen II
+        - Karpaler Bogen III
+        - Scapholunärer Winkel (NW 30-60°)
+        - Capitolunärer Winkel (NW <30°)
+        - Knochen
+    - region: Hände
+      shortcut: 8ra
+      technique: Röntgen beider Hände in zwei Ebenen
+      history: Schmerzen
+      findings:
+        - Checkliste Rheumatoide Arthritis:
+            - Fokale Weichteilschwellungen:
+                - MCP
+                - PIP
+                - Processus styloideus ulnae
+            - Osteopenie:
+                - juxtaartikulär
+                - diffus
+            - Erosionen:
+                - Ausgedünnte Kortikalis
+                - Mouse ears
+                - Subchondrale Erosionen
+                - Processus styloideus ulnae
+                - Processus styloideus radii
+                - Pencil in cup
+                - Destruktion der distalen Ulna
+                - Destruktion der proximalen Handwurzelknochen
+            - Knorpelschäden:
+                - verbreitete Gelenke (Erguss)
+                - verschmälerte Gelenke
+            - Subchondrale Zysten
+            - Capping des Processus styloideus ulnae
+            - Malalignement der Handwurzel
+            - Malalignement der Finger
   - ct
   - mr
-# ** Rö Handgelenk
-# Rechtfertigende Indikation:
-# Schmerzen
-
-# Technik:
-# Röntgen des Handgelenkes in zwei Ebenen
-
-# Befund:
-# Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-# Längenunterschied Ulna vs. Radius (NW <= 2mm):
-# Carpal Bossing: nein
-# Scapholunärer Spalt (NW <= 3mm):
-# Karpaler Bogen I: Unauffällig
-# Karpaler Bogen II: Unauffällig
-# Karpaler Bogen III: Unauffällig
-# Scapholunärer Winkel (NW 30-60°):
-# Capitolunärer Winkel (NW <30°):
-# Knochen: Unauffällig
-
-# Beurteilung:
-
-# ** Rö Hände :: 8ra
-# Rechtfertigende Indikation:
-# Schmerzen.
-
-# Technik:
-# Röntgen beider Hände in zwei Ebenen.
-
-# Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-# Checkliste Rheumatoide Arthritis:
-# Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
-# Osteopenie: juxtaartikulär/diffus
-# Erosionen: Ausgedünnte Kortikalis/Mouse ears/Subchondrale Erosionen/Proc. styloideus ulnae/radii/Pencil in cup/Destruktion der distalen Ulna/ Destruktion der proximalen Handwurzelknochen
-# Knorpelschäden: verbreitete Gelenke/verschmälerte Gelenkerguss
-# Subchondrale Zysten: nein
-# Capping des Proc. styloideus ulnae: nein
-# Malalignement der Handwurzel: nein
-# Malalignement der Finger: nein
 
 # Beurteilung:
 # Kein richtungsweisender Befund.

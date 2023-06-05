@@ -9,15 +9,21 @@ def read_yaml(file_path):
             data = None
     return data
 
-def write_txt(file_path, data):
-    with open(file_path, 'w') as f:
-        f.write(str(data))
-
+def data_txt(data):
+    for modality in data['modality']:
+        if isinstance(modality, dict):
+            for regions in modality.values():
+                for region in regions:
+#                    print(modality.keys())
+#                    print('cr' in modality.keys())
+                    if('cr' in modality.keys()):
+                        print("* " + "Röntgen "+region['region']+": "+region['shortcut'])
+                    print("Rechtfertigende Indikation: " + region['history']) # TODO for MRI
 def main():
     yaml_file = 'textbausteine.yaml'  # your yaml file path
     txt_file = 'textbausteine.txt'  # your txt file path
     data = read_yaml(yaml_file)
-    write_txt(txt_file, data)
+    data_txt(data)
 
 if __name__ == "__main__":
     main()
