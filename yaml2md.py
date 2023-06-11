@@ -9,33 +9,29 @@ class Report:
         self.technique=technique
         self.findings=findings
 
-    def de_txt(self):
-        print ("* ", end ='')
+    def de_md(self):
         if self.modality == 'cr':
-            print("Röntgen ", end = '')
-        print(self.region+": "+self.shortcut)
-        print("Klinische Informationen: "+self.history)
-        print();
-        print("Technik: "+self.technique)
+            md = "# Röntgen "
+        md = md + self.region+": "+self.shortcut+"\n"
+        md = md + "## Klinische Informationen\n"+self.history+"\n"
+        md = md + "\n## Technik\n"+self.technique+"\n"
         if self.modality=='cr':
-            print("Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch die im Strahlenschutz fachkundige unterzeichende Person gestellt.")
-        print()
-        print("Befund")
+            md= md + "Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch die im Strahlenschutz fachkundige unterzeichende Person gestellt.\n"
+        md = md + "\n## Befund\n"
         
         for finding_category in self.findings:
-            if list(finding_category)[0] != 'general':
-                print()
-                print("  "+list(finding_category)[0]+":")
-                for findings in finding_category.values():
-                    for finding in findings:
-                        if isinstance(finding,str):
-                            print(finding+": Unauffällig")
-                        else:
-                            for finding, answer in finding.items():
-                                print(finding+": "+str(answer))
-        print()
-        print("Beurteilung")
-        print()
+            for finding_category_name,findings in finding_category.items():
+                md=md + "\n### "+finding_category_name+"\n"
+                for finding in findings:
+                    if isinstance(finding,str):
+                        md=md + str(finding) +": Unauffällig\n"
+                    else:
+                        for finding,answers in finding.items():
+                            md=md + finding + ":\n"
+                            for answer in answers['answers']:
+                                md = md + "- [ ] "+answer + "\n"
+        md=md+"\n## Beurteilung\n"
+        return(md)
 
 def read_yaml(file_path):
     with open(file_path, 'r') as stream:
@@ -52,7 +48,7 @@ def parse_yaml(data):
             for regions in modality.values():
                 for region in regions:
                     report=Report(list(modality)[0], region['region'], region['shortcut'], region['history'], region['technique'],region['findings'])
-                    report.de_txt()
+                    print(report.de_md())
 
 def main():
     yaml_file = 'textbausteine.yaml'  # your yaml file path 

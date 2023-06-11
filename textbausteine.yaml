@@ -9,19 +9,27 @@ modality:
       technique: Röntgen des Handgelenkes in zwei Ebenen
       history: Schmerzen
       findings:
-        - general:
-          - Längenunterschied Ulna vs. Radius (NW <= 2mm)
+        - Checkliste Gelenke:
           - Carpal Bossing:
               answers:
                 - ja
                 - nein
-                - Scapholunärer Spalt (NW <= 3mm)
-                - Karpaler Bogen I
-                - Karpaler Bogen II
-                - Karpaler Bogen III
-                - Scapholunärer Winkel (NW 30-60°)
-                - Capitolunärer Winkel (NW <30°)
-                - Knochen
+          - Längenunterschied Ulna vs. Radius (NW <= 2mm):
+              answers:
+                - ja
+                - nein
+          - Erweiterter scapholunärer Spalt (NW <= 3mm):
+              answers:
+                - ja
+                - nein
+          - Karpaler Bogen I
+          - Karpaler Bogen II
+          - Karpaler Bogen III
+          - Scapholunärer Winkel (NW 30-60°)
+          - Capitolunärer Winkel (NW <30°)
+        - Sonstiges:
+          - Knochen
+          - Weichteile
     - region: Hände
       shortcut: 8ra
       technique: Röntgen beider Hände in zwei Ebenen
