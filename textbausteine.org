@@ -540,7 +540,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
-Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
 Atlanto-Occipitale-Dislokation: Nein.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
@@ -942,7 +942,7 @@ Larynx: Unauffällig.
 Trachea: Unauffällig.
 Schilddrüse: Unauffällig.
 Lymphknoten: Unauffällig.
-Basal mit erfasste Hirnabschnitte: Unauffällig.
+Basal miterfasste Hirnabschnitte: Unauffällig.
 Myelon: Unauffällig.
 Übrige Weichteile: Unauffällig.
 Knochen: Unauffällig.
@@ -957,7 +957,7 @@ Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Harmonischer Verlauf.
 Höhenminderungen von Wirbelkörpern: Nein.
-Mit erfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
+Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
 Myelon: Unauffällig.
 HWK1/2: Keine Fraktur.
 HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
