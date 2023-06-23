@@ -766,7 +766,7 @@ Beurteilung:
 
 ** MR ISG :: 8misg
 Fragestellung:
-Sakroileitis?
+Sakroiliitis?
 
 Technik:
 MRT der ISG nach SOP nativ.
