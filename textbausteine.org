@@ -375,7 +375,7 @@ Mediastinum:
 - Aorta:
 - Herz:
 - Koronararterien:
-- Ösophagus
+- Ösophagus:
 Pulmonalarterien:
 Rechte Nebenniere:
 Linke Nebenniere:
