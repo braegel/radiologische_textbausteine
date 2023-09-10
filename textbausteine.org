@@ -125,7 +125,9 @@ Epiduralraum:
 Subduralraum:
 Mittellinie: 
 Venöse Sinus:
-Nasennebenhöhlen: 
+Sinus maxillares:
+Sinus ethmoidales:
+Sinus frontales:
 Mastoidzellen: 
 Knochen:
 
@@ -343,6 +345,7 @@ Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
 Lebervenen:
 LWS:
+Becken:
 
 Beurteilung
 
@@ -498,6 +501,7 @@ Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
 Lebervenen:
 LWS:
+Becken:
 
 Beurteilung
 
@@ -586,6 +590,29 @@ Mastoidzellen: Unauffällige Belüftung.
 Spiegelbildungen: Nein.
 Nasenseptum: Leichte Deviation. Keine Perforationen.
 Conchae nasalis: Unauffällig.
+
+** CT-Gesichtsschädel :: 8cgs
+Rechtfertigende Indikation
+Fraktur?
+
+Technik
+Spiral-CT des Gesichtsschädels:
+
+
+Befund
+Nasenbein:   
+Orbita links: 
+Orbita rechts: 
+Sinus maxillaris links: 
+Sinus maxillaris rechts: 
+Sinus ethmoidales: 
+Sinus frontales: 
+Jochbogen links:
+Jochbogen rechts:
+Unterkiefer:
+
+Beurteilug:
+Keine Fraktur des Mittelgesichtes.
 
 ** Ganzkörper CT :: 8cgk
 Rechtfertigende Indikation: Osteolysen?
