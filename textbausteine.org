@@ -108,23 +108,40 @@ Sonstiger Knochen: Unauffällig
 Beurteilung:
 
 * CT
-** CCT :: 8cctnorm
+** CCT :: 8cct
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
 Technik: CCT nativ nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen: Nein.
-Innere Liquorräume: Unauffällig.
-Äußere Liquorräume: Unauffällig.
-Mittellinie: Nicht verlagert.
-Mediazeichen: Nein.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar.
-Venöse Sinus: Soweit beurteilbar unauffällig.
-Nasennebenhöhlen: Unauffällige Belüftung soweit erfasst.
-Mastoidzellen: Unauffällige Belüftung soweit erfasst.
+Linker Seitenventrikel:
+Rechter Seitenventrikel:
+Dritter Ventrikel:
+Vierter Ventrikel:
+Basale Zisternen:
+Äußere Liquorräume:
+Epiduralraum:
+Subduralraum:
+Mittellinie: 
+Venöse Sinus:
+Nasennebenhöhlen: 
+Mastoidzellen: 
+Knochen:
+
+Checkliste Schlaganfall:
+  Blutungssuspekte Dichteanhebungen:
+  Mediazeichen:
+  Mark-Rinden-Differenzierung:
+  Inselrinde:
+  Nucleus caudatus:
+  Nucleus lentiformis: 
+  Capsula interna:
+  Thalamus:
+  Marklager: Fazekas Grad 
+  Kleinhirn:
+  Mittelhirn:
+  Pons:
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
