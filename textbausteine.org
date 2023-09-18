@@ -121,8 +121,6 @@ Dritter Ventrikel:
 Vierter Ventrikel:
 Basale Zisternen:
 Äußere Liquorräume:
-Epiduralraum:
-Subduralraum:
 Mittellinie: 
 Venöse Sinus:
 Sinus maxillares:
