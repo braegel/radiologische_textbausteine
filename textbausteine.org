@@ -1013,26 +1013,47 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 Beurteilung
 
 ** MRT Gehirn :: 8mc
-Klinische Angaben
+Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+
+Technik: MRT des Gehirns nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Diffusionsstörung: Nein.
-Pathologische Signalanhebungen in der T1w: Nein.
-Innere Liquorräume: Unauffällig. Keine NPH-Konfiguration.
-Äußere Liquorräume: Unauffällig. Keine signifikante temporomesiale Atrophie.
-Mittellinie: Nicht verlagert.
-Mark-Rinden-Differenzierung: Allseits erhalten.
-Basalganglien: Seitengleich abgrenzbar.
-Hirnstamm: Unauffällig.
-Kleinhirn: Unauffällig. Auch unauffällige Lage der Kleinhirntonsillen.
-Marklager: In der T2w und in der FLAIR zeigen sich einzelne unspezifische Signalanhebungen im periventrikulären Marklager.
-Nasennebenhöhlen: Soweit erfasst unauffällige Signale.
-Mastoidzellen: Soweit erfasst unauffällige Signale. Frei einsehbarer innerer Gehörgang.
-TOF-Angio: Unauffällig.
+Linker Seitenventrikel:
+Rechter Seitenventrikel:
+Dritter Ventrikel:
+Vierter Ventrikel:
+Basale Zisternen:
+Äußere Liquorräume:
+Mittellinie:
+Venöse Sinus:
+Sinus maxillares:
+Sinus ethmoidales:
+Sinus frontales:
+Mastoidzellen:
+Innerer Gehörgang:
+Knochen:
+Diffusionswichtung:
+
+TOF-Angio:
+
+Checkliste Schlaganfall:
+  Pathologische Signalanhebungen in der T1-Wichtung:
+  Mark-Rinden-Differenzierung:
+  Inselrinde:
+  Nucleus caudatus:
+  Nucleus lentiformis: 
+  Capsula interna:
+  Thalamus:
+  Marklager: Fazekas Grad 
+  Kleinhirn:
+  Mittelhirn:
+  Pons:
 
 Beurteilung
-Einzelne unspezifische Marklagerveränderungen. Diese sind gut mit mikroangiopathisch und lakunär bedingten Veränderungen vereinbar. Ansonsten kein richtungsweisender Befund.
+Kein Anhalt für eine intrakranielle Einblutung.
+Ein frischer territorialer Infarkt demarkiert sich nicht.
+Keine Zeichen eines erhöhten Hirndruckes.
 
 ** MRT Schulter :: 8ms
 Klinische Angaben
