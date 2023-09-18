@@ -1052,7 +1052,7 @@ Checkliste Schlaganfall:
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
-Ein frischer territorialer Infarkt demarkiert sich nicht.
+Kein Anhalt für eine frische Ischämie.
 Keine Zeichen eines erhöhten Hirndruckes.
 
 ** MRT Schulter :: 8ms
