@@ -1033,12 +1033,12 @@ Sinus frontales:
 Mastoidzellen:
 Innerer Gehörgang:
 Knochen:
-Diffusionswichtung:
-
 TOF-Angio:
+Blut-Hirn-Schranke:
 
 Checkliste Schlaganfall:
   Pathologische Signalanhebungen in der T1-Wichtung:
+  Diffusionswichtung:
   Mark-Rinden-Differenzierung:
   Inselrinde:
   Nucleus caudatus:
