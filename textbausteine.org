@@ -650,7 +650,7 @@ Beurteilung
 Altersentsprechende Osteopenie.
 
 * MRT
-** Knie :: 8mknie
+** MR Knie :: 8mknie
 Klinische Angaben
 
 Befund
@@ -1045,10 +1045,16 @@ Checkliste Schlaganfall:
   Nucleus lentiformis: 
   Capsula interna:
   Thalamus:
-  Marklager: Fazekas Grad 
+  Marklager:
   Kleinhirn:
   Mittelhirn:
   Pons:
+
+Checkliste Demenz:
+  GCA-Score: 
+  MTA-Score:
+  Fazekas-Score: 
+  Koedam-Score:
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
