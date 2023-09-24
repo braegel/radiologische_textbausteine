@@ -1196,6 +1196,20 @@ Checkliste pulsatiler Tinnitus:
   Divertikel des Sinus transversus: Kein Anhalt.
   Cochleäre Otosklerose: Kein Anhalt.
   Aberante ACI: Kein Anhalt.
+** Checkliste Polytrauma :: 8poly
+Checkliste Abdominaltrauma:
+  Zwerchfellruptur (coronare Ansicht):
+  Milz:
+    AAST: 
+    Ausdehnung des subkapsulären Hämatoms:
+    Intraparenchymatöse Blutung/Hämatom:
+    Einriss der Milzkapsel:
+    Tiefe des Parenyhcmeinrisses:
+    Hilären Gefäße: 
+  Volumen des Hämatoperitoneums:
+
+
+
 * kleines
 - 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
 - 8bp :: Breitbasige dorsale Protrusion.
