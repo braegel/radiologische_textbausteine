@@ -1214,6 +1214,10 @@ Checkliste Abdominaltrauma:
     Gefäßverletzung:
   Hämatoperitoneum:
 
+** Checkliste Gicht :: 8gicht
+Checkliste Gicht:
+  Mineralisierter Tophus und juxtaartikuläre Erosion mit überhängenden Ecken:
+
 * kleines
 - 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
 - 8bp :: Breitbasige dorsale Protrusion.
