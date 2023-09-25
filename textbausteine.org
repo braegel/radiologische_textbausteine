@@ -1205,10 +1205,14 @@ Checkliste Abdominaltrauma:
     Intraparenchymatöse Blutung/Hämatom:
     Einriss der Milzkapsel:
     Tiefe des Parenyhcmeinrisses:
-    Hilären Gefäße: 
-  Volumen des Hämatoperitoneums:
-
-
+    Hilären Gefäße:
+  Leber:
+    AAST:
+    Lazeration:
+    Tiefe des Parenchymeinrisses:
+    Ausdehnung des subkapsulären Hämatoms:
+    Gefäßverletzung:
+  Hämatoperitoneum:
 
 * kleines
 - 8zv :: Zum Vergleich liegt eine Voruntersuchung vom XXX vor.
