@@ -125,6 +125,7 @@ Mittellinie:
 Venöse Sinus:
 Sinus maxillares:
 Sinus ethmoidales:
+Sinus sphenoidales:
 Sinus frontales:
 Mastoidzellen: 
 Knochen:
@@ -729,7 +730,10 @@ Hüftgelenke: unauffällig
 Hüftmuskulatur und Sehnen: unauffällig
 Bursa trochanterica: unauffällig 
 Lymphknoten: unauffällig
-Übrige Weichteile: unauffällig 
+Übrige Weichteile: unauffällig
+
+Checkliste Hüftschmerzen:
+  
 
 Beurteilung
 Kein richtungsweisender Befund.
