@@ -733,8 +733,13 @@ Lymphknoten: unauffällig
 Übrige Weichteile: unauffällig
 
 Checkliste Hüftschmerzen:
+  Synoviale Chondromatose:
+  Tenosynoviale Riesenzelltumor (ehem. PVNS):
+  Avaskuläre Femurkopfnekrose:
+  Transiente Osteoporose:
+  Tuberkulöse Sakroiliitis:
+  Axiale Spondyloarthritis:
   
-
 Beurteilung
 Kein richtungsweisender Befund.
 
