@@ -583,7 +583,7 @@ Spiral-CT der Nasennebenhöhlen
 Beurteilung
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Vorderes Kompartiemnt:
-Sinus frontales:
+  Sinus frontales:
   Vordere Sinus ethmoidales:
   Sinus maxillares:
 Hinteres Kompartiment:
