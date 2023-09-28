@@ -582,14 +582,17 @@ Spiral-CT der Nasennebenhöhlen
 
 Beurteilung
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Sinus frontales: Unauffällige Belüftung.
-Sinus ethmoidales: Unauffällige Belüftung.
-Sinus sphenoidales: Unauffällige Belüftung.
-Sinus maxillares: Unauffällige Belüftung.
-Mastoidzellen: Unauffällige Belüftung.
-Spiegelbildungen: Nein.
-Nasenseptum: Leichte Deviation. Keine Perforationen.
-Conchae nasalis: Unauffällig.
+Vorderes Kompartiemnt:
+Sinus frontales:
+  Vordere Sinus ethmoidales:
+  Sinus maxillares:
+Hinteres Kompartiment:
+  Hintere Sinus ethmoidales:
+  Sinus sphenoidales:
+Mastoidzellen:
+Spiegelbildungen:
+Nasenseptum:
+Conchae nasalis:
 
 ** CT-Gesichtsschädel :: 8cgs
 Rechtfertigende Indikation
