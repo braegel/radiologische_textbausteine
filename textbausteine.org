@@ -1,3 +1,4 @@
+
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -737,7 +738,7 @@ Lymphknoten: unauffällig
 
 Checkliste Hüftschmerzen:
   Synoviale Chondromatose:
-  Tenosynoviale Riesenzelltumor (ehem. PVNS):
+  Tenosynovialer Riesenzelltumor (ehem. PVNS):
   Avaskuläre Femurkopfnekrose:
   Transiente Osteoporose:
   Tuberkulöse Sakroiliitis:
