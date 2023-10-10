@@ -116,6 +116,19 @@ Technik: CCT nativ nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen:
+Mediazeichen:
+Mark-Rinden-Differenzierung:
+Inselrinde:
+Nucleus caudatus:
+Nucleus lentiformis: 
+Capsula interna:
+Thalamus:
+Marklager: Fazekas Grad 
+Kleinhirn:
+Mittelhirn:
+Pons:
+Hypophyse: 
 Linker Seitenventrikel:
 Rechter Seitenventrikel:
 Dritter Ventrikel:
@@ -130,20 +143,6 @@ Sinus sphenoidales:
 Sinus frontales:
 Mastoidzellen: 
 Knochen:
-
-Checkliste Schlaganfall:
-  Blutungssuspekte Dichteanhebungen:
-  Mediazeichen:
-  Mark-Rinden-Differenzierung:
-  Inselrinde:
-  Nucleus caudatus:
-  Nucleus lentiformis: 
-  Capsula interna:
-  Thalamus:
-  Marklager: Fazekas Grad 
-  Kleinhirn:
-  Mittelhirn:
-  Pons:
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -1032,6 +1031,19 @@ Technik: MRT des Gehirns nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Pathologische Signalanhebungen in der T1-Wichtung:
+Diffusionswichtung:
+Mark-Rinden-Differenzierung:
+Inselrinde:
+Nucleus caudatus:
+Nucleus lentiformis: 
+Capsula interna:
+Thalamus:
+Marklager:
+Kleinhirn:
+Mittelhirn:
+Pons:
+Hypophyse:
 Linker Seitenventrikel:
 Rechter Seitenventrikel:
 Dritter Ventrikel:
@@ -1048,20 +1060,6 @@ Innerer Gehörgang:
 Knochen:
 TOF-Angio:
 Blut-Hirn-Schranke:
-
-Checkliste Schlaganfall:
-  Pathologische Signalanhebungen in der T1-Wichtung:
-  Diffusionswichtung:
-  Mark-Rinden-Differenzierung:
-  Inselrinde:
-  Nucleus caudatus:
-  Nucleus lentiformis: 
-  Capsula interna:
-  Thalamus:
-  Marklager:
-  Kleinhirn:
-  Mittelhirn:
-  Pons:
 
 Checkliste Demenz:
   GCA-Score: 
