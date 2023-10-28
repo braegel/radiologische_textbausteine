@@ -109,6 +109,123 @@ Sonstiger Knochen: Unauffällig
 Beurteilung:
 
 * CT
+** CT Polytrauma
+Rechtfertigende Indikation: Polytrauma
+Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt (Brägelmann) gestellt.
+
+Technik: Spiral-CT (Traumaspirale nach SOP). Rekonstruktion von multiplanaren Rekonstruktionen in drei Raumebenen.
+
+Befund:
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
+CCT:
+  Linker Seitenventrikel: 
+  Rechter Seitenventrikel: 
+  Dritter Ventrikel: 
+  Vierter Ventrikel: 
+  Basale Zisternen: 
+  Äußere Liquorräume: 
+  Mittellinie: 
+  Venöse Sinus: 
+  Sinus maxillares: 
+  Sinus ethmoidales: 
+  Sinus sphenoidales: 
+  Sinus frontales: 
+  Mastoidzellen: 
+  Knochen: 
+
+Checkliste Schlaganfall: 
+  Blutungssuspekte Dichteanhebungen: 
+  Mediazeichen: 
+  Mark-Rinden-Differenzierung: 
+  Inselrinde: 
+  Nucleus caudatus: 
+  Nucleus lentiformis: 
+  Capsula interna: 
+  Thalamus: 
+  Marklager: Fazekas Grad 
+  Kleinhirn: 
+  Mittelhirn: 
+  Pons:
+
+Gesichtsschädel:
+  Nasenbein:   
+  Orbita links: 
+  Orbita rechts: 
+  Sinus maxillaris links: 
+  Sinus maxillaris rechts: 
+  Sinus ethmoidales: 
+  Sinus frontales: 
+  Jochbogen links:
+  Jochbogen rechts:
+  Unterkiefer:
+
+HWS:
+  Atlanto-Occipitales Gelenk: 
+  HWK1/2: 
+  HWK2/3: 
+  HWK3/4: 
+  HWK4/5: 
+  HWK5/6:
+  HWK6/7: 
+  HWK7/BWK1:
+
+Thorax:
+  Axilläre Lymphknoten: 
+  Mediastinum: 
+    Lymphknoten: 
+    Aorta: 
+    Herz: 
+    Koronararterien: 
+    Ösophagus: 
+  Pulmonalarterien: 
+  Lungenparenchym: 
+    Oberlappen rechts: 
+    Mittellappen: 
+    Unterlappen rechts: 
+    Oberlappen links: 
+    Unterlappen links: 
+  Zentrale Atemwege: 
+  Pleura rechts: 
+  Pleura links: 
+  Knochen:
+    BWS: 
+    Rippen: 
+    Sternum: 
+    Klavikulae: 
+    Proximale. Humeri: 
+    Scapulae: 
+
+Abdomen:
+  Freie Luft: 
+  Aszites: 
+  Leber: 
+  Gallenblase: 
+  Gallenwege: 
+  Bauchspeicheldrüse: 
+  Milz: 
+  Rechte Nebenniere: 
+  Linke Nebenniere: 
+  Rechte Niere: 
+  Linke Niere: 
+  Harnleiter: 
+  Harnblase: 
+  Prostata: 
+  Uterus und Eierstöcke: 
+  Magen: 
+  Aorta abdominalis und ihre Hauptäste: 
+  Pfortader und ihre Hauptäste: 
+  Lebervenen: 
+  Lymphknoten: 
+  Bauchmuskulatur: 
+  Darm: 
+  Übrige Weichteile:
+  Knochen:
+    LWS: 
+    Becken:
+    Proximale Femura:
+
+Beurteilung:
 ** CCT :: 8cct
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
@@ -338,7 +455,6 @@ Uterus und Ovarien:
 Darm:
 Übrige Weichteile:
 Lymphknoten-Stationen:
-Peritoneum/Mesenterium:
 Bauchmuskulatur:
 Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
@@ -493,7 +609,6 @@ Prostata:
 Uterus und Ovarien:
 Darm:
 Lymphknoten-Stationen:
-Peritoneum/Mesenterium:
 Bauchmuskulatur:
 Übrige Weichteile:
 Aorta abdominalis und ihre Hauptäste:
