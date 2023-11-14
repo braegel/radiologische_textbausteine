@@ -1199,22 +1199,35 @@ Keine Zeichen eines erhöhten Hirndruckes.
 Klinische Angaben
 
 Befund
-Bursa subacromialis-subdeltoidea: Unauffällig.
-Bursa subcoracoidea: Unauffällig.
-Bizepssehne: Regelrechte Lage der langen Bizepssehne im Sulcus bizipitalis. Unauffällige Darstellung des Bizepssehnenankers.
-M. subscapularis: Unauffällig.
-M. infraspinatus: Unauffällig.
-M. supraspinatus: Unauffällig. Gelenkseitige/Bursaseitige/Interne Partialruptur mit e222iner Breite von mm (Footprint/PASTA)./Inkomplette/Komplette "full thickness" Ruptur.
-Glenoid: Kleine Konturunterbrechung im anterosuperioren Glenoid, die mit dem sublabralen Foramen vereinbar ist.
-Checkliste Impingement:
-  Acromion Typ: 2
-  Ligamentum coracoacromiale: Unauffällig.
-  Acromioclaviculargelenk: Arthrose mit Kapselschwellung.
-Arthropathie der Rotatorenmanschette: Nein (Hamada Typ 1)
-Sonstiger Knochen: Unauffällig.
+Bursa subacromialis-subdeltoidea: 
+Bursa subcoracoidea: 
+Bursa subscapularis: 
+Schultergelenk: 
+  Superior:
+    Bizepssehne: 
+    Ligamentum coracoacromiale: 
+    Sehne des M. infraspinatus: 
+   Anterior:
+     Anteriores Labrum: 
+     Glenohumerale Ligamente:
+       SGHL: 
+       MGHL: 
+       IGHL (anterior): 
+       Sehne des M. subscapularis: 
+    Posterior:
+      Posteriores Labrum: 
+      Sehne des M. infraspinatus: 
+      Sehne des M. teres minor: 
+      IGHL (posterior):
+Arthropathie der Rotatorenmanschette (Hamada Typ):
+Acromioclaviculargelenk: 
+Acromion Typ: 
+Os acromiale: 
+Hills-Sachs-Delle: 
+Sonstige Weichteile: 
+Sonstiger Knochen:  
 
-Beurteilung
-Impingement bei AC-Gelenksarthrose und kleiner subakromialer Knochenkonsole.
+Beurteilung:
 * Interventionen
 ** PRT :: 8mprt
 Technik
