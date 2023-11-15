@@ -1204,9 +1204,9 @@ Bursa subcoracoidea:
 Bursa subscapularis: 
 Schultergelenk: 
   Superior:
-    Bizepssehne: 
+    Lange Bizepssehne: 
     Ligamentum coracoacromiale: 
-    Sehne des M. infraspinatus: 
+    Sehne des M. supraspinatus: 
    Anterior:
      Anteriores Labrum: 
      Glenohumerale Ligamente:
@@ -1223,7 +1223,8 @@ Arthropathie der Rotatorenmanschette (Hamada Typ):
 Acromioclaviculargelenk: 
 Acromion Typ: 
 Os acromiale: 
-Hills-Sachs-Delle: 
+Hills-Sachs-Delle:
+Suprascauläres Entrapment:
 Sonstige Weichteile: 
 Sonstiger Knochen:  
 
