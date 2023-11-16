@@ -233,8 +233,11 @@ Technik: CCT nativ nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+
 Blutungssuspekte Dichteanhebungen:
+Venöse Sinus:
 Mediazeichen:
+
 Mark-Rinden-Differenzierung:
 Inselrinde:
 Nucleus caudatus:
@@ -245,7 +248,8 @@ Marklager: Fazekas Grad
 Kleinhirn:
 Mittelhirn:
 Pons:
-Hypophyse: 
+Hypophyse:
+
 Linker Seitenventrikel:
 Rechter Seitenventrikel:
 Dritter Ventrikel:
@@ -253,7 +257,8 @@ Vierter Ventrikel:
 Basale Zisternen:
 Äußere Liquorräume:
 Mittellinie: 
-Venöse Sinus:
+
+
 Sinus maxillares:
 Sinus ethmoidales:
 Sinus sphenoidales:
@@ -1224,7 +1229,7 @@ Acromioclaviculargelenk:
 Acromion Typ: 
 Os acromiale: 
 Hills-Sachs-Delle:
-Suprascauläres Entrapment:
+Suprascapuläres Entrapment:
 Sonstige Weichteile: 
 Sonstiger Knochen:  
 
