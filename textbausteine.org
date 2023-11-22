@@ -826,17 +826,17 @@ MRT des Abdomens nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Basale Lungenabschnitte: Unauffällig. Kein Pleuraerguss. Kein Perikarderguss.
-Leber: Homogenes Leberparenchym.
-Gallenwege: Kein Nachweis von Konkrementen. Kein Nachweis erweiterter intra- oder extrahepatischer Gallenwege. Keine Mehrschichtigkeit der Gallenblase.
-Bauchspeicheldrüse: Unauffällig.
-Milz: Unauffällig.
-Nebennieren: Unauffällig.
-Nieren: Beidseits normal groß. Keine Zeichen einer Harnabflussstörung.
-Lymphknoten: Unauffällig.
-Darm: Soweit MR morphologisch beurteilbar unauffällig.
-Becken: Keine freie Flüssigkeit. Soweit beurteilbar unauffällige Darstellung der erfassten Organe des kleinen Beckens.
-Skelettsystem: Degenerative Veränderungen.
+Basale Lungenabschnitte: 
+Leber: 
+Gellenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Nebennieren: 
+Nieren: 
+Lymphknoten: 
+Darm: 
+Becken: 
+Skelettsystem: 
 
 Beurteilung
 
