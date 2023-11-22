@@ -1,4 +1,5 @@
 
+
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -226,6 +227,8 @@ Abdomen:
     Proximale Femura:
 
 Beurteilung:
+
+
 ** CCT :: 8cct
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
@@ -249,22 +252,21 @@ Kleinhirn:
 Mittelhirn:
 Pons:
 Hypophyse:
+Mittellinie: 
 
 Linker Seitenventrikel:
 Rechter Seitenventrikel:
-Dritter Ventrikel:
+Dritter Ventrikel:	
 Vierter Ventrikel:
 Basale Zisternen:
 Äußere Liquorräume:
-Mittellinie: 
-
 
 Sinus maxillares:
 Sinus ethmoidales:
 Sinus sphenoidales:
 Sinus frontales:
-Mastoidzellen: 
-Knochen:
+Mastoidzellen:
+Knochen: 
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -875,22 +877,23 @@ Frühere Verletzung.
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Primäre Stabilisatoren (O'Driscoll):
-  Humeroulnares Gelenk: Unauffällig.
-  LUCL: Unauffällig.
-  aMCL (Stabilisator bei Valgusstress): Unauffällig.
+  Humeroulnares Gelenk: 
+  LUCL: 
+  aMCL (Stabilisator bei Valgusstress): 
   Sekundäre Stabilisatoren:
-  Humeroradiales Gelenk: Unauffällig.
-  Anteriore Gelenkkapsel: Unauffällig.
-  Extensorenmuskulatur: Unauffällig.
-  Flexorenmuskulatur: Unauffällig.
+  Humeroradiales Gelenk: 
+  Anteriore Gelenkkapsel: 
+  Extensorenmuskulatur: 
+  Flexorenmuskulatur: 
 Übrige Kollateralbänder:
-  pMCL (Stabilisator für die Innenrotation): Unauffällig.
-  RCL: Unauffällig.
-  Lig. anulare radii: Unauffällig.
-Proximales radioulnares Gelenk: Unauffällig.
-Epicondylen: Unauffällig.
-Distale Bizepssehne: Unauffällig
-Übrige Weichteile: Unauffällig.
+  pMCL (Stabilisator für die Innenrotation): 
+  RCL: 
+  Lig. anulare radii: 
+Proximales radioulnares Gelenk: 
+Epicondylen:
+Distale Bizepssehne:
+Nervus ulnaris/Lig. arcuatum: 
+Übrige Weichteile:
 
 Beurteilung:
 
@@ -1204,6 +1207,7 @@ Keine Zeichen eines erhöhten Hirndruckes.
 Klinische Angaben
 
 Befund
+Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor
 Bursa subacromialis-subdeltoidea: 
 Bursa subcoracoidea: 
 Bursa subscapularis: 
