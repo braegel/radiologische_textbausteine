@@ -827,8 +827,9 @@ MRT des Abdomens nach SOP.
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Basale Lungenabschnitte: 
-Leber: 
-Gellenwege: 
+Leber:
+Gallenblase: 
+Gallenwege: 
 Bauchspeicheldrüse: 
 Milz: 
 Nebennieren: 
