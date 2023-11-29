@@ -1223,7 +1223,7 @@ Schultergelenk:
        SGHL: 
        MGHL: 
        IGHL (anterior): 
-       Sehne des M. subscapularis: 
+     Sehne des M. subscapularis: 
     Posterior:
       Posteriores Labrum: 
       Sehne des M. infraspinatus: 
