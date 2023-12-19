@@ -1,5 +1,3 @@
-
-
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -1176,9 +1174,10 @@ Basale Zisternen:
 Äußere Liquorräume:
 Mittellinie:
 Venöse Sinus:
-Sinus maxillares:
-Sinus ethmoidales:
 Sinus frontales:
+Sinus ethmoidales:
+Sinus sphenoidales:
+Sinus maxillares:
 Mastoidzellen:
 Innerer Gehörgang:
 Knochen:
