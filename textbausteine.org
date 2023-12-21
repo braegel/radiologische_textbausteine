@@ -1147,7 +1147,7 @@ HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
 Beurteilung
 
 ** MRT Gehirn :: 8mc
-Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
+Indikation: Blutung? Ischämie? Hirndruck?
 
 Technik: MRT des Gehirns nach SOP.
 
