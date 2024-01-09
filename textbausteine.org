@@ -1293,7 +1293,7 @@ Checkliste Eisenablagerungen:
 Checkliste Epilepsie:
   Polymikrogyrie: Nein
   Fokale kortikale Dysplasie: Nein
-  Anhalt für Neurokutane Syndrome: Nein
+  Anhalt für neurokutane Syndrome: Nein
   Heterotopie: Nein
   Kavernom: Nein
   Mesotemporale-Sklerose: Nein
