@@ -784,6 +784,7 @@ Erguss:
 Außenmeniskus: 
 Innenmeniskus: 
 Vorderes Kreuzband: 
+  Blumentsaat-Winke (NW <15°): 
 Hinteres Kreuzband: 
 Femorotibialer chondraler Gelenküberzug: 
 Retropatellarer chondraler Gelenküberzug: 
