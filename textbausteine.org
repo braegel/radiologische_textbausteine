@@ -1,3 +1,4 @@
+
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -779,39 +780,26 @@ Klinische Angaben
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Erguss: Nicht signifikant.
-Außenmeniskus:
-  Eindeutige Unterbrechung der Oberfläche: Nein
-  Empty-Meniscus-, Amputations- oder Bow-Tie-Zeichen: Nein
-  Meniskokapsuläre Anheftung: Unauffällig
-  Vorderhornwurzel: Unauffällig
-  Hinterhornwurzel: Unauffällig
-  Extrusion: Nein
-Innenmeniskus:
-  Eindeutige Unterbrechung der Oberfläche: Nein
-  Empty-Meniscus-, Amputations- oder Bow-Tie-Zeichen: Nein
-  Meniskokapsuläre Anheftung: Unauffällig
-  Vorderhornwurzel: Unauffällig
-  Hinterhornwurzel: Unauffällig
-  Extrusion: Nein
-Vorderes Kreuzband:
-  Konturunterbrechung in der T2 Wichtung: nein/mehr/weniger als 50% der Fasern
-  Faserverlauf flacher als interkondyläres Dach: nein
-  Flüssigkeit zwischen vorderem Kreuzband und lateraler Kondyle ("Empty Notch Sign"): nein
-Hinteres Kreuzband: Unauffällig.
-Femorotibialer chondraler Gelenküberzug: Unauffällig
-Retropatellarer chondraler Gelenküberzug: Unauffällig
-Mediales Retinakulum: Unauffällig
-Hoffa-Fettkörper: Unauffällig
-Mediales Kollateralband: Unauffällig
+Erguss: 
+Außenmeniskus: 
+Innenmeniskus: 
+Vorderes Kreuzband: 
+Hinteres Kreuzband: 
+Femorotibialer chondraler Gelenküberzug: 
+Retropatellarer chondraler Gelenküberzug: 
+Mediales Retinakulum: 
+Hoffa-Fettkörper: 
+Mediales Kollateralband: 
 Posterolateral Corner: 
-  Laterales Kollateralband: Unauffällig
-  M. bizeps femoris: Unauffällig
-  M. popliteus: Unauffällig
-Tractus iliotibialis: Unauffällig
-M. semimembranosus/semitendinosus: Unauffällig, soweit erfasst.
-M. quadriceps femoris/Patellarsehne: Unauffällig, soweit erfasst
-M. gastrocnemius: Unauffällig, soweit erfasst.
+  Laterales Kollateralband: 
+  M. bizeps femoris: 
+  M. popliteus: 
+Tractus iliotibialis: 
+Sehnen des M. semimembranosus/semitendinosus: 
+Sehne des M. quadriceps femoris: 
+Patellarsehne: 
+Sehne des M. gastrocnemius: 
+Intraneuronales Ganglion des Nervus peroneus: 
 
 Beurteilung:
 Kein signifikanter Kniebinnenschaden.
@@ -1153,50 +1141,50 @@ Technik: MRT des Gehirns nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Pathologische Signalanhebungen in der T1-Wichtung:
-Diffusionswichtung:
-Mark-Rinden-Differenzierung:
-Inselrinde:
-Nucleus caudatus:
+Pathologische Signalanhebungen in der T1-Wichtung: 
+Diffusionswichtung: 
+Mark-Rinden-Differenzierung: 
+Inselrinde: 
+Nucleus caudatus: 
 Nucleus lentiformis: 
-Capsula interna:
-Thalamus:
-Marklager:
-Kleinhirn:
-Mittelhirn:
-Pons:
-Hypophyse:
-Linker Seitenventrikel:
-Rechter Seitenventrikel:
-Dritter Ventrikel:
-Vierter Ventrikel:
-Basale Zisternen:
-Äußere Liquorräume:
-Mittellinie:
-Venöse Sinus:
-Sinus frontales:
-Sinus ethmoidales:
-Sinus sphenoidales:
-Sinus maxillares:
-Mastoidzellen:
-Innerer Gehörgang:
-Knochen:
-TOF-Angio:
-Blut-Hirn-Schranke:
+Capsula interna: 
+Thalamus: 
+Marklager: 
+Kleinhirn: 
+Mittelhirn: 
+Pons: 
+Hypophyse: 
+Linker Seitenventrikel: 
+Rechter Seitenventrikel: 
+Dritter Ventrikel: 
+Vierter Ventrikel: 
+Basale Zisternen: 
+Äußere Liquorräume: 
+Mittellinie: 
+Venöse Sinus: 
+Sinus frontales: 
+Sinus ethmoidales: 
+Sinus sphenoidales: 
+Sinus maxillares: 
+Mastoidzellen: 
+Innerer Gehörgang: 
+Knochen: 
+TOF-Angio: 
+Blut-Hirn-Schranke: 
 
 Checkliste Demenz:
   GCA-Score: 
-  MTA-Score (M. Alzheimer):
+  MTA-Score (M. Alzheimer): 
   Fazekas-Score (Vaskuläre Demenz): 
-  Koedam-Score (M. Alzheimer):
-  Frontotemporale Lobäre Degeneration (FTDL):
+  Koedam-Score (M. Alzheimer): 
+  Frontotemporale Lobäre Degeneration (FTDL): 
   Strategische Infarkte:
-    Bilateral ACA:
-    Gyrus angularis:
-    Bithalamisch:
-    Grenzzone:
+    Bilateral ACA: 
+    Gyrus angularis: 
+    Bithalamisch: 
+    Grenzzone: 
     Zwei oder mehr lakunäre Infarkte frontal oder in den Basalganglien (>=2):
-    Mehr als 25% Gliose der weißen Substanz:
+    Mehr als 25% Gliose der weißen Substanz: 
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -1234,7 +1222,7 @@ Os acromiale:
 Hills-Sachs-Delle:
 Suprascapuläres Entrapment:
 Sonstige Weichteile: 
-Sonstiger Knochen:  
+Sonstiger Knochen: 
 
 Beurteilung:
 * Interventionen
