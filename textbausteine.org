@@ -781,8 +781,9 @@ Klinische Angaben
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Erguss: 
-Außenmeniskus: 
 Innenmeniskus: 
+  Meniskokapsuläre Separation: 
+Außenmeniskus: 
 Vorderes Kreuzband: 
   Blumentsaat-Winke (NW <15°): 
 Hinteres Kreuzband: 
@@ -1178,7 +1179,7 @@ Checkliste Demenz:
   MTA-Score (M. Alzheimer): 
   Fazekas-Score (Vaskuläre Demenz): 
   Koedam-Score (M. Alzheimer): 
-  Frontotemporale Lobäre Degeneration (FTDL): 
+  Frontotemporale Lobäre Degeneration (FTLD): 
   Strategische Infarkte:
     Bilateral ACA: 
     Gyrus angularis: 
