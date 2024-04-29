@@ -785,7 +785,7 @@ Innenmeniskus:
   Meniskokapsuläre Separation: 
 Außenmeniskus: 
 Vorderes Kreuzband: 
-  Blumentsaat-Winke (NW <15°): 
+  Blumentsaat-Winkel (NW <15°): 
 Hinteres Kreuzband: 
 Femorotibialer chondraler Gelenküberzug: 
 Retropatellarer chondraler Gelenküberzug: 
@@ -853,7 +853,7 @@ Checkliste Hüftschmerzen:
   Transiente Osteoporose:
   Tuberkulöse Sakroiliitis:
   Axiale Spondyloarthritis:
-  
+
 Beurteilung
 Kein richtungsweisender Befund.
 
