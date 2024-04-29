@@ -1200,7 +1200,6 @@ Befund
 Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor
 Bursa subacromialis-subdeltoidea: 
 Bursa subcoracoidea: 
-Bursa subscapularis: 
 Schultergelenk: 
   Superior:
     Lange Bizepssehne: 
