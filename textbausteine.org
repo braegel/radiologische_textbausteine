@@ -800,7 +800,7 @@ Tractus iliotibialis:
 Sehnen des M. semimembranosus/semitendinosus: 
 Sehne des M. quadriceps femoris: 
 Patellarsehne: 
-Sehne des M. gastrocnemius: 
+M. gastrocnemius: 
 Intraneuronales Ganglion des Nervus peroneus: 
 
 Beurteilung:
