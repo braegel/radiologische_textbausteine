@@ -1,4 +1,6 @@
 
+
+
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -869,7 +871,7 @@ Primäre Stabilisatoren (O'Driscoll):
   Humeroulnares Gelenk: 
   LUCL: 
   aMCL (Stabilisator bei Valgusstress): 
-  Sekundäre Stabilisatoren:
+Sekundäre Stabilisatoren:
   Humeroradiales Gelenk: 
   Anteriore Gelenkkapsel: 
   Extensorenmuskulatur: 
