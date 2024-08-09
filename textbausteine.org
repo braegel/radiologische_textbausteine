@@ -787,7 +787,6 @@ Innenmeniskus:
   Meniskokapsuläre Separation: 
 Außenmeniskus: 
 Vorderes Kreuzband: 
-  Blumentsaat-Winkel (NW <15°): 
 Hinteres Kreuzband: 
 Femorotibialer chondraler Gelenküberzug: 
 Retropatellarer chondraler Gelenküberzug: 
