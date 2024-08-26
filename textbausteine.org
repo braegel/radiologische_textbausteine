@@ -1,6 +1,3 @@
-
-
-
 Befunde sollten verständlich sein. Verständlichkeit erreicht man über vier Wege: Einfachheit, Prägnanz, Struktur und Leseanreize. In diesem Sinne möchte ich gerne radiologische Befunde optimieren.
 
 * CC-Lizenz zur freien Verwendung
@@ -516,10 +513,18 @@ Axilläre Lymphknoten:
 Mediastinum:
 - Lymphknoten:
 - Aorta:
+  - ascendens [mm]: (NW < 40)
+  - descendens [mm]: (NW < 30)
 - Herz:
+  - Rechter Vorhof transversal [mm]:  (NW w: < 65 m: < 70)
+  - Rechter Ventrikel transvesal [mm]: (NW w: < 55 m: < 60)
+  - Linker Vorhof AP [mm]: (NW w: < 45 m: < 50)
+  - Rechter Ventrikel transversal [mm]: (NW w: < 55 m: < 60)
+  - RV/LV: 
 - Koronararterien:
 - Ösophagus:
 Pulmonalarterien:
+  - Hauptstamm [mm]: (NW <30-34)
 Rechte Nebenniere:
 Linke Nebenniere:
 Oberbauchorgane, soweit erfasst: 
@@ -538,6 +543,7 @@ Rippen:
 Sternum:
 
 Beurteilung
+
 ** CT Herz
 Rechtfertigende Indikation
 
@@ -897,7 +903,7 @@ MRT des Handgelenkes nach SOP
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Carpal Bossing: Nein
-SL-Abstand: Unauffällig.
+SL-Bänder: Unauffällig.
 TFCC: Unauffällig.
 Strecksehnen: Unauffällig.
 Beugesehnen: Unauffällig.
