@@ -8,36 +8,36 @@ Die Texte sind zur freien Verwendung mit der [Creative Commons Attribution-Share
 
 ## Rö Handgelenk
 
-Rechtfertigende Indikation: $
+Rechtfertigende Indikation: 
 Schmerzen
 
-Technik: $
+Technik: 
 Röntgen des Handgelenkes in zwei Ebenen
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
---wrap=preserveLängenunterschied Ulna vs. Radius (NW <= 2mm): $
+--wrap=preserveLängenunterschied Ulna vs. Radius (NW <= 2mm): 
 Carpal Bossing: nein
-Scapholunärer Spalt (NW <= 3mm): $
+Scapholunärer Spalt (NW <= 3mm): 
 Karpaler Bogen I: Unauffällig
 Karpaler Bogen II: Unauffällig
 Karpaler Bogen III: Unauffällig
-Scapholunärer Winkel (NW 30-60°): $
-Capitolunärer Winkel (NW <30°): $
+Scapholunärer Winkel (NW 30-60°): 
+Capitolunärer Winkel (NW <30°): 
 Knochen: Unauffällig
 
-Beurteilung: $
+Beurteilung: 
 
 ## Rö Hände :: 8ra
 
-Rechtfertigende Indikation: $
+Rechtfertigende Indikation: 
 Schmerzen.
 
-Technik: $
+Technik: 
 Röntgen beider Hände in zwei Ebenen.
 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Checkliste Rheumatoide Arthritis: $
+Checkliste Rheumatoide Arthritis: 
 Fokale Weichteilschwellungen: MCP/PIP/Proc. styloideus ulnae/nein
 Osteopenie: juxtaartikulär/diffus
 Erosionen: Ausgedünnte Kortikalis/Mouse ears/Subchondrale Erosionen/Proc. styloideus ulnae/radii/Pencil in cup/Destruktion der distalen Ulna/ Destruktion der proximalen Handwurzelknochen
@@ -47,7 +47,7 @@ Capping des Proc. styloideus ulnae: nein
 Malalignement der Handwurzel: nein
 Malalignement der Finger: nein
 
-Beurteilung: $
+Beurteilung: 
 Kein richtungsweisender Befund.
 
 ## Rö Thx :: 8rthx
@@ -55,13 +55,13 @@ Kein richtungsweisender Befund.
 Rechtfertigende Indikation
 Infiltrat? Stauung?
 
-Technik: $
+Technik: 
 Röntgen des Thorax in zwei Ebenen
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor
 
-Stauungszeichen: $
+Stauungszeichen: 
 Blutumverteilung: Kein Anhalt
 Vergrößertes Arterie-zu-Bronchus-Verhältnis: Nein
 Vergrößertes Herz: nein
@@ -71,7 +71,7 @@ Peribronchiales Cuffing: Nein
 Unscharfe zentrale intrapulmonale Gefäße: Nein
 Verbreitete interlobäre Fissuren: Nein
 
-Mediastinum: $
+Mediastinum: 
 Paratracheale Linie: Unauffällig
 Azygoösophageale Linie: Unauffällig
 Paraspinale Linie: Unauffällig
@@ -79,14 +79,14 @@ Paraaortische Linie: Unauffällig
 Hili: Unauffällig
 Retrosternaler Raum: Unauffällig.
 
-Lunge: $
+Lunge: 
 Raumforderungen: Nein
 Konsolidierungen: Nein
 Bronchopneumogramme: Nein
 Parenchym: Unauffällig
 \"Hidden Areas\": Unauffällig
 
-Pleura: $
+Pleura: 
 Zwerchfell: Scharf abgrenzbar. Randwinkel frei.
 Pleuraerguss: nein
 Pneumothorax: nein
@@ -96,13 +96,13 @@ Kein richtungsweisender Befund.
 
 ## Rö Ellenbogen :: 8rell
 
-Rechtfertigende Indikation: $
+Rechtfertigende Indikation: 
 Schmerzen
 
-Technik: $
+Technik: 
 Röntgen des Ellenbogens in zwei Ebenen
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Weite des Gelenkspaltes des Humeroulnargelenks in der seitlichen Aufnahme: mm (NW \< 4mm)
 Radius-Capitulum-Linie ap: Unauffällig/Versetzt
@@ -111,7 +111,7 @@ Asymmetrie der Gelenklinie: Nein.
 Proc. coronoideus: Unauffällig.
 Sonstiger Knochen: Unauffällig
 
-Beurteilung: $
+Beurteilung: 
 
 # CT
 
@@ -122,10 +122,10 @@ Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahl
 
 Technik: Spiral-CT (Traumaspirale nach SOP). Rekonstruktion von multiplanaren Rekonstruktionen in drei Raumebenen.
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-CCT: $
+CCT: 
 Linker Seitenventrikel: 
 Rechter Seitenventrikel: 
 Dritter Ventrikel: 
@@ -141,7 +141,7 @@ Sinus frontales:
 Mastoidzellen: 
 Knochen: 
 
-Checkliste Schlaganfall: $
+Checkliste Schlaganfall: 
 Blutungssuspekte Dichteanhebungen: 
 Mediazeichen: 
 Mark-Rinden-Differenzierung: 
@@ -155,84 +155,84 @@ Kleinhirn:
 Mittelhirn: 
 Pons: 
 
-Gesichtsschädel: $
+Gesichtsschädel: 
 Nasenbein: 
 Orbita links: 
 Orbita rechts: 
 Sinus maxillaris links: 
 Sinus maxillaris rechts: 
 Sinus ethmoidales: 
-Sinus frontales: $
-Jochbogen links: $
-Jochbogen rechts: $
-Unterkiefer: $
+Sinus frontales: 
+Jochbogen links: 
+Jochbogen rechts: 
+Unterkiefer: 
 
-HWS: $
-Atlanto-Occipitales Gelenk: $
-HWK1/2: $
-HWK2/3: $
-HWK3/4: $
-HWK4/5: $
-HWK5/6: $
-HWK6/7: $
-HWK7/BWK1: $
+HWS: 
+Atlanto-Occipitales Gelenk: 
+HWK1/2: 
+HWK2/3: 
+HWK3/4: 
+HWK4/5: 
+HWK5/6: 
+HWK6/7: 
+HWK7/BWK1: 
 
-Thorax: $
-Axilläre Lymphknoten: $
-Mediastinum: $
-Lymphknoten: $
-Aorta: $
-Herz: $
-Koronararterien: $
-Ösophagus: $
-Pulmonalarterien: $
-Lungenparenchym: $
-Oberlappen rechts: $
-Mittellappen: $
-Unterlappen rechts: $
-Oberlappen links: $
-Unterlappen links: $
-Zentrale Atemwege: $
-Pleura rechts: $
-Pleura links: $
-Knochen: $
-BWS: $
-Rippen: $
-Sternum: $
-Klavikulae: $
-Proximale. Humeri: $
-Scapulae: $
+Thorax: 
+Axilläre Lymphknoten: 
+Mediastinum: 
+Lymphknoten: 
+Aorta: 
+Herz: 
+Koronararterien: 
+Ösophagus: 
+Pulmonalarterien: 
+Lungenparenchym: 
+Oberlappen rechts: 
+Mittellappen: 
+Unterlappen rechts: 
+Oberlappen links: 
+Unterlappen links: 
+Zentrale Atemwege: 
+Pleura rechts: 
+Pleura links: 
+Knochen: 
+BWS: 
+Rippen: 
+Sternum: 
+Klavikulae: 
+Proximale. Humeri: 
+Scapulae: 
 
-Abdomen: $
-Freie Luft: $
-Aszites: $
-Leber: $
-Gallenblase: $
-Gallenwege: $
-Bauchspeicheldrüse: $
-Milz: $
-Rechte Nebenniere: $
-Linke Nebenniere: $
-Rechte Niere: $
-Linke Niere: $
-Harnleiter: $
-Harnblase: $
-Prostata: $
-Uterus und Eierstöcke: $
-Magen: $
-Aorta abdominalis und ihre Hauptäste: $
-Pfortader und ihre Hauptäste: $
-Lebervenen: $
-Lymphknoten: $
-Bauchmuskulatur: $
-Darm: $
-Übrige Weichteile: $
-Knochen: $
-LWS: $
-Becken: $
-Proximale Femura: $
+Abdomen: 
+Freie Luft: 
+Aszites: 
+Leber: 
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Rechte Niere: 
+Linke Niere: 
+Harnleiter: 
+Harnblase: 
+Prostata: 
+Uterus und Eierstöcke: 
+Magen: 
+Aorta abdominalis und ihre Hauptäste: 
+Pfortader und ihre Hauptäste: 
+Lebervenen: 
+Lymphknoten: 
+Bauchmuskulatur: 
+Darm: 
+Übrige Weichteile: 
+Knochen: 
+LWS: 
+Becken: 
+Proximale Femura: 
 
-Beurteilung: $
+Beurteilung: 
 
 ## CCT :: 8cct
 
@@ -243,36 +243,36 @@ Technik: CCT nativ nach SOP.
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-Blutungssuspekte Dichteanhebungen: $
-Venöse Sinus: $
-Mediazeichen: $
+Blutungssuspekte Dichteanhebungen: 
+Venöse Sinus: 
+Mediazeichen: 
 
-Mark-Rinden-Differenzierung: $
-Inselrinde: $
-Nucleus caudatus: $
-Nucleus lentiformis: $
-Capsula interna: $
-Thalamus: $
+Mark-Rinden-Differenzierung: 
+Inselrinde: 
+Nucleus caudatus: 
+Nucleus lentiformis: 
+Capsula interna: 
+Thalamus: 
 Marklager: Fazekas Grad
-Kleinhirn: $
-Mittelhirn: $
-Pons: $
-Hypophyse: $
-Mittellinie: $
+Kleinhirn: 
+Mittelhirn: 
+Pons: 
+Hypophyse: 
+Mittellinie: 
 
-Linker Seitenventrikel: $
-Rechter Seitenventrikel: $
-Dritter Ventrikel: $
-Vierter Ventrikel: $
-Basale Zisternen: $
-Äußere Liquorräume: $
+Linker Seitenventrikel: 
+Rechter Seitenventrikel: 
+Dritter Ventrikel: 
+Vierter Ventrikel: 
+Basale Zisternen: 
+Äußere Liquorräume: 
 
-Sinus maxillares: $
-Sinus ethmoidales: $
-Sinus sphenoidales: $
-Sinus frontales: $
-Mastoidzellen: $
-Knochen: $
+Sinus maxillares: 
+Sinus ethmoidales: 
+Sinus sphenoidales: 
+Sinus frontales: 
+Mastoidzellen: 
+Knochen: 
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -302,26 +302,26 @@ Beurteilung
 
 Rechtfertigende Indikation
 
-Technik: $
+Technik: 
 CT des Halses unter i.V. Kontrastmittelgabe nach SOP. Rekonstruktion von MPRs in drei Ebenen.
 
-Befund: $
+Befund: 
 Voraufnahmen: Es liegen keine Voraufnahmen vor.
-Nasennebenhöhlen, soweit erfasst: $
-Nasopharynx: $
-Oropharynx: $
-Glandula parotis: $
-Glandula submandibularis: $
-Glandula sublingualis: $
-Larynx: $
-Trachea: $
-Schilddrüse: $
-Lymphknoten: $
-Basal miterfasste Hirnabschnitte: $
-Übrige Weichteile: $
-HWS: $
+Nasennebenhöhlen, soweit erfasst: 
+Nasopharynx: 
+Oropharynx: 
+Glandula parotis: 
+Glandula submandibularis: 
+Glandula sublingualis: 
+Larynx: 
+Trachea: 
+Schilddrüse: 
+Lymphknoten: 
+Basal miterfasste Hirnabschnitte: 
+Übrige Weichteile: 
+HWS: 
 
-Beurteilung: $
+Beurteilung: 
 
 ## CT Hals-Thorax-Abdomen :: 8chalsthxabd
 
@@ -332,73 +332,73 @@ Technik: Spiral-CT des Thorax und des Oberbauches in der spätarteriellen Organp
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-Hals: $
-Nasennebenhöhlen, soweit erfasst: $
-Nasopharynx: $
-Oropharynx: $
-Glandula parotis: $
-Glandula submandibularis: $
-Glandula sublingualis: $
-Larynx: $
-Trachea: $
-Schilddrüse: $
-Lymphknoten: $
-Basal miterfasste Hirnabschnitte: $
-HWS: $
+Hals: 
+Nasennebenhöhlen, soweit erfasst: 
+Nasopharynx: 
+Oropharynx: 
+Glandula parotis: 
+Glandula submandibularis: 
+Glandula sublingualis: 
+Larynx: 
+Trachea: 
+Schilddrüse: 
+Lymphknoten: 
+Basal miterfasste Hirnabschnitte: 
+HWS: 
 
-Thorax: $
-Axilläre Lymphknoten: $
-Mediastinum: $
-- Lymphknoten: $
-- Aorta: $
-- Herz: $
-- Koronararterien: $
-- Ösophagus: $
+Thorax: 
+Axilläre Lymphknoten: 
+Mediastinum: 
+- Lymphknoten: 
+- Aorta: 
+- Herz: 
+- Koronararterien: 
+- Ösophagus: 
 
-Pulmonalarterien: $
-Lungenparenchym: $
-- Oberlappen rechts: $
-- Mittellappen: $
-- Unterlappen rechts: $
-- Oberlappen links: $
-- Unterlappen links: $
+Pulmonalarterien: 
+Lungenparenchym: 
+- Oberlappen rechts: 
+- Mittellappen: 
+- Unterlappen rechts: 
+- Oberlappen links: 
+- Unterlappen links: 
 
-Zentrale Atemwege: $
-Pleura rechts: $
-Pleura links: $
-BWS: $
-Rippen: $
-Sternum: $
+Zentrale Atemwege: 
+Pleura rechts: 
+Pleura links: 
+BWS: 
+Rippen: 
+Sternum: 
 
-Abdomen: $
-Freie Luft: $
-Freie Flüssigkeit: $
-Magen: $
-Leber: $
-Gallenblase: $
-Gallenwege: $
-Bauchspeicheldrüse: $
-Milz: $
-Rechte Nebenniere: $
-Linke Nebenniere: $
-Rechte Niere: $
-Linke Niere: $
-Harnleiter: $
-Harnblase: $
-Prostata: $
-Uterus und Eierstöcke: $
-Darm: $
-Lymphknoten: $
-Peritoneum/Mesenterium: $
-Retroperitoneum: $
-Bauchmuskulatur: $
-Aorta abdominalis und ihre Hauptäste: $
-Pfortader und ihre Hauptäste: $
-Lebervenen: $
-LWS: $
-Übrige Weichteile: $
+Abdomen: 
+Freie Luft: 
+Freie Flüssigkeit: 
+Magen: 
+Leber: 
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Rechte Niere: 
+Linke Niere: 
+Harnleiter: 
+Harnblase: 
+Prostata: 
+Uterus und Eierstöcke: 
+Darm: 
+Lymphknoten: 
+Peritoneum/Mesenterium: 
+Retroperitoneum: 
+Bauchmuskulatur: 
+Aorta abdominalis und ihre Hauptäste: 
+Pfortader und ihre Hauptäste: 
+Lebervenen: 
+LWS: 
+Übrige Weichteile: 
 
-Beurteilung: $
+Beurteilung: 
 
 ## CT Abdomen :: 8cabd
 
@@ -409,32 +409,32 @@ Intravenöse Kontrastmittelgabe. Spiral-CT des Oberbauches in der spätarteriell
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Miterfasste Lungenabschnitte: $
-Freie Luft: $
-Freie Flüssigkeit: $
-Magen: $
-Leber: $
-Gallenblase: $
-Gallenwege: $
-Bauchspeicheldrüse: $
-Milz: $
-Rechte Nebenniere: $
-Linke Nebenniere: $
-Rechte Niere: $
-Linke Niere: $
-Harnleiter: $
-Harnblase: $
-Prostata: $
-Uterus und Ovarien: $
-Darm: $
-Übrige Weichteile: $
-Lymphknoten-Stationen: $
-Bauchmuskulatur: $
-Aorta abdominalis und ihre Hauptäste: $
-Pfortader und ihre Hauptäste: $
-Lebervenen: $
-LWS: $
-Becken: $
+Miterfasste Lungenabschnitte: 
+Freie Luft: 
+Freie Flüssigkeit: 
+Magen: 
+Leber: 
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Rechte Niere: 
+Linke Niere: 
+Harnleiter: 
+Harnblase: 
+Prostata: 
+Uterus und Ovarien: 
+Darm: 
+Übrige Weichteile: 
+Lymphknoten-Stationen: 
+Bauchmuskulatur: 
+Aorta abdominalis und ihre Hauptäste: 
+Pfortader und ihre Hauptäste: 
+Lebervenen: 
+LWS: 
+Becken: 
 
 Beurteilung
 
@@ -449,14 +449,14 @@ CT Angiografie der Becken-Bein-Arterien nach SOP
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Aorta: unauffällig
-Links: $
+Links: 
 A. iliaca communis: unauffällig
 A. femoralis superficialis: unauffällig
 A. poplitea: unauffällig
 A. tibialis anterior: unauffällig
 A. tibialis posterior: unauffällig
 A. fibularis: unauffällig
-Rechts: $
+Rechts: 
 A. iliaca communis: unauffällig
 A. femoralis superficialis: unauffällig
 A. poplitea: unauffällig
@@ -480,38 +480,34 @@ Spiral-CT des Thorax unter intravenöser Kontrastmittelgabe. Rekonstruktion von 
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Axilläre Lymphknoten: $
-Mediastinum: $
-- Lymphknoten: $
-- Aorta: $
+Axilläre Lymphknoten: 
+Mediastinum: 
+- Lymphknoten: 
+- Aorta: 
   - ascendens [mm]: (NW < 40)
   - descendens [mm]: (NW < 30)
-- Herz: $
-  - Rechter Vorhof transversal [mm]: (NW w: < 65 m: < 70)
-  - Rechter Ventrikel transvesal [mm]: (NW w: < 55 m: < 60)
-  - Linker Vorhof AP [mm]: (NW w: < 45 m: < 50)
-  - Rechter Ventrikel transversal [mm]: (NW w: < 55 m: < 60)
-  - RV/LV: $
-- Koronararterien: $
-- Ösophagus: $
-Pulmonalarterien: $
+- Herz: 
+  - RV/LV: 
+- Koronararterien: 
+- Ösophagus: 
+Pulmonalarterien: 
 - Hauptstamm [mm]: (NW <30-34)
-Rechte Nebenniere: $
-Linke Nebenniere: $
-Oberbauchorgane, soweit erfasst: $
-Lungenparenchym: $
-- Oberlappen rechts: $
-- Mittellappen: $
-- Unterlappen rechts: $
-- Oberlappen links: $
-- Unterlappen links: $
-Zentrale Atemwege: $
-Freie Luft: $
-Pleura rechts: $
-Pleura links: $
-Wirbelkörper: $
-Rippen: $
-Sternum: $
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Oberbauchorgane, soweit erfasst: 
+Lungenparenchym: 
+- Oberlappen rechts: 
+- Mittellappen: 
+- Unterlappen rechts: 
+- Oberlappen links: 
+- Unterlappen links: 
+Zentrale Atemwege: 
+Freie Luft: 
+Pleura rechts: 
+Pleura links: 
+Wirbelkörper: 
+Rippen: 
+Sternum: 
 
 Beurteilung
 
@@ -542,7 +538,7 @@ LCX:
 Marginaläste: 
 RCA: 
 AM: 
-Cad.Rads: $
+Cad.Rads: 
 
 ## CT Thorax-Abdomen :: 8cthxabd
 
@@ -554,54 +550,54 @@ Spiral-CT des Thorax und des Oberbauches in der spätarteriellen Organphase. Spi
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-Thorax: $
-Axilläre Lymphknoten: $
-Mediastinum: $
-- Lymphknoten: $
-- Aorta: $
-- Herz: $
-- Koronararterien: $
-- Ösophagus: $
-Pulmonalarterien: $
-Lungenparenchym: $
-- Oberlappen rechts: $
-- Mittellappen: $
-- Unterlappen rechts: $
-- Oberlappen links: $
-- Unterlappen links: $
-Zentrale Atemwege: $
-Pleura rechts: $
-Pleura links: $
-BWS: $
-Rippen: $
-Sternum: $
+Thorax: 
+Axilläre Lymphknoten: 
+Mediastinum: 
+- Lymphknoten: 
+- Aorta: 
+- Herz: 
+- Koronararterien: 
+- Ösophagus: 
+Pulmonalarterien: 
+Lungenparenchym: 
+- Oberlappen rechts: 
+- Mittellappen: 
+- Unterlappen rechts: 
+- Oberlappen links: 
+- Unterlappen links: 
+Zentrale Atemwege: 
+Pleura rechts: 
+Pleura links: 
+BWS: 
+Rippen: 
+Sternum: 
 
-Abdomen: $
-Freie Luft: $
-Freie Flüssigkeit: $
-Magen: $
-Leber: $
-Gallenblase: $
-Gallenwege: $
-Bauchspeicheldrüse: $
-Milz: $
-Rechte Nebenniere: $
-Linke Nebenniere: $
-Rechte Niere: $
-Linke Niere: $
-Harnleiter: $
-Harnblase: $
-Prostata: $
-Uterus und Ovarien: $
-Darm: $
-Lymphknoten-Stationen: $
-Bauchmuskulatur: $
-Übrige Weichteile: $
-Aorta abdominalis und ihre Hauptäste: $
-Pfortader und ihre Hauptäste: $
-Lebervenen: $
-LWS: $
-Becken: $
+Abdomen: 
+Freie Luft: 
+Freie Flüssigkeit: 
+Magen: 
+Leber: 
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Rechte Niere: 
+Linke Niere: 
+Harnleiter: 
+Harnblase: 
+Prostata: 
+Uterus und Ovarien: 
+Darm: 
+Lymphknoten-Stationen: 
+Bauchmuskulatur: 
+Übrige Weichteile: 
+Aorta abdominalis und ihre Hauptäste: 
+Pfortader und ihre Hauptäste: 
+Lebervenen: 
+LWS: 
+Becken: 
 
 Beurteilung
 
@@ -623,23 +619,23 @@ Scutum:
 Lateraler Bogengang: 
 Tegmen tympani: 
 
-Beurteilung: $
+Beurteilung: 
 Kein richtungsweisender Befund
 
 ## Rö-HWS :: 8rhws
 
-Rechtfertigende Indikation: $
+Rechtfertigende Indikation: 
 Trauma.
 
-Technik: $
+Technik: 
 Röntgen der HWS in zwei Ebenen
 
-Befund: $
-Alignment: $
+Befund: 
+Alignment: 
 anterior: Unauffällig.
 posterior: Unauffällig.
 spinolaminär: Unauffällig.
-Prävertebraler Raum: $
+Prävertebraler Raum: 
 C2: mm (NW < 7mm)
 C3: mm (NW < 5mm)
 C4: mm (NW < 5mm)
@@ -649,7 +645,7 @@ Erweiterte Abstand zwischen den Dornfortsätzen:
 Dens Dislokation: 
 Abgrenzbare Fraktur: 
 
-Beurteilung: $
+Beurteilung: 
 Kein richtungsweisender Befund.
 
 ## CT-HWS :: 8chws
@@ -687,17 +683,17 @@ Spiral-CT der Nasennebenhöhlen
 
 Beurteilung
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Vorderes Kompartiment: $
-Sinus frontales: $
-Vordere Sinus ethmoidales: $
-Sinus maxillares: $
-Hinteres Kompartiment: $
-Hintere Sinus ethmoidales: $
-Sinus sphenoidales: $
-Mastoidzellen: $
-Spiegelbildungen: $
-Nasenseptum: $
-Conchae nasalis: $
+Vorderes Kompartiment: 
+Sinus frontales: 
+Vordere Sinus ethmoidales: 
+Sinus maxillares: 
+Hinteres Kompartiment: 
+Hintere Sinus ethmoidales: 
+Sinus sphenoidales: 
+Mastoidzellen: 
+Spiegelbildungen: 
+Nasenseptum: 
+Conchae nasalis: 
 
 ## CT-Gesichtsschädel :: 8cgs
 
@@ -705,21 +701,21 @@ Rechtfertigende Indikation
 Fraktur?
 
 Technik
-Spiral-CT des Gesichtsschädels: $
+Spiral-CT des Gesichtsschädels: 
 
 Befund
-Nasenbein: $
-Orbita links: $
-Orbita rechts: $
-Sinus maxillaris links: $
-Sinus maxillaris rechts: $
-Sinus ethmoidales: $
-Sinus frontales: $
-Jochbogen links: $
-Jochbogen rechts: $
-Unterkiefer: $
+Nasenbein: 
+Orbita links: 
+Orbita rechts: 
+Sinus maxillaris links: 
+Sinus maxillaris rechts: 
+Sinus ethmoidales: 
+Sinus frontales: 
+Jochbogen links: 
+Jochbogen rechts: 
+Unterkiefer: 
 
-Beurteilug: $
+Beurteilug: 
 Keine Fraktur des Mittelgesichtes.
 
 ## Ganzkörper CT :: 8cgk
@@ -728,7 +724,7 @@ Rechtfertigende Indikation: Osteolysen?
 
 Technik: Spiral-CT des gesamten Körpers soweit technisch erfassbar in Niedrigdosistechnik.
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Keine sichere Beurteilbarkeit der Weichteile bei Niedrigdosistechnik.
 Schädel: Unauffällig.
@@ -741,7 +737,7 @@ LWS: Unauffällig.
 Becken: Unauffällig.
 Untere Extremität soweit erfasst: Unauffällig.
 
-Beurteilung: $
+Beurteilung: 
 Kein Nachweis von Osteolysen
 
 ## Knochendichte :: 8ckd
@@ -751,7 +747,7 @@ CT Dickschichtmessung von mehreren nicht frakturierten unteren Wirbelkörpern un
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Die Knochendichte beträgt im Mittel: $
+Die Knochendichte beträgt im Mittel: 
 
 Im Vergleich zum altersangepassten Kollektiv weicht dieser Wert um XXX Standardabweichungen ab (Z-Wert).
 
@@ -768,29 +764,29 @@ Klinische Angaben
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Erguss: $
-Innenmeniskus: $
-Meniskokapsuläre Separation: $
-Außenmeniskus: $
-Vorderes Kreuzband: $
-Hinteres Kreuzband: $
-Femorotibialer chondraler Gelenküberzug: $
-Retropatellarer chondraler Gelenküberzug: $
-Mediales Retinakulum: $
-Hoffa-Fettkörper: $
-Mediales Kollateralband: $
-Posterolateral Corner: $
-Laterales Kollateralband: $
-M. bizeps femoris: $
-M. popliteus: $
-Tractus iliotibialis: $
-Sehnen des M. semimembranosus/semitendinosus: $
-Sehne des M. quadriceps femoris: $
-Patellarsehne: $
-M. gastrocnemius: $
-Intraneuronales Ganglion des Nervus peroneus: $
+Erguss: 
+Innenmeniskus: 
+Meniskokapsuläre Separation: 
+Außenmeniskus: 
+Vorderes Kreuzband: 
+Hinteres Kreuzband: 
+Femorotibialer chondraler Gelenküberzug: 
+Retropatellarer chondraler Gelenküberzug: 
+Mediales Retinakulum: 
+Hoffa-Fettkörper: 
+Mediales Kollateralband: 
+Posterolateral Corner: 
+Laterales Kollateralband: 
+M. bizeps femoris: 
+M. popliteus: 
+Tractus iliotibialis: 
+Sehnen des M. semimembranosus/semitendinosus: 
+Sehne des M. quadriceps femoris: 
+Patellarsehne: 
+M. gastrocnemius: 
+Intraneuronales Ganglion des Nervus peroneus: 
 
-Beurteilung: $
+Beurteilung: 
 Kein signifikanter Kniebinnenschaden.
 
 ## MR Abdomen :: 8mabd
@@ -802,18 +798,18 @@ MRT des Abdomens nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Basale Lungenabschnitte: $
-Leber: $
-Gallenblase: $
-Gallenwege: $
-Bauchspeicheldrüse: $
-Milz: $
-Nebennieren: $
-Nieren: $
-Lymphknoten: $
-Darm: $
-Becken: $
-Skelettsystem: $
+Basale Lungenabschnitte: 
+Leber: 
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Milz: 
+Nebennieren: 
+Nieren: 
+Lymphknoten: 
+Darm: 
+Becken: 
+Skelettsystem: 
 
 Beurteilung
 
@@ -835,56 +831,56 @@ Bursa trochanterica: unauffällig
 Lymphknoten: unauffällig
 Übrige Weichteile: unauffällig
 
-Checkliste Hüftschmerzen: $
-Synoviale Chondromatose: $
-Tenosynovialer Riesenzelltumor (ehem. PVNS): $
-Avaskuläre Femurkopfnekrose: $
-Transiente Osteoporose: $
-Tuberkulöse Sakroiliitis: $
-Axiale Spondyloarthritis: $
+Checkliste Hüftschmerzen: 
+Synoviale Chondromatose: 
+Tenosynovialer Riesenzelltumor (ehem. PVNS): 
+Avaskuläre Femurkopfnekrose: 
+Transiente Osteoporose: 
+Tuberkulöse Sakroiliitis: 
+Axiale Spondyloarthritis: 
 
 Beurteilung
 Kein richtungsweisender Befund.
 
 ## MR Ellenbogen :: 8mell
 
-Klinische Angaben: $
+Klinische Angaben: 
 Akute/chronische Ellenbogeninstabilität.
 Berufe oder Sportarten mit Überkopftätigkeit oder Wurfsportarten.
 Frühere Verletzung.
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Primäre Stabilisatoren (O\'Driscoll): $
-Humeroulnares Gelenk: $
-LUCL: $
-aMCL (Stabilisator bei Valgusstress): $
-Sekundäre Stabilisatoren: $
-Humeroradiales Gelenk: $
-Anteriore Gelenkkapsel: $
-Extensorenmuskulatur: $
-Flexorenmuskulatur: $
-Übrige Kollateralbänder: $
-pMCL (Stabilisator für die Innenrotation): $
-RCL: $
-Lig. anulare radii: $
-Proximales radioulnares Gelenk: $
-Epicondylen: $
-Distale Bizepssehne: $
-Nervus ulnaris/Lig. arcuatum: $
-Übrige Weichteile: $
+Primäre Stabilisatoren (O\'Driscoll): 
+Humeroulnares Gelenk: 
+LUCL: 
+aMCL (Stabilisator bei Valgusstress): 
+Sekundäre Stabilisatoren: 
+Humeroradiales Gelenk: 
+Anteriore Gelenkkapsel: 
+Extensorenmuskulatur: 
+Flexorenmuskulatur: 
+Übrige Kollateralbänder: 
+pMCL (Stabilisator für die Innenrotation): 
+RCL: 
+Lig. anulare radii: 
+Proximales radioulnares Gelenk: 
+Epicondylen: 
+Distale Bizepssehne: 
+Nervus ulnaris/Lig. arcuatum: 
+Übrige Weichteile: 
 
-Beurteilung: $
+Beurteilung: 
 
 ## MR Handgelenk :: 8mhg
 
-Klinische Angaben: $
+Klinische Angaben: 
 Schmerzen
 
-Technik: $
+Technik: 
 MRT des Handgelenkes nach SOP
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Carpal Bossing: Nein
 SL-Bänder: Unauffällig.
@@ -896,21 +892,21 @@ Gelenke: Unauffällig.
 Knochen: Unauffällig.
 Übrige Weichteile: Unauffällig.
 
-Beurteilung: $
+Beurteilung: 
 
 ## MR Hüfte (FAI):: 8mfai
 
-Fragestellung: $
+Fragestellung: 
 Femoroacetabuläres Impingement
 
-Technik: $
+Technik: 
 MRT der Hüfte nach SOP
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Doppellinienzeichen: nein
 Erguss: nein
-Checkliste FAI: $
+Checkliste FAI: 
 Retroversion des superioren acetabulären Randes: (NW \>0°)
 Alpha-Winkel: (NW \<55°)
 Lateraler center-edge-angle: (NW 25-35, Overcoverage ab \> 40°)
@@ -921,17 +917,17 @@ Abgrenzbarer Einriss im Labrum: nein
 Abgrenzbarer Knorpeldefekt: nein
 Ödem am anterolateralen medialen Schenkelhals: nein
 
-Beurteilung: $
+Beurteilung: 
 
 ## MR ISG :: 8misg
 
-Fragestellung: $
+Fragestellung: 
 Sakroiliitis?
 
-Technik: $
+Technik: 
 MRT der ISG nach SOP nativ.
 
-Befund: $
+Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Paraartikuläre Osteitis: Nein
 Kapsulitis: Nein
@@ -940,13 +936,13 @@ Erosionen: Nein
 Fettmetaplasie des paraartikulären Knochenmarkes: Nein
 Transartikuläre Knochenbrücken: Nein
 
-Beurteilung: $
+Beurteilung: 
 Keine \"aktive Sakroiliites\" nach den ASAG-Kriterien.
 Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
 
 ## CT LWS :: 8clws
 
-Rechtfertigende Indikation: $
+Rechtfertigende Indikation: 
 Lumbale Beschwerden. Degeneration?
 
 Befund
@@ -990,49 +986,49 @@ Beurteilung
 
 Fragestellung: Malignom?
 
-Sequenzen: $
+Sequenzen: 
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-Qualitätssicherung: $
+Qualitätssicherung: 
 Korrekte Kontrastmittelapplikation: ja
 Bewegungsartefakte: nein
 Parenchymasymmetrien: nein
 Asymmetrische Hintergrundanreicherung in der frühen Dynamik: nein
 
-Rechte Mamma: $
+Rechte Mamma: 
 Anteil des fibroglandulären Gewebes am gesamten Brustvolumen: ACR
 Cutis: unauffällig
 Mamille: unauffällig
 Brustwand: unauffällig
 Axilläre Lymphknoten: unauffällig
-T2w: $
+T2w: 
 - Fibrotische Areale und Ödeme: nein
 - Zysten: einfach/komplex/kompliziert
 Iatrogene Befunde: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
-Konstrastmittelsequenzen: $
+Konstrastmittelsequenzen: 
   Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
-  KM aufnehmende Herde: $
+  KM aufnehmende Herde: 
   - begleitendes Ödem
   - Masse 7mm mit irregulärer Form und irregulärem Rand, relativ signalreich in der T1 DD auch Lymphknoten, Fettnekrose, Hamartom), mit Signalanhebung mit Nidus in der STIR. KM Kinetik Typ II-III.
   - Nicht-massige KM-Aufnahme
   - Form: linear, nicht ductal (31%)/ductal (60%)/segmental, multiductal (78%)/regional(21%)/gruppiert(60%)
   - Kaiser-Score.
 
-Linke Mamma: $
+Linke Mamma: 
 Anteil des fibroglandulären Gewebes am gesamten Brustvolumen: ACR
 Cutis: unauffällig
 Mamille: unauffällig
 Brustwand: unauffällig
 Axilläre Lymphknoten: unauffällig
-T2w: $
+T2w: 
 - Fibrotische Areale und Ödeme: nein
 - Zysten: einfach/komplex/kompliziert
 Iatrogene Befunde: nein/Clips/Narben/Ölzysten/Lappenplastik/Implantat
-Konstrastmittelsequenzen: $
+Konstrastmittelsequenzen: 
   Hintergrundanreicherung in der frühen Dynamik (BPE): minimal/mild/moderat/ausgeprägt
-  KM aufnehmende Herde: $
+  KM aufnehmende Herde: 
   - begleitendes Ödem
   - Masse 7mm mit irregulärer Form und irregulärem Rand, relativ signalreich in der T1 DD auch Lymphknoten, Fettnekrose, Hamartom), mit Signalanhebung mit Nidus in der STIR. KM Kinetik Typ II-III.
   - Nicht-massige KM-Aufnahme
@@ -1041,8 +1037,8 @@ Konstrastmittelsequenzen: $
 
 Beurteilung
 
-Rechts BI-RADS: $
-Links BI-RADS: $
+Rechts BI-RADS: 
+Links BI-RADS: 
 
 0 - weitere Diagnostik nötig
 1 - unauffällig
@@ -1053,24 +1049,24 @@ Links BI-RADS: $
 6 - Bekanntes Karzinom
 
 Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
-Quelle: $
+Quelle: 
 
 - <http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html>
 - \"Strukturierte Auswertung der multiparametrischen MRT der Mamma\" aus radiologie up2date
 
 ## MR OSG :: 8mosg
 
-Klinische Angaben: $
+Klinische Angaben: 
 Distorsion
 
-Technik: $
+Technik: 
 MRT des OSG nach SOP nativ
 
 Befund
 Voraufnahmen: Zum Befundungszeitpunkt liegen keine Voraufnahmen vor.
 Knochen: Unauffällig/Os trigonum.
 Gelenke: Kein Erguss. Keine Kapselverbreiterungen in der T1w.
-Bänder: $
+Bänder: 
 Syndesmose: Unauffällig.
 Lig. talofibulare ant.: Unauffällig. Kein \"Bright-Rim\"-Zeichen.
 Lig. talofibulare post.: Unauffällig.
@@ -1079,7 +1075,7 @@ Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
 Lig. deltoideum (tiefer Anteil): Unauffällig.
 Lig. calcaneonaviculare plantare: Unauffällig.
 Plantarfaszie: Unauffällig.
-Sehnen: $
+Sehnen: 
 Mediale Beugesehnen: Unauffällig.
 Strecksehnen: Unauffällig
 Achillessehne: Unauffällig. Keine Bursitis. Keine Haglundexostose.
@@ -1090,13 +1086,13 @@ Beurteilung
 
 ## MR-Hals :: 8mhals
 
-Fragestellung: $
+Fragestellung: 
 Lymphknoten?
 
-Technik: $
+Technik: 
 MRT des Halses nach SOP.
 
-Befund: $
+Befund: 
 Voraufnahmen: Es liegen keine Voraufnahmen vor.
 Nasennebenhöhlen, soweit erfasst: Unauffällig.
 Nasopharynx: Unauffällig.
@@ -1113,7 +1109,7 @@ Myelon: Unauffällig.
 Übrige Weichteile: Unauffällig.
 Knochen: Unauffällig.
 
-Beurteilung: $
+Beurteilung: 
 
 ## MR-HWS :: 8mhws
 
@@ -1144,50 +1140,50 @@ Technik: MRT des Gehirns nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Pathologische Signalanhebungen in der T1-Wichtung: $
-Diffusionswichtung: $
-Mark-Rinden-Differenzierung: $
-Inselrinde: $
-Nucleus caudatus: $
-Nucleus lentiformis: $
-Capsula interna: $
-Thalamus: $
-Marklager: $
-Kleinhirn: $
-Mittelhirn: $
-Pons: $
-Hypophyse: $
-Linker Seitenventrikel: $
-Rechter Seitenventrikel: $
-Dritter Ventrikel: $
-Vierter Ventrikel: $
-Basale Zisternen: $
-Äußere Liquorräume: $
-Mittellinie: $
-Venöse Sinus: $
-Sinus frontales: $
-Sinus ethmoidales: $
-Sinus sphenoidales: $
-Sinus maxillares: $
-Mastoidzellen: $
-Innerer Gehörgang: $
-Knochen: $
-TOF-Angio: $
-Blut-Hirn-Schranke: $
+Pathologische Signalanhebungen in der T1-Wichtung: 
+Diffusionswichtung: 
+Mark-Rinden-Differenzierung: 
+Inselrinde: 
+Nucleus caudatus: 
+Nucleus lentiformis: 
+Capsula interna: 
+Thalamus: 
+Marklager: 
+Kleinhirn: 
+Mittelhirn: 
+Pons: 
+Hypophyse: 
+Linker Seitenventrikel: 
+Rechter Seitenventrikel: 
+Dritter Ventrikel: 
+Vierter Ventrikel: 
+Basale Zisternen: 
+Äußere Liquorräume: 
+Mittellinie: 
+Venöse Sinus: 
+Sinus frontales: 
+Sinus ethmoidales: 
+Sinus sphenoidales: 
+Sinus maxillares: 
+Mastoidzellen: 
+Innerer Gehörgang: 
+Knochen: 
+TOF-Angio: 
+Blut-Hirn-Schranke: 
 
-Checkliste Demenz: $
-GCA-Score: $
-MTA-Score (M. Alzheimer): $
-Fazekas-Score (Vaskuläre Demenz): $
-Koedam-Score (M. Alzheimer): $
-Frontotemporale Lobäre Degeneration (FTLD): $
-Strategische Infarkte: $
-Bilateral ACA: $
-Gyrus angularis: $
-Bithalamisch: $
-Grenzzone: $
-Zwei oder mehr lakunäre Infarkte frontal oder in den Basalganglien (\>=2): $
-Mehr als 25% Gliose der weißen Substanz: $
+Checkliste Demenz: 
+GCA-Score: 
+MTA-Score (M. Alzheimer): 
+Fazekas-Score (Vaskuläre Demenz): 
+Koedam-Score (M. Alzheimer): 
+Frontotemporale Lobäre Degeneration (FTLD): 
+Strategische Infarkte: 
+Bilateral ACA: 
+Gyrus angularis: 
+Bithalamisch: 
+Grenzzone: 
+Zwei oder mehr lakunäre Infarkte frontal oder in den Basalganglien (\>=2): 
+Mehr als 25% Gliose der weißen Substanz: 
 
 Beurteilung
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -1200,34 +1196,34 @@ Klinische Angaben
 
 Befund
 Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor
-Bursa subacromialis-subdeltoidea: $
-Bursa subcoracoidea: $
-Schultergelenk: $
-Superior: $
-Lange Bizepssehne: $
-Ligamentum coracoacromiale: $
-Sehne des M. supraspinatus: $
-Anterior: $
-Anteriores Labrum: $
-Glenohumerale Ligamente: $
-SGHL: $
-MGHL: $
-IGHL (anterior): $
-Sehne des M. subscapularis: $
-Posterior: $
-Posteriores Labrum: $
-Sehne des M. infraspinatus: $
-Sehne des M. teres minor: $
-IGHL (posterior): $
-Acromioclaviculargelenk: $
-Acromion Typ: $
-Os acromiale: $
-Hills-Sachs-Delle: $
-Suprascapuläres Entrapment: $
-Sonstige Weichteile: $
-Sonstiger Knochen: $
+Bursa subacromialis-subdeltoidea: 
+Bursa subcoracoidea: 
+Schultergelenk: 
+Superior: 
+Lange Bizepssehne: 
+Ligamentum coracoacromiale: 
+Sehne des M. supraspinatus: 
+Anterior: 
+Anteriores Labrum: 
+Glenohumerale Ligamente: 
+SGHL: 
+MGHL: 
+IGHL (anterior): 
+Sehne des M. subscapularis: 
+Posterior: 
+Posteriores Labrum: 
+Sehne des M. infraspinatus: 
+Sehne des M. teres minor: 
+IGHL (posterior): 
+Acromioclaviculargelenk: 
+Acromion Typ: 
+Os acromiale: 
+Hills-Sachs-Delle: 
+Suprascapuläres Entrapment: 
+Sonstige Weichteile: 
+Sonstiger Knochen: 
 
-Beurteilung: $
+Beurteilung: 
 
 # Interventionen
 
@@ -1243,7 +1239,7 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 
 ## Adhäsive Kapsulitis :: 8cak
 
-Checkliste Adhäsive Kapsulitis (\"Frozen Shoulder\"): $
+Checkliste Adhäsive Kapsulitis (\"Frozen Shoulder\"): 
 T1-Signalminderung im Rotatorinterval: nein
 T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert \< 4mm; Sensitivität 60%, Spezifität 95%)
 T1w-Verbreiterung des axillärer Rezessus: nein
@@ -1252,7 +1248,7 @@ Perikapsuläres Ödem: nein
 
 ## Asbestose :: 8casbest
 
-Checkliste Asbestose: $
+Checkliste Asbestose: 
 Retikulationen: nein
 Zentrilobuläre punktförmige oder verzweigte Verdichtungen: nein
 Parallel zur Pleura verlaufende Bänder: nein
@@ -1265,7 +1261,7 @@ Suspekte Herde/Rundatelektasen: nein
 
 ## COVID-19 :: 8covid
 
-Checkliste COVID-19: $
+Checkliste COVID-19: 
 Milchglastrübung oder Konsolidierung vorhanden: nein
 Runde Morpholgie der Transparenzminderungen: nein
 Mehr als zwei Lungenlappen beteiligt: nein
@@ -1277,7 +1273,7 @@ Reverser Halo: nein
 
 ## CT-Perfusion :: 8perf
 
-Checkliste CT-Perfusion: $
+Checkliste CT-Perfusion: 
 Die Beurteilung erfolgt anhand des visuellen Eindruckes, da im DICOM-Datensatz keine plausiblen Messwerte enthalten sind.
 Seitendifferenz TTP > 4s: 
 Areale mit einer MTT > 6s: 
@@ -1289,14 +1285,14 @@ MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/b
 
 ## Eisenablagerungen :: 8eisengehirn
 
-Checkliste Eisenablagerungen: $
+Checkliste Eisenablagerungen: 
 T1-Signalanhebung beidseits symmetrisch der Substantia nigra: nein
 T2-Signalminderung mit zentraler Hyperintensität des Globus pallidus ("Eye of tiger sign"): nein
 T2-Signalminderung des Globus pallidus ohne zentrale Hyperintensität oder Signalminderung anderer tiefer Hirnkerne oder der Hirnrinde: nein
 
 ## Epilepsie :: 8epil
 
-Checkliste Epilepsie: $
+Checkliste Epilepsie: 
 Polymikrogyrie: Nein
 Fokale kortikale Dysplasie: Nein
 Anhalt für neurokutane Syndrome: Nein
@@ -1306,14 +1302,14 @@ Mesotemporale-Sklerose: Nein
 
 ## Leberfibrose :: 8cleber
 
-Marker für Leberfibrose (nach Obmann et al 2018 PMID: 29990333): $
+Marker für Leberfibrose (nach Obmann et al 2018 PMID: 29990333): 
 LIMA-FS: (Normwert \<2,85)
 LIMVA-FS: (Normwert \<6,7)
 Verdacht auf Leberfibrose (Positiver Vorhersagewert 82%)
 
 ## M. Parkinson :: 8parkinson
 
-Checkliste Morpus Parkinson: $
+Checkliste Morpus Parkinson: 
 Vergrößerte Sulci und innere Ventrikel: gering
 Substanzia nigra in der T2w: Unauffällig.
 T2-hyperintense Zone zwischen Substanzia nigra und Nucleus ruber abgrenzbar: Unauffällig.
@@ -1323,27 +1319,27 @@ Putamen: Unauffällig.
 
 ## Pankreasraumforderung :: 8cpankreas
 
-Charakterisierung Raumforderung der Bauchspeicheldrüse: $
+Charakterisierung Raumforderung der Bauchspeicheldrüse: 
 Lokalisation: periampullär/Kopf/Körper/Schwanz
 Morphologie: solide/zystisch/gemischt
-Größter Durchmesser \[mm\]: $
+Größter Durchmesser \[mm\]: 
 Kontrastierung: vermindert
-Ductus hepatocholedochus \[mm\]: $
-Ductus pancreaticus \[mm\]: $
+Ductus hepatocholedochus \[mm\]: 
+Ductus pancreaticus \[mm\]: 
 Eingelegter Stent: nein
 Pankreasparenchym: Unauffällig/Atroph/Ödematös
 Truncus coeliacus: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
 Arteria mesenterica superior: Kein Kontakt/Kontakt \<90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
 Arteria hepatica: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
-Mesenterialvenen: $
+Mesenterialvenen: 
 Kontakt: Kein Kontakt/Kontakt <90°/Kontakt 90-180°/Kontakt 180-270°/Kontakt >270°
 Stenose: nein/<50%/>50%/Verschluss/Thrombose
 Lokale Invasion: Kein Anhalt/Peripankreatisches Fettgewebe/Mesenterialwurzel/Vena cava inferior/Aorta/Duodenum/Kolon transversum
-Radiologische TNM, soweit erfasst: $
+Radiologische TNM, soweit erfasst: 
 
 ## Pulsatiler Tinnitus :: 8cpt
 
-Checkliste pulsatiler Tinnitus: $
+Checkliste pulsatiler Tinnitus: 
 Idiopathische intrakranielle Hypertension: Kein Anhalt.
 Glomus jugulare Paragagnliom: Kein Anhalt.
 Durale arteriovenöse Fistel: Kein Anhalt.
@@ -1362,27 +1358,27 @@ Aberante ACI: Kein Anhalt.
 
 ## Checkliste Polytrauma :: 8poly
 
-Checkliste Abdominaltrauma: $
-Zwerchfellruptur (coronare Ansicht): $
-Milz: $
-AAST: $
-Ausdehnung des subkapsulären Hämatoms: $
-Intraparenchymatöse Blutung/Hämatom: $
-Einriss der Milzkapsel: $
-Tiefe des Parenyhcmeinrisses: $
-Hilären Gefäße: $
-Leber: $
-AAST: $
-Lazeration: $
-Tiefe des Parenchymeinrisses: $
-Ausdehnung des subkapsulären Hämatoms: $
-Gefäßverletzung: $
-Hämatoperitoneum: $
+Checkliste Abdominaltrauma: 
+Zwerchfellruptur (coronare Ansicht): 
+Milz: 
+AAST: 
+Ausdehnung des subkapsulären Hämatoms: 
+Intraparenchymatöse Blutung/Hämatom: 
+Einriss der Milzkapsel: 
+Tiefe des Parenyhcmeinrisses: 
+Hilären Gefäße: 
+Leber: 
+AAST: 
+Lazeration: 
+Tiefe des Parenchymeinrisses: 
+Ausdehnung des subkapsulären Hämatoms: 
+Gefäßverletzung: 
+Hämatoperitoneum: 
 
 ## Checkliste Gicht :: 8gicht
 
-Checkliste Gicht: $
-Mineralisierter Tophus und juxtaartikuläre Erosion mit überhängenden Ecken: $
+Checkliste Gicht: 
+Mineralisierter Tophus und juxtaartikuläre Erosion mit überhängenden Ecken: 
 
 # kleines
 
