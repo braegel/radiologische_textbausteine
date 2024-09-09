@@ -776,9 +776,9 @@ Mediales Retinakulum:
 Hoffa-Fettkörper: 
 Mediales Kollateralband: 
 Posterolateral Corner: 
-Laterales Kollateralband: 
-M. bizeps femoris: 
-M. popliteus: 
+  Laterales Kollateralband: 
+  M. bizeps femoris: 
+  M. popliteus: 
 Tractus iliotibialis: 
 Sehnen des M. semimembranosus/semitendinosus: 
 Sehne des M. quadriceps femoris: 
