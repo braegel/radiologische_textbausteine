@@ -16,7 +16,7 @@ Röntgen des Handgelenkes in zwei Ebenen
 
 Befund: 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
---wrap=preserveLängenunterschied Ulna vs. Radius (NW <= 2mm): 
+Längenunterschied Ulna vs. Radius (NW <= 2mm): 
 Carpal Bossing: nein
 Scapholunärer Spalt (NW <= 3mm): 
 Karpaler Bogen I: Unauffällig
@@ -1198,24 +1198,24 @@ Befund
 Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor
 Bursa subacromialis-subdeltoidea: 
 Bursa subcoracoidea: 
-Schultergelenk: 
-Superior: 
-Lange Bizepssehne: 
-Ligamentum coracoacromiale: 
-Sehne des M. supraspinatus: 
-Anterior: 
-Anteriores Labrum: 
-Glenohumerale Ligamente: 
-SGHL: 
-MGHL: 
-IGHL (anterior): 
-Sehne des M. subscapularis: 
-Posterior: 
-Posteriores Labrum: 
-Sehne des M. infraspinatus: 
-Sehne des M. teres minor: 
-IGHL (posterior): 
-Acromioclaviculargelenk: 
+  Schultergelenk: 
+    Superior: 
+      Lange Bizepssehne: 
+      Ligamentum coracoacromiale: 
+      Sehne des M. supraspinatus: 
+    Anterior: 
+      Anteriores Labrum: 
+      Glenohumerale Ligamente: 
+        SGHL: 
+        MGHL: 
+        IGHL (anterior): 
+      Sehne des M. subscapularis: 
+    Posterior: 
+      Posteriores Labrum: 
+      Sehne des M. infraspinatus: 
+      Sehne des M. teres minor: 
+      IGHL (posterior): 
+  Acromioclaviculargelenk:
 Acromion Typ: 
 Os acromiale: 
 Hills-Sachs-Delle: 
