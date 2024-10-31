@@ -84,7 +84,7 @@ Raumforderungen: Nein
 Konsolidierungen: Nein
 Bronchopneumogramme: Nein
 Parenchym: Unauffällig
-\"Hidden Areas\": Unauffällig
+"Hidden Areas": Unauffällig
 
 Pleura: 
 Zwerchfell: Scharf abgrenzbar. Randwinkel frei.
@@ -912,7 +912,7 @@ Alpha-Winkel: (NW \<55°)
 Lateraler center-edge-angle: (NW 25-35, Overcoverage ab \> 40°)
 Protrusio acetabuli: nein
 Pathologisch verbreiterter Schenkelhals: nein
-\"Pistolengriff Deformität\": nein
+"Pistolengriff Deformität": nein
 Abgrenzbarer Einriss im Labrum: nein
 Abgrenzbarer Knorpeldefekt: nein
 Ödem am anterolateralen medialen Schenkelhals: nein
@@ -937,7 +937,7 @@ Fettmetaplasie des paraartikulären Knochenmarkes: Nein
 Transartikuläre Knochenbrücken: Nein
 
 Beurteilung: 
-Keine \"aktive Sakroiliites\" nach den ASAG-Kriterien.
+Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
 Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
 
 ## CT LWS :: 8clws
@@ -1052,7 +1052,7 @@ Prozentangaben in Klammern stehen jeweils für die Malignomwahrscheinlichkeit.
 Quelle: 
 
 - <http://radiologyassistant.nl/en/p47a585a7401a9/breast-mri.html>
-- \"Strukturierte Auswertung der multiparametrischen MRT der Mamma\" aus radiologie up2date
+- "Strukturierte Auswertung der multiparametrischen MRT der Mamma" aus radiologie up2date
 
 ## MR OSG :: 8mosg
 
@@ -1068,7 +1068,7 @@ Knochen: Unauffällig/Os trigonum.
 Gelenke: Kein Erguss. Keine Kapselverbreiterungen in der T1w.
 Bänder: 
 Syndesmose: Unauffällig.
-Lig. talofibulare ant.: Unauffällig. Kein \"Bright-Rim\"-Zeichen.
+Lig. talofibulare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
 Lig. talofibulare post.: Unauffällig.
 Lig. calcaneofibulare: Unauffällig.
 Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
@@ -1166,7 +1166,7 @@ Sinus ethmoidales:
 Sinus sphenoidales: 
 Sinus maxillares: 
 Mastoidzellen: 
-Innerer Gehörgang: 
+ Innerer Gehörgang: 
 Knochen: 
 TOF-Angio: 
 Blut-Hirn-Schranke: 
@@ -1239,7 +1239,7 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 
 ## Adhäsive Kapsulitis :: 8cak
 
-Checkliste Adhäsive Kapsulitis (\"Frozen Shoulder\"): 
+Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"): 
 T1-Signalminderung im Rotatorinterval: nein
 T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert \< 4mm; Sensitivität 60%, Spezifität 95%)
 T1w-Verbreiterung des axillärer Rezessus: nein
