@@ -971,47 +971,12 @@ Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folge
 Myelon: 
 Wirbelkörper: 
 ISG: Mäßig degenerative verändert.
-Klassifikation der Wirbelsäulen Segmente nach Miskin et al 2021:
-LWK1/2:
-  Einengung des Neuroforamens:
-    Links: 
-	Rechts: 
-  Einengung des lateraler Rezessus:
-    Links: 
-	Rechts: 
-  Einengung des Spinalkanals: 
-LWK2/3:
-  Einengung des Neuroforamens:
-    Links: 
-	Rechts: 
-  Einengung des lateraler Rezessus:
-    Links: 
-	Rechts: 
-  Einengung des Spinalkanals: 
-LWK3/4: 
-  Einengung des Neuroforamens:
-    Links: 
-	Rechts: 
-  Einengung des lateraler Rezessus:
-    Links: 
-	Rechts: 
-  Einengung des Spinalkanals: 
-LWK4/5: 
-  Einengung des Neuroforamens:
-    Links: 
-	Rechts: 
-  Einengung des lateraler Rezessus:
-    Links: 
-	Rechts: 
-  Einengung des Spinalkanals: 
-LWK5/SWK1:
-  Einengung des Neuroforamens:
-    Links: 
-	Rechts: 
-  Einengung des lateraler Rezessus:
-    Links: 
-	Rechts: 
-  Einengung des Spinalkanals: 
+Bandscheiben: 
+Klassifikation der auffälligen Wirbelsäulen Segmente nach Miskin et al 2021:
+  Einengungen der Neuroforamen:
+  Einengungen der lateralen Rezessus:
+  Einengungen des Spinalkanals:
+  Facettenarthrosen: 
 
 Beurteilung
 
