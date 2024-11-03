@@ -971,7 +971,7 @@ Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folge
 Myelon: 
 Wirbelkörper: 
 ISG: Mäßig degenerative verändert.
-Klassifkation der Wirbelsäulen Segmente nach Miskin et al 2021:
+Klassifikation der Wirbelsäulen Segmente nach Miskin et al 2021:
 LWK1/2:
   Einengung des Neuroforamens:
     Links: 
