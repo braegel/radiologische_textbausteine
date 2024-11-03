@@ -968,17 +968,50 @@ Lumbale Beschwerden. Degeneration?
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
-Hinterkante: Harmonischer Verlauf.
-Höhenminderung von Wirbelkörpern: Nein.
-Myelon: Unauffällige Darstellung des Conus medullaris und der Cauda equina.
-Facettengelenke: Multisegmentale nach kaudal zunehmende Facettenhypertrophie.
-ISG: Mäßig degenerativ verändert.
-Zur Befundung der Bandscheiben wird die Nomenklatur der North American Spine Society v2 (2014) verwendet.
-LWK1/2: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK2/3: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK3/4: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK4/5: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
-LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Stenose.
+Myelon: 
+Wirbelkörper: 
+ISG: Mäßig degenerative verändert.
+Klassifkation der Wirbelsäulen Segmente nach Miskin et al 2021:
+LWK1/2:
+  Einengung des Neuroforamens:
+    Links: 
+	Rechts: 
+  Einengung des lateraler Rezessus:
+    Links: 
+	Rechts: 
+  Einengung des Spinalkanals: 
+LWK2/3:
+  Einengung des Neuroforamens:
+    Links: 
+	Rechts: 
+  Einengung des lateraler Rezessus:
+    Links: 
+	Rechts: 
+  Einengung des Spinalkanals: 
+LWK3/4: 
+  Einengung des Neuroforamens:
+    Links: 
+	Rechts: 
+  Einengung des lateraler Rezessus:
+    Links: 
+	Rechts: 
+  Einengung des Spinalkanals: 
+LWK4/5: 
+  Einengung des Neuroforamens:
+    Links: 
+	Rechts: 
+  Einengung des lateraler Rezessus:
+    Links: 
+	Rechts: 
+  Einengung des Spinalkanals: 
+LWK5/SWK1:
+  Einengung des Neuroforamens:
+    Links: 
+	Rechts: 
+  Einengung des lateraler Rezessus:
+    Links: 
+	Rechts: 
+  Einengung des Spinalkanals: 
 
 Beurteilung
 
@@ -1240,11 +1273,11 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 ## Adhäsive Kapsulitis :: 8cak
 
 Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"): 
-T1-Signalminderung im Rotatorinterval: nein
-T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert \< 4mm; Sensitivität 60%, Spezifität 95%)
-T1w-Verbreiterung des axillärer Rezessus: nein
-Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
-Perikapsuläres Ödem: nein
+  T1-Signalminderung im Rotatorinterval: nein
+  T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert \< 4mm; Sensitivität 60%, Spezifität 95%)
+  T1w-Verbreiterung des axillärer Rezessus: nein
+  Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
+  Perikapsuläres Ödem: nein
 
 ## Asbestose :: 8casbest
 
