@@ -970,7 +970,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Nummerierung: Der Wirbelkörper mit Anheftung des Lig. iliolumbale wird im Folgenden als LWK5 betrachtet.
 Myelon: 
 Wirbelkörper: 
-ISG: Mäßig degenerative verändert.
+ISG: 
 Bandscheiben: 
 Klassifikation der auffälligen Wirbelsäulen Segmente nach Miskin et al 2021:
   Einengungen der Neuroforamen:
