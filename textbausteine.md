@@ -972,10 +972,10 @@ Myelon:
 Wirbelkörper: 
 ISG: 
 Bandscheiben: 
-Klassifikation der auffälligen Wirbelsäulen Segmente nach Miskin et al 2021:
-  Einengungen der Neuroforamen:
-  Einengungen der lateralen Rezessus:
-  Einengungen des Spinalkanals:
+Klassifikation der auffälligen Wirbelsäulensegmente nach Miskin et al 2021:
+  Einengungen der Neuroforamen: 
+  Einengungen der lateralen Rezessus: 
+  Einengungen des Spinalkanals: 
   Facettenarthrosen: 
 
 Beurteilung
