@@ -1174,7 +1174,7 @@ GCA-Score:
 MTA-Score (M. Alzheimer): 
 Fazekas-Score (Vaskuläre Demenz): 
 Koedam-Score (M. Alzheimer): 
-Frontotemporale Lobäre Degeneration (FTLD): 
+Frontotemporale lobäre Degeneration (FTLD): 
 Strategische Infarkte: 
 Bilateral ACA: 
 Gyrus angularis: 
