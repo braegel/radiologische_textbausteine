@@ -200,7 +200,7 @@ BWS:
 Rippen: 
 Sternum: 
 Klavikulae: 
-Proximale. Humeri: 
+Proximale Humeri: 
 Scapulae: 
 
 Abdomen: 
@@ -781,7 +781,7 @@ Posterolateral Corner:
   M. popliteus: 
 Tractus iliotibialis: 
 Sehnen des M. semimembranosus/semitendinosus: 
-Sehne des M. quadriceps femoris: 
+Sehne des M. quadrizeps femoris: 
 Patellarsehne: 
 M. gastrocnemius: 
 Intraneuronales Ganglion des Nervus peroneus: 
