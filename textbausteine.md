@@ -961,9 +961,10 @@ LWK5/SWK1: Kein Nachweis einer signifikanten neuroforaminalen oder spinalen Sten
 Beurteilung
 
 ## MR LWS :: 8mlws
-
 Fragestellung
 Lumbale Beschwerden. Degeneration?
+
+Technik; MRT der LWS nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
