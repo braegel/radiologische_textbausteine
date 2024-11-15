@@ -964,7 +964,8 @@ Beurteilung
 Fragestellung
 Lumbale Beschwerden. Degeneration?
 
-Technik; MRT der LWS nach SOP.
+Technik
+MRT der LWS nach SOP.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
