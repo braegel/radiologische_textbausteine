@@ -1191,39 +1191,42 @@ Kein Anhalt für eine frische Ischämie.
 Keine Zeichen eines erhöhten Hirndruckes.
 
 ## MRT Schulter :: 8ms
-
 Klinische Angaben
+Schmerzen
+
+Technik
+MRT der Schulter nach SOP.
 
 Befund
 Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor
 Bursa subacromialis-subdeltoidea: 
 Bursa subcoracoidea: 
-  Schultergelenk: 
-    Superior: 
-      Lange Bizepssehne: 
-      Ligamentum coracoacromiale: 
-      Sehne des M. supraspinatus: 
-    Anterior: 
-      Anteriores Labrum: 
-      Glenohumerale Ligamente: 
-        SGHL: 
-        MGHL: 
-        IGHL (anterior): 
-      Sehne des M. subscapularis: 
-    Posterior: 
+Schultergelenk: 
+  Superior:
+    Lange Bizepssehne: 
+    Ligamentum coracoacromiale: 
+    Sehne des M. supraspinatus: 
+   Anterior:
+     Anteriores Labrum: 
+     Glenohumerale Ligamente:
+       SGHL: 
+       MGHL: 
+       IGHL (anterior): 
+     Sehne des M. subscapularis: 
+    Posterior:
       Posteriores Labrum: 
       Sehne des M. infraspinatus: 
       Sehne des M. teres minor: 
       IGHL (posterior): 
-  Acromioclaviculargelenk:
+Acromioclaviculargelenk: 
 Acromion Typ: 
 Os acromiale: 
-Hills-Sachs-Delle: 
+Hills-Sachs-Delle:
 Suprascapuläres Entrapment: 
 Sonstige Weichteile: 
 Sonstiger Knochen: 
 
-Beurteilung: 
+Beurteilung:
 
 # Interventionen
 
