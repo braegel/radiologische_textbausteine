@@ -907,15 +907,15 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Doppellinienzeichen: nein
 Erguss: nein
 Checkliste FAI: 
-Retroversion des superioren acetabulären Randes: (NW \>0°)
-Alpha-Winkel: (NW \<55°)
-Lateraler center-edge-angle: (NW 25-35, Overcoverage ab \> 40°)
-Protrusio acetabuli: nein
-Pathologisch verbreiterter Schenkelhals: nein
-"Pistolengriff Deformität": nein
-Abgrenzbarer Einriss im Labrum: nein
-Abgrenzbarer Knorpeldefekt: nein
-Ödem am anterolateralen medialen Schenkelhals: nein
+  Retroversion des superioren acetabulären Randes: (NW \>0°)
+  Alpha-Winkel: (NW \<55°)
+  Lateraler center-edge-angle: (NW 25-35, Overcoverage ab \> 40°)
+  Protrusio acetabuli: nein
+  Pathologisch verbreiterter Schenkelhals: nein
+  "Pistolengriff Deformität": nein
+  Abgrenzbarer Einriss im Labrum: nein
+  Abgrenzbarer Knorpeldefekt: nein
+  Ödem am anterolateralen medialen Schenkelhals: nein
 
 Beurteilung: 
 
