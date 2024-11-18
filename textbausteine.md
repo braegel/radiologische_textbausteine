@@ -693,7 +693,7 @@ Sinus sphenoidales:
 Mastoidzellen: 
 Spiegelbildungen: 
 Nasenseptum: 
-Conchae nasalis: 
+Conchae nasales: 
 
 ## CT-Gesichtsschädel :: 8cgs
 
