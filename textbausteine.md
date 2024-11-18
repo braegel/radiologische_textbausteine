@@ -607,7 +607,7 @@ Rechtfertigende Indikation
 Pathologie der Felsenbeine?
 
 Technik
-Spiral-CT der Felsenbeine
+Spiral-CT der Felsenbeine nach SOP. MPRs in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
