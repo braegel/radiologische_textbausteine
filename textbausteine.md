@@ -150,7 +150,7 @@ Nucleus caudatus:
 Nucleus lentiformis: 
 Capsula interna: 
 Thalamus: 
-Marklager: Fazekas Grad 
+Marklager: 
 Kleinhirn: 
 Mittelhirn: 
 Pons: 
@@ -253,7 +253,7 @@ Nucleus caudatus:
 Nucleus lentiformis: 
 Capsula interna: 
 Thalamus: 
-Marklager: Fazekas Grad
+Marklager: 
 Kleinhirn: 
 Mittelhirn: 
 Pons: 
@@ -1243,8 +1243,8 @@ Komplikationslose CT-gesteuerte periradikuläre Therapie der Nervenwurzel
 ## Adhäsive Kapsulitis :: 8cak
 
 Checkliste Adhäsive Kapsulitis ("Frozen Shoulder"): 
-  T1-Signalminderung im Rotatorinterval: nein
-  T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert \< 4mm; Sensitivität 60%, Spezifität 95%)
+  T1-Signalminderung im Rotatorintervall: nein
+  T1w-Breite des Ligamentum coracohumerale (LCH): mm (Normwert < 4mm; Sensitivität 60%, Spezifität 95%)
   T1w-Verbreiterung des axillärer Rezessus: nein
   Verbreiterung und Ödem des axillärer Rezessus in den wassersensitiven Sequenzen: nein
   Perikapsuläres Ödem: nein
