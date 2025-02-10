@@ -449,20 +449,25 @@ CT Angiografie der Becken-Bein-Arterien nach SOP
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Aorta: unauffällig
+
 Links: 
-A. iliaca communis: unauffällig
-A. femoralis superficialis: unauffällig
-A. poplitea: unauffällig
-A. tibialis anterior: unauffällig
-A. tibialis posterior: unauffällig
-A. fibularis: unauffällig
+  A. iliaca communis: unauffällig
+  A. iliaca externa: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+
 Rechts: 
-A. iliaca communis: unauffällig
-A. femoralis superficialis: unauffällig
-A. poplitea: unauffällig
-A. tibialis anterior: unauffällig
-A. tibialis posterior: unauffällig
-A. fibularis: unauffällig
+  A. iliaca communis: unauffällig
+  A. iliaca externa: unauffällig
+  A. femoralis superficialis: unauffällig
+  A. poplitea: unauffällig
+  A. tibialis anterior: unauffällig
+  A. tibialis posterior: unauffällig
+  A. fibularis: unauffällig
+
 Knochen: unauffällig.
 Lymphknoten: unauffällig
 Weichteile: unauffällig
