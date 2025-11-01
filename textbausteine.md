@@ -1083,7 +1083,7 @@ Plantarfaszie: Unauffällig.
 Sehnen: 
 Mediale Beugesehnen: Unauffällig.
 Strecksehnen: Unauffällig
-Achillessehne: Unauffällig. Keine Bursitis. Keine Haglundexostose.
+Achillessehne: Unauffällig. Keine Bursitis.
 Peronealsehnen: Unauffällig.
 Akzessorische Muskeln: Nein.
 
