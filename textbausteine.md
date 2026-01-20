@@ -942,7 +942,7 @@ Fettmetaplasie des paraartikulären Knochenmarkes: Nein
 Transartikuläre Knochenbrücken: Nein
 
 Beurteilung: 
-Keine "aktive Sakroiliites" nach den ASAG-Kriterien.
+Keine "aktive Sakroiliitis" nach den ASAG-Kriterien.
 Kein Anhalt für eine Osteitis condens oder eine Arthrosis deformans.
 
 ## CT LWS :: 8clws
