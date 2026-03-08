@@ -447,31 +447,59 @@ Technik
 CT Angiografie der Becken-Bein-Arterien nach SOP
 
 Befund
+
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Aorta: unauffällig
 
-Links: 
+
+Infrarenale Aorta: unauffällig
+
+Links:
+  A. renalis links: unauffällig
   A. iliaca communis: unauffällig
+  A. iliaca interna: unauffällig
   A. iliaca externa: unauffällig
+  A. femoralis communis: unauffällig
+  A. profunda femoris: unauffällig
   A. femoralis superficialis: unauffällig
   A. poplitea: unauffällig
   A. tibialis anterior: unauffällig
   A. tibialis posterior: unauffällig
   A. fibularis: unauffällig
 
-Rechts: 
+Rechts:
+  A. renalis rechts: unauffällig
   A. iliaca communis: unauffällig
+  A. iliaca interna: unauffällig
   A. iliaca externa: unauffällig
+  A. femoralis communis: unauffällig
+  A. profunda femoris: unauffällig
   A. femoralis superficialis: unauffällig
   A. poplitea: unauffällig
   A. tibialis anterior: unauffällig
   A. tibialis posterior: unauffällig
   A. fibularis: unauffällig
 
-Knochen: unauffällig.
-Lymphknoten: unauffällig
+Nieren:
+  Links: unauffällig
+  Rechts: unauffällig
+Nebennieren:
+  Links: unauffällig
+  Rechts: unauffällig
+Harnblase: unauffällig
+Uterus: unauffällig
+Adnexe beidseits: unauffällig
+Darm: Kein Kalibersprung. Keine Wandverdickung. Keine Divertikulose/Divertikulitis.
+Hernien: Keine inguinale oder femorale Hernie beidseits.
+Freie Flüssigkeit: Keine.
+
+=== KNOCHEN / WEICHTEILE ===
+
+Wirbelsäule (LWS/Os sacrum): unauffällig
+Becken: unauffällig
+Lymphknoten: Kein pathologisch vergrößerter Lymphknoten inguinal/iliakal beidseits.
 Weichteile: unauffällig
-Übrige Weichteile: unauffällig
+
+Beurteilung
 
 Beurteilung
 Kein richtungsweisender Befund.
