@@ -444,60 +444,55 @@ Rechtfertigende Indikation
 Schmerzen
 
 Technik
-CT Angiografie der Becken-Bein-Arterien nach SOP
+CT Angiografie der Becken-Bein-Arterien nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
 
 Befund
 
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
-
-Infrarenale Aorta: unauffällig
-
+Infrarenale Aorta: 
 Links:
-  A. renalis links: unauffällig
-  A. iliaca communis: unauffällig
-  A. iliaca interna: unauffällig
-  A. iliaca externa: unauffällig
-  A. femoralis communis: unauffällig
-  A. profunda femoris: unauffällig
-  A. femoralis superficialis: unauffällig
-  A. poplitea: unauffällig
-  A. tibialis anterior: unauffällig
-  A. tibialis posterior: unauffällig
-  A. fibularis: unauffällig
+  A. renalis links: 
+  A. iliaca communis: 
+  A. iliaca interna: 
+  A. iliaca externa: 
+  A. femoralis communis: 
+  A. profunda femoris: 
+  A. femoralis superficialis: 
+  A. poplitea: 
+  A. tibialis anterior: 
+  A. tibialis posterior: 
+  A. fibularis: 
 
 Rechts:
-  A. renalis rechts: unauffällig
-  A. iliaca communis: unauffällig
-  A. iliaca interna: unauffällig
-  A. iliaca externa: unauffällig
-  A. femoralis communis: unauffällig
-  A. profunda femoris: unauffällig
-  A. femoralis superficialis: unauffällig
-  A. poplitea: unauffällig
-  A. tibialis anterior: unauffällig
-  A. tibialis posterior: unauffällig
-  A. fibularis: unauffällig
+  A. renalis rechts: 
+  A. iliaca communis: 
+  A. iliaca interna: 
+  A. iliaca externa: 
+  A. femoralis communis: 
+  A. profunda femoris: 
+  A. femoralis superficialis: 
+  A. poplitea: 
+  A. tibialis anterior: 
+  A. tibialis posterior: 
+  A. fibularis: 
 
 Nieren:
-  Links: unauffällig
-  Rechts: unauffällig
+  Links: 
+  Rechts: 
 Nebennieren:
-  Links: unauffällig
-  Rechts: unauffällig
-Harnblase: unauffällig
-Uterus: unauffällig
-Adnexe beidseits: unauffällig
-Darm: Kein Kalibersprung. Keine Wandverdickung. Keine Divertikulose/Divertikulitis.
-Hernien: Keine inguinale oder femorale Hernie beidseits.
-Freie Flüssigkeit: Keine.
-
-=== KNOCHEN / WEICHTEILE ===
-
-Wirbelsäule (LWS/Os sacrum): unauffällig
-Becken: unauffällig
-Lymphknoten: Kein pathologisch vergrößerter Lymphknoten inguinal/iliakal beidseits.
-Weichteile: unauffällig
+  Links: 
+  Rechts: 
+Harnblase: 
+Uterus: 
+Adnexe beidseits: 
+Prostata: 
+Darm soweit erfasst: 
+Bauchdecke, soweit erfasst: 
+Freie Flüssigkeit: 
+Wirbelsäule (LWS/Os sacrum): 
+Becken: 
+Lymphknotenstationen: 
 
 Beurteilung
 
