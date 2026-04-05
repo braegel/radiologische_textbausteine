@@ -279,6 +279,138 @@ Kein Anhalt für eine intrakranielle Einblutung.
 Ein frischer territorialer Infarkt demarkiert sich nicht.
 Keine Zeichen eines erhöhten Hirndruckes.
 
+## 8cctu
+
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
+
+Fragestellung/Klinische Angaben: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Unauffällig.
+Venöse Sinus: Unauffällig.
+Mediazeichen: Unauffällig.
+Mark-Rinden-Differenzierung: Unauffällig.
+Inselrinde: Unauffällig.
+Nucleus caudatus: Unauffällig.
+Nucleus lentiformis: Unauffällig.
+Capsula interna: Unauffällig.
+Thalamus: Unauffällig.
+Marklager: Unauffällig.
+Kleinhirn: Unauffällig.
+Mittelhirn: Unauffällig.
+Pons: Unauffällig.
+Hypophyse: Unauffällig.
+Mittellinie: Unauffällig.
+Linker Seitenventrikel: Unauffällig.
+Rechter Seitenventrikel: Unauffällig.
+Dritter Ventrikel: Unauffällig.
+Vierter Ventrikel: Unauffällig.
+Basale Zisternen: Unauffällig.
+Äußere Liquorräume: Unauffällig.
+Sinus maxillares: Unauffällig.
+Sinus ethmoidales: Unauffällig.
+Sinus sphenoidales: Unauffällig.
+Sinus frontales: Unauffällig.
+Mastoidzellen: Unauffällig.
+Knochen: Unauffällig.
+
+Beurteilung
+Kein Anhalt für eine intrakranielle Einblutung.
+Ein frischer territorialer Infarkt demarkiert sich nicht.
+Keine Zeichen eines erhöhten Hirndruckes.
+Unauffälliger Befund.
+
+## 8cctm
+
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
+
+Fragestellung/Klinische Angaben: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Unauffällig.
+Venöse Sinus: Unauffällig.
+Mediazeichen: Unauffällig.
+Mark-Rinden-Differenzierung: Unauffällig.
+Inselrinde: Unauffällig.
+Nucleus caudatus: Unauffällig.
+Nucleus lentiformis: Unauffällig.
+Capsula interna: Unauffällig.
+Thalamus: Unauffällig.
+Marklager: Periventrikuläre und subkortikale Marklagerhypodensitäten als Ausdruck einer chronischen Mikroangiopathie.
+Kleinhirn: Unauffällig.
+Mittelhirn: Unauffällig.
+Pons: Unauffällig.
+Hypophyse: Unauffällig.
+Mittellinie: Unauffällig.
+Linker Seitenventrikel: Unauffällig.
+Rechter Seitenventrikel: Unauffällig.
+Dritter Ventrikel: Unauffällig.
+Vierter Ventrikel: Unauffällig.
+Basale Zisternen: Unauffällig.
+Äußere Liquorräume: Alterskorreliert leicht erweitert.
+Sinus maxillares: Unauffällig.
+Sinus ethmoidales: Unauffällig.
+Sinus sphenoidales: Unauffällig.
+Sinus frontales: Unauffällig.
+Mastoidzellen: Unauffällig.
+Knochen: Unauffällig.
+
+Beurteilung
+Kein Anhalt für eine intrakranielle Einblutung.
+Ein frischer territorialer Infarkt demarkiert sich nicht.
+Keine Zeichen eines erhöhten Hirndruckes.
+Chronische Mikroangiopathie mit leichter innerer und äußerer Atrophie.
+
+# 8ccta
+
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
+
+Fragestellung/Klinische Angaben: Blutung? Ischämie? Hirndruck?
+
+Technik: CCT nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Blutungssuspekte Dichteanhebungen: Unauffällig.
+Venöse Sinus: Unauffällig.
+Mediazeichen: Unauffällig.
+Mark-Rinden-Differenzierung: Unauffällig.
+Inselrinde: Unauffällig.
+Nucleus caudatus: Unauffällig.
+Nucleus lentiformis: Unauffällig.
+Capsula interna: Unauffällig.
+Thalamus: Unauffällig.
+Marklager: Periventrikuläre Marklagerhypodensitäten.
+Kleinhirn: Unauffällig.
+Mittelhirn: Unauffällig.
+Pons: Unauffällig.
+Hypophyse: Unauffällig.
+Mittellinie: Unauffällig.
+Linker Seitenventrikel: Erweitert.
+Rechter Seitenventrikel: Erweitert.
+Dritter Ventrikel: Erweitert.
+Vierter Ventrikel: Erweitert.
+Basale Zisternen: Unauffällig, erweitert.
+Äußere Liquorräume: Deutlich erweitert, betonte Sulci und Fissuren.
+Sinus maxillares: Unauffällig.
+Sinus ethmoidales: Unauffällig.
+Sinus sphenoidales: Unauffällig.
+Sinus frontales: Unauffällig.
+Mastoidzellen: Unauffällig.
+Knochen: Unauffällig.
+
+Beurteilung
+Kein Anhalt für eine intrakranielle Einblutung.
+Ein frischer territorialer Infarkt demarkiert sich nicht.
+Keine Zeichen eines erhöhten Hirndruckes.
+Cerebrale und cerebelläre Atrophie (Hydrocephalus e vacuo).
+
 ## CTA der Kopf-Hals-Arterien
 
 Rechtfertigende Indikation: Stenose? Verschluss?
