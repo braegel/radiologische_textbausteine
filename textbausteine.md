@@ -808,30 +808,52 @@ Abgrenzbare Fraktur:
 Beurteilung: 
 Kein richtungsweisender Befund.
 
-## CT-HWS :: 8chws
+## CT-HWS :: 8chwsu
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
 
-Rechtfertigende Indikation
-Spinale Enge? Degeneration? Fraktur?
+Fragestellung/Klinische Angaben: Fraktur?
 
-Technik
-Spiral-CT der HWS.
+Technik: CT der HWS nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Hinterkante: Harmonischer Verlauf.
-Höhenminderungen von Wirbelkörpern: Nein.
-Miterfasste basale Hirnabschnitte: Unauffällig soweit erfasst.
-Atlanto-Occipitale-Dislokation: Nein.
-HWK1/2: Keine Fraktur.
-HWK2/3: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK3/4: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK4/5: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK5/6: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK6/7: Kein Nachweis einer signifikanten spinalen Einengung.
-HWK7/BWK1: Kein Nachweis einer signifikanten spinalen Einengung.
+Hinterkante: Unauffällig.
+Höhenminderungen von Wirbelkörpern: Unauffällig.
+Miterfasste basale Hirnabschnitte: Unauffällig.
+Atlanto-Occipitale-Dislokation: Unauffällig.
+HWK1/2: Unauffällig.
+HWK2/3: Unauffällig.
+HWK3/4: Unauffällig.
+HWK4/5: Unauffällig.
+HWK5/6: Unauffällig.
+HWK6/7: Unauffällig.
+HWK7/BWK1: Unauffällig.
 Apikale Lunge: Unauffällig.
 
 Beurteilung
+Kein Nachweis einer Fraktur oder Dislokation.
+Steilstellung der HWS.
+
+## 8hwsd
+
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
+
+Fragestellung/Klinische Angaben: Fraktur?
+
+Technik: CT der HWS nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
+
+Befund
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Hinterkante: Unauffällig.
+Höhenminderungen von Wirbelkörpern: Keine traumatischen Höhenminderungen.
+Miterfasste basale Hirnabschnitte: Unauffällig.
+Atlanto-Occipitale-Dislokation: Unauffällig.
+HWK1/2 bis HWK7/BWK1: Ausgeprägte degenerativ-spondylotische Veränderungen mit Spondylophytenbildung auf mehreren Etagen. Kein Nachweis einer Fraktur oder akuten Dislokation.
+Apikale Lunge: Unauffällig.
+
+Beurteilung
+Kein Nachweis einer frischen Fraktur oder Dislokation.
+Ausgeprägte degenerativ-spondylotische Veränderungen der HWS wie beschrieben.
 
 ## CT-NNH :: 8cnnh
 
@@ -857,26 +879,27 @@ Conchae nasales:
 
 ## CT-Gesichtsschädel :: 8cgs
 
-Rechtfertigende Indikation
-Fraktur?
+Rechtfertigende Indikation: Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
 
-Technik
-Spiral-CT des Gesichtsschädels: 
+Fragestellung/Klinische Angaben:
+
+Technik: CT des Gesichtsschädels nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
 
 Befund
-Nasenbein: 
-Orbita links: 
-Orbita rechts: 
-Sinus maxillaris links: 
-Sinus maxillaris rechts: 
-Sinus ethmoidales: 
-Sinus frontales: 
-Jochbogen links: 
-Jochbogen rechts: 
-Unterkiefer: 
+Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
+Nasenbein: Unauffällig.
+Orbita links: Unauffällig.
+Orbita rechts: Unauffällig.
+Sinus maxillaris links: Unauffällig.
+Sinus maxillaris rechts: Unauffällig.
+Sinus ethmoidales: Unauffällig.
+Sinus frontales: Unauffällig.
+Jochbogen links: Unauffällig.
+Jochbogen rechts: Unauffällig.
+Unterkiefer: Unauffällig.
 
-Beurteilug: 
-Keine Fraktur des Mittelgesichtes.
+Beurteilung
+Kein Nachweis einer ossären Verletzung des Gesichtsschädels.
 
 ## Ganzkörper CT :: 8cgk
 
