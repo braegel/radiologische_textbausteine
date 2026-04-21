@@ -238,7 +238,7 @@ Beurteilung:
 
 Rechtfertigende Indikation: Blutung? Ischämie? Hirndruck?
 
-Technik: CCT nativ nach SOP.
+Technik: CCT nativ nach SOP. Multiplanare Rekonstruktionen in drei Ebenen.
 
 Befund
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
@@ -1057,16 +1057,16 @@ Beurteilung:
 
 ## MR Handgelenk :: 8mhg
 
-Klinische Angaben: 
+Klinische Angaben:
 Schmerzen
 
-Technik: 
+Technik:
 MRT des Handgelenkes nach SOP
 
-Befund: 
+Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Carpal Bossing: Nein
-SL-Bänder: Unauffällig.
+SL-Band: Unauffällig.
 TFCC: Unauffällig.
 Strecksehnen: Unauffällig.
 Beugesehnen: Unauffällig.
@@ -1075,7 +1075,8 @@ Gelenke: Unauffällig.
 Knochen: Unauffällig.
 Übrige Weichteile: Unauffällig.
 
-Beurteilung: 
+Beurteilung:
+
 
 ## MR Hüfte (FAI):: 8mfai
 
