@@ -1073,7 +1073,7 @@ Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 Hinterkante: Unauffällig.
 Höhenminderungen von Wirbelkörpern: Unauffällig.
 Miterfasste basale Hirnabschnitte: Unauffällig.
-Atlanto-Occipitale-Dislokation: Unauffällig.
+Atlantooccipitales Gelenk: Unauffällig.
 HWK1/2: Unauffällig.
 HWK2/3: Unauffällig.
 HWK3/4: Unauffällig.
