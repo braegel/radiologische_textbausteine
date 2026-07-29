@@ -1734,23 +1734,24 @@ Distorsion. Bandläsion?
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Knochen: Unauffällig/Os trigonum.
+Knochen: Unauffällig
+Os trigonum: nein
 Gelenke: Kein Erguss. Keine Kapselverbreiterungen in der T1w.
 Bänder:
-Syndesmose: Unauffällig.
-Lig. talofibulare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
-Lig. talofibulare post.: Unauffällig.
-Lig. calcaneofibulare: Unauffällig.
-Lig. deltoideum (oberflächlicher Anteil): Unauffällig.
-Lig. deltoideum (tiefer Anteil): Unauffällig.
-Lig. calcaneonaviculare plantare: Unauffällig.
-Plantarfaszie: Unauffällig.
+  Syndesmose: Unauffällig
+  Lig. talofibulare ant.: Unauffällig. Kein "Bright-Rim"-Zeichen.
+  Lig. talofibulare post.: Unauffällig
+  Lig. calcaneofibulare: Unauffällig
+  Lig. deltoideum (oberflächlicher Anteil): Unauffällig
+  Lig. deltoideum (tiefer Anteil): Unauffällig
+  Lig. calcaneonaviculare plantare: Unauffällig
+  Plantarfaszie: Unauffällig
 Sehnen:
-Mediale Beugesehnen: Unauffällig.
-Strecksehnen: Unauffällig.
-Achillessehne: Unauffällig. Keine Bursitis.
-Peronealsehnen: Unauffällig.
-Akzessorische Muskeln: Nein.
+  Mediale Beugesehnen: Unauffällig
+  Strecksehnen: Unauffällig
+  Achillessehne: Unauffällig
+  Peronealsehnen: Unauffällig
+  Akzessorische Muskeln: Nein
 
 Beurteilung:
 
