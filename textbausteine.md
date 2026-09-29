@@ -1892,49 +1892,23 @@ Blutung? Ischämie? Hirndruck? Demenz?
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-DWI/ADC (Diffusionswichtung): Kein Anhalt für eine frische Diffusionsrestriktion.
-FLAIR: Kein Anhalt für frische oder subakute Marklager- oder kortikale Signalveränderungen.
-T2: Unauffällig.
-T1: Keine pathologischen Signalanhebungen.
-Mark-Rinden-Differenzierung: Erhalten.
-Inselrinde: Unauffällig.
-Nucleus caudatus: Unauffällig.
-Nucleus lentiformis: Unauffällig.
-Capsula interna: Unauffällig.
-Thalamus: Unauffällig.
-Marklager: Unauffällig.
-Kleinhirn: Unauffällig.
-Mittelhirn: Unauffällig.
-Pons: Unauffällig.
-Hypophyse: Unauffällig.
-Linker Seitenventrikel: Unauffällig.
-Rechter Seitenventrikel: Unauffällig.
-Dritter Ventrikel: Unauffällig.
-Vierter Ventrikel: Unauffällig.
-Basale Zisternen: Unauffällig.
-Äußere Liquorräume: Alterskorreliert unauffällig.
-Mittellinie: Zentriert.
-Venöse Sinus: Unauffällig.
-Sinus frontales: Unauffällig.
-Sinus ethmoidales: Unauffällig.
-Sinus sphenoidales: Unauffällig.
-Sinus maxillares: Unauffällig.
-Mastoidzellen: Unauffällig.
-Innerer Gehörgang: Unauffällig.
-Knochen: Unauffällig.
-TOF-Angio (soweit vorhanden): Unauffällig.
-Blut-Hirn-Schranke (KM-Aufnahme, soweit vorhanden): Kein Anhalt für pathologische KM-Aufnahme.
-
-Checkliste Demenz:
-GCA-Score (globale kortikale Atrophie, 0-3): 0 (normal).
-MTA-Score nach Scheltens (mesiotemporale Atrophie, 0-4, pathologisch ab 2 unter 75 Jahren / ab 3 über 75 Jahren):
-  Links: 0. Rechts: 0.
-Fazekas-Score (periventrikuläre und tiefe Marklagerveränderungen, 0-3): 0.
-Koedam-Score (posteriore kortikale Atrophie, 0-3): 0.
-Frontotemporale lobäre Degeneration (FTLD): Kein Anhalt.
-Strategische Infarkte (bilateral ACA / Gyrus angularis / bithalamisch / Grenzzone): Kein Anhalt.
-Lakunäre Infarkte frontal oder in den Basalganglien (kritisch ab >=2): Kein Anhalt.
-Ausgedehnte Gliose der weißen Substanz (>25 Prozent): Kein Anhalt.
+Pathologische Signalanhebungen in der T1-Wichtung:
+Diffusionswichtung:
+Mark-Rinden-Differenzierung:
+Basalganglien und Capsula interna:
+Thalamus:
+Marklager:
+Kleinhirn:
+Hirnstamm (Mittelhirn, Pons):
+Hypophyse:
+Innere Liquorräume (Seitenventrikel, III. und IV. Ventrikel):
+Basale Zisternen und äußere Liquorräume:
+Mittellinie:
+Venöse Sinus:
+Nasennebenhöhlen und Mastoidzellen:
+Innerer Gehörgang und Knochen:
+TOF-Angio:
+Blut-Hirn-Schranke:
 
 Beurteilung:
 Kein Anhalt für eine intrakranielle Einblutung.
@@ -2313,6 +2287,18 @@ Areale mit einer CBV > 6 ml/100g:
 Areale mit einer CBV < 2 ml/100g:
 CBV-ASPECT-Score: 10 (experimentell, da nicht einheitlich definiert)
 MTT/CBV-Mismatch: ja/nein/nicht/eingeschränkt beurteilbar, bei ACI Verschluss/bei Tandemverschluss.
+
+## Demenzabklärung :. 8dem
+Checkliste Demenz:
+GCA-Score (globale kortikale Atrophie, 0-3): 0 (normal).
+MTA-Score nach Scheltens (mesiotemporale Atrophie, 0-4, pathologisch ab 2 unter 75 Jahren / ab 3 über 75 Jahren):
+  Links: 0. Rechts: 0.
+Fazekas-Score (periventrikuläre und tiefe Marklagerveränderungen, 0-3): 0.
+Koedam-Score (posteriore kortikale Atrophie, 0-3): 0.
+Frontotemporale lobäre Degeneration (FTLD): Kein Anhalt.
+Strategische Infarkte (bilateral ACA / Gyrus angularis / bithalamisch / Grenzzone): Kein Anhalt.
+Lakunäre Infarkte frontal oder in den Basalganglien (kritisch ab >=2): Kein Anhalt.
+Ausgedehnte Gliose der weißen Substanz (>25 Prozent): Kein Anhalt.
 
 ## Eisenablagerungen :: 8eisengehirn
 
