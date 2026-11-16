@@ -513,98 +513,34 @@ Proximale Femura:
 
 Beurteilung:
 
-## CCT :: 8cct
+## CCT :: 8cctu
 
 Rechtfertigende Indikation:
 Blutung? Ischämie? Hirndruck? Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
 
 Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen:
-Venöse Sinus:
-Mediazeichen (hyperdenses Gefäßzeichen):
-Frühzeichen Ischämie (Zeitfenster <6h):
-Hypodensität Basalganglien:
-Sulci-Obliteration:
-Mark-Rinden-Entdifferenzierung fokal:
-ASPECTS (Alberta Stroke Program Early CT Score, 0-10):
-Basalganglien-Ebene: Nucleus caudatus (C): / Nucleus lentiformis (L): / Capsula interna (IC): / Inselrinde (I): / M1 (frontales MCA-Territorium): / M2 (temporales MCA-Territorium): / M3 (parietales MCA-Territorium):
-Supraganglionäre Ebene: M4: / M5: / M6:
-ASPECTS gesamt: /10 (Penumbra wahrscheinlich bei >=6; schlechtes Outcome bei <7)
-Mark-Rinden-Differenzierung:
-Inselrinde:
-Nucleus caudatus:
-Nucleus lentiformis:
-Capsula interna:
-Thalamus:
-Marklager:
-Kleinhirn:
-Mittelhirn:
-Pons:
-Hypophyse:
-Mittellinie:
-Linker Seitenventrikel:
-Rechter Seitenventrikel:
-Dritter Ventrikel:
-Vierter Ventrikel:
-Basale Zisternen:
+Blutungssuspekte Dichteanhebungen: nein
+Mediazeichen (hyperdenses Gefäßzeichen): nein
+Venöse Sinus: unauffällig
+Basalganglien: unauffällig 
+Mark-Rinden-Differenzierung: unauffällig 
+Marklager: unauffällig 
+Thalamus: unauffällig
+Kleinhirn: unauffällig 
+Hirstamm: unauffällig 
+Mittellinie: unauffällig 
+Inneres Ventrikelystem: unauffällig 
 Äußere Liquorräume:
-Sinus maxillares:
-Sinus ethmoidales:
-Sinus sphenoidales:
-Sinus frontales:
-Mastoidzellen:
-Knochen:
+Nasennebenhöhlen: unauffällig, soweit erfasst 
+Mastoidzellen: unauffällig 
+Knochen: unauffällig
 
 Beurteilung:
 Kein Anhalt für eine intrakranielle Einblutung.
 Ein frischer territorialer Infarkt demarkiert sich nicht.
 Keine Zeichen eines erhöhten Hirndruckes.
-ASPECTS /10. Frühe Ischämiezeichen: Nein. Penumbrales Gewebe nach ASPECTS-Kriterien vereinbar mit Rekanalisationstherapie.
 
-## CCT unauffällig :: 8cctu
-
-Rechtfertigende Indikation:
-Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt gestellt.
-
-Fragestellung:
-Blutung? Ischämie? Hirndruck?
-
-Befund:
-Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
-Blutungssuspekte Dichteanhebungen: Unauffällig.
-Venöse Sinus: Unauffällig.
-Mediazeichen: Unauffällig.
-Mark-Rinden-Differenzierung: Unauffällig.
-Inselrinde: Unauffällig.
-Nucleus caudatus: Unauffällig.
-Nucleus lentiformis: Unauffällig.
-Capsula interna: Unauffällig.
-Thalamus: Unauffällig.
-Marklager: Unauffällig.
-Kleinhirn: Unauffällig.
-Mittelhirn: Unauffällig.
-Pons: Unauffällig.
-Hypophyse: Unauffällig.
-Mittellinie: Unauffällig.
-Linker Seitenventrikel: Unauffällig.
-Rechter Seitenventrikel: Unauffällig.
-Dritter Ventrikel: Unauffällig.
-Vierter Ventrikel: Unauffällig.
-Basale Zisternen: Unauffällig.
-Äußere Liquorräume: Unauffällig.
-Sinus maxillares: Unauffällig.
-Sinus ethmoidales: Unauffällig.
-Sinus sphenoidales: Unauffällig.
-Sinus frontales: Unauffällig.
-Mastoidzellen: Unauffällig.
-Knochen: Unauffällig.
-
-Beurteilung:
-Kein Anhalt für eine intrakranielle Einblutung.
-Ein frischer territorialer Infarkt demarkiert sich nicht.
-Keine Zeichen eines erhöhten Hirndruckes.
-Unauffälliger Befund.
 
 ## CCT Mikroangiopathie :: 8cctm
 
