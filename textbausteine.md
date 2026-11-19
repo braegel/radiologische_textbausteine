@@ -538,7 +538,7 @@ Knochen: unauffällig
 
 Beurteilung:
 Kein Anhalt für eine intrakranielle Einblutung.
-Ein frischer territorialer Infarkt demarkiert sich nicht.
+Kein frisch demarkierter territorialer Infarkt.
 Keine Zeichen eines erhöhten Hirndruckes.
 
 
