@@ -377,16 +377,7 @@ Knochen:
 
 Checkliste Schlaganfall:
 Blutungssuspekte Dichteanhebungen:
-Venöse Sinus:
-Mediazeichen (hyperdenses Gefäßzeichen):
-Frühzeichen Ischämie (Zeitfenster <6h):
-Hypodensität Basalganglien:
-Sulci-Obliteration:
-Mark-Rinden-Entdifferenzierung fokal:
-ASPECTS (Alberta Stroke Program Early CT Score, 0-10):
-Basalganglien-Ebene: Nucleus caudatus (C): / Nucleus lentiformis (L): / Capsula interna (IC): / Inselrinde (I): / M1 (frontales MCA-Territorium): / M2 (temporales MCA-Territorium): / M3 (parietales MCA-Territorium):
-Supraganglionäre Ebene: M4: / M5: / M6:
-ASPECTS gesamt: /10 (Penumbra wahrscheinlich bei >=6; schlechtes Outcome bei <7)
+Mediazeichen:
 Mark-Rinden-Differenzierung:
 Inselrinde:
 Nucleus caudatus:
@@ -424,27 +415,27 @@ Thorax:
 Axilläre Lymphknoten:
 Mediastinum:
 Lymphknoten:
-Aorta:
-Herz:
-Koronararterien:
-Ösophagus:
+- Aorta:
+- Herz:
+- Koronararterien:
+- Ösophagus:
 Pulmonalarterien:
 Lungenparenchym:
-Oberlappen rechts:
-Mittellappen:
-Unterlappen rechts:
-Oberlappen links:
-Unterlappen links:
+- Oberlappen rechts:
+- Mittellappen:
+- Unterlappen rechts:
+- Oberlappen links:
+- Unterlappen links:
 Zentrale Atemwege:
 Pleura rechts:
 Pleura links:
 Knochen:
-BWS:
-Rippen:
-Sternum:
-Klavikulae:
-Proximale Humeri:
-Scapulae:
+- BWS:
+- Rippen:
+- Sternum:
+- Klavikulae:
+- Proximale Humeri:
+- Scapulae:
 
 Abdomen:
 Freie Luft:
@@ -495,7 +486,7 @@ Linke Nebenniere:
 Harnleiter:
 Harnblase:
 Prostata:
-Uterus und Eierstöcke:
+Uterus und Ovarien:
 Magen:
 Aorta abdominalis und ihre Hauptäste:
 Pfortader und ihre Hauptäste:
@@ -507,9 +498,9 @@ Zwerchfellruptur (koronare Ansicht): Nein.
 Hämatoperitoneum Ausdehnung: perisplenisch/perihepatisch/Becken/diffus/Nein.
 Übrige Weichteile:
 Knochen:
-LWS:
-Becken:
-Proximale Femura:
+- LWS:
+- Becken:
+- Proximale Femura:
 
 Beurteilung:
 
@@ -729,7 +720,7 @@ Linke Niere:
 Harnleiter:
 Harnblase:
 Prostata:
-Uterus und Eierstöcke:
+Uterus und Ovarien:
 Darm:
 Lymphknoten:
 Peritoneum/Mesenterium:
