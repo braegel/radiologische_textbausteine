@@ -351,7 +351,7 @@ Kein richtungsweisender Befund.
 
 # CT
 
-## CT Polytrauma :: 8cpoly
+## CT Polytrauma :: 8ctrauma
 
 Rechtfertigende Indikation:
 Polytrauma. Die rechtfertigende Indikation gemäß StrSchV §119 wurde durch einen im Strahlenschutz fachkundigen Arzt (Brägelmann) gestellt.
