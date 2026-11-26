@@ -360,87 +360,87 @@ Befund:
 Voraufnahmen: Liegen zum Befundungszeitpunkt nicht vor.
 
 CCT:
-Linker Seitenventrikel:
-Rechter Seitenventrikel:
-Dritter Ventrikel:
-Vierter Ventrikel:
-Basale Zisternen:
-Äußere Liquorräume:
-Mittellinie:
-Venöse Sinus:
-Sinus maxillares:
-Sinus ethmoidales:
-Sinus sphenoidales:
-Sinus frontales:
-Mastoidzellen:
-Knochen:
+Linker Seitenventrikel: 
+Rechter Seitenventrikel: 
+Dritter Ventrikel: 
+Vierter Ventrikel: 
+Basale Zisternen: 
+Äußere Liquorräume: 
+Mittellinie: 
+Venöse Sinus: 
+Sinus maxillares: 
+Sinus ethmoidales: 
+Sinus sphenoidales: 
+Sinus frontales: 
+Mastoidzellen: 
+Knochen: 
 
 Checkliste Schlaganfall:
-Blutungssuspekte Dichteanhebungen:
-Mediazeichen:
-Mark-Rinden-Differenzierung:
-Inselrinde:
-Nucleus caudatus:
-Nucleus lentiformis:
-Capsula interna:
-Thalamus:
-Marklager:
-Kleinhirn:
-Mittelhirn:
-Pons:
+Blutungssuspekte Dichteanhebungen: 
+Mediazeichen: 
+Mark-Rinden-Differenzierung: 
+Inselrinde: 
+Nucleus caudatus: 
+Nucleus lentiformis: 
+Capsula interna: 
+Thalamus: 
+Marklager: 
+Kleinhirn: 
+Mittelhirn: 
+Pons: 
 
 Gesichtsschädel:
-Nasenbein:
-Orbita links:
-Orbita rechts:
-Sinus maxillaris links:
-Sinus maxillaris rechts:
-Sinus ethmoidales:
-Sinus frontales:
-Jochbogen links:
-Jochbogen rechts:
-Unterkiefer:
+Nasenbein: 
+Orbita links: 
+Orbita rechts: 
+Sinus maxillaris links: 
+Sinus maxillaris rechts: 
+Sinus ethmoidales: 
+Sinus frontales: 
+Jochbogen links: 
+Jochbogen rechts: 
+Unterkiefer: 
 
 HWS:
-Atlanto-Occipitales Gelenk:
-HWK1/2:
-HWK2/3:
-HWK3/4:
-HWK4/5:
-HWK5/6:
-HWK6/7:
-HWK7/BWK1:
+Atlanto-Occipitales Gelenk: 
+HWK1/2: 
+HWK2/3: 
+HWK3/4: 
+HWK4/5: 
+HWK5/6: 
+HWK6/7: 
+HWK7/BWK1: 
 
 Thorax:
-Axilläre Lymphknoten:
+Axilläre Lymphknoten: 
 Mediastinum:
-Lymphknoten:
-- Aorta:
-- Herz:
-- Koronararterien:
-- Ösophagus:
-Pulmonalarterien:
-Lungenparenchym:
-- Oberlappen rechts:
-- Mittellappen:
-- Unterlappen rechts:
-- Oberlappen links:
-- Unterlappen links:
-Zentrale Atemwege:
-Pleura rechts:
-Pleura links:
+- Lymphknoten: 
+- Aorta: 
+- Herz: 
+- Koronararterien: 
+- Ösophagus: 
+Pulmonalarterien: 
+Lungenparenchym: 
+- Oberlappen rechts: 
+- Mittellappen: 
+- Unterlappen rechts: 
+- Oberlappen links: 
+- Unterlappen links: 
+Zentrale Atemwege: 
+Pleura rechts: 
+Pleura links: 
 Knochen:
-- BWS:
-- Rippen:
-- Sternum:
-- Klavikulae:
-- Proximale Humeri:
-- Scapulae:
+- BWS: 
+- Rippen: 
+- Sternum: 
+- Klavikulae: 
+- Proximale Humeri: 
+- Scapulae: 
 
 Abdomen:
-Freie Luft:
-Aszites:
-Milz:
+Freie Luft: 
+Aszites: 
+Milz: 
 AAST-Grad Milz (2018 Revision):
 Grad I: Subkapsulares Hämatom <10% Oberfläche ODER Parenchymlazeration <1cm Tiefe.
 Grad II: Subkapsulares Hämatom 10-50% ODER intraparenchymatöses Hämatom <5cm ODER Lazeration 1-3cm ohne Hilusbeteiligung.
@@ -453,7 +453,7 @@ Intraparenchymatöses Hämatom/Lazeration Tiefe [cm]:
 Hilusbeteiligung: Nein.
 Aktive Kontrastmittelextravasation Milz: Nein.
 Freie perisplenische Flüssigkeit: Nein.
-Leber:
+Leber: 
 AAST-Grad Leber (2018 Revision):
 Grad I: Subkapsulares Hämatom <10% Oberfläche ODER Lazeration <1cm Tiefe.
 Grad II: Subkapsulares Hämatom 10-50% ODER intraparenchymatöses Hämatom <10cm ODER Lazeration 1-3cm/<=10cm Länge.
@@ -466,7 +466,7 @@ Lazeration Lokalisation und Tiefe [cm]:
 Subkapsulares Hämatom Ausdehnung: %
 Aktive Kontrastmittelextravasation Leber: Nein.
 Gallen-/Gallenwegsbeteiligung: Nein.
-Niere links:
+Niere links: 
 AAST-Grad Niere (2018 Revision):
 Grad I: Kontusion ODER nicht expandierendes subkapsulares Hämatom ohne Lazeration.
 Grad II: Perirenales Hämatom begrenzt auf Retroperitoneum ODER Lazeration <1cm Parenchymtiefe ohne Uroextravasation.
@@ -474,33 +474,33 @@ Grad III: Lazeration >1cm ohne Uroextravasation.
 Grad IV: Lazeration bis ins Nierenbecken/Kelchsystem ODER Ureter ODER segmentale Gefäßverletzung.
 Grad V: Shattering der Niere ODER Avulsion des Nierenhilus.
 AAST Niere links aktuell: Grad /V
-Niere rechts: AAST Grad /V (analog)
+Niere rechts: 
 Perirenales Hämatom: Ausdehnung / Retroperitoneale Begrenzung: Nein.
 Uroextravasation: Nein.
 Aktive Kontrastmittelextravasation Niere: Nein.
-Gallenblase:
-Gallenwege:
-Bauchspeicheldrüse:
-Rechte Nebenniere:
-Linke Nebenniere:
-Harnleiter:
-Harnblase:
-Prostata:
-Uterus und Ovarien:
-Magen:
-Aorta abdominalis und ihre Hauptäste:
-Pfortader und ihre Hauptäste:
-Lebervenen:
-Lymphknoten:
-Bauchmuskulatur:
-Darm:
+Gallenblase: 
+Gallenwege: 
+Bauchspeicheldrüse: 
+Rechte Nebenniere: 
+Linke Nebenniere: 
+Harnleiter: 
+Harnblase: 
+Prostata: 
+Uterus und Ovarien: 
+Magen: 
+Aorta abdominalis und ihre Hauptäste: 
+Pfortader und ihre Hauptäste: 
+Lebervenen: 
+Lymphknoten: 
+Bauchmuskulatur: 
+Darm: 
 Zwerchfellruptur (koronare Ansicht): Nein.
 Hämatoperitoneum Ausdehnung: perisplenisch/perihepatisch/Becken/diffus/Nein.
-Übrige Weichteile:
+Übrige Weichteile: 
 Knochen:
-- LWS:
-- Becken:
-- Proximale Femura:
+- LWS: 
+- Becken: 
+- Proximale Femura: 
 
 Beurteilung:
 
@@ -519,9 +519,9 @@ Mark-Rinden-Differenzierung: unauffällig
 Marklager: unauffällig 
 Thalamus: unauffällig
 Kleinhirn: unauffällig 
-Hirstamm: unauffällig 
+Hirnstamm: unauffällig 
 Mittellinie: unauffällig 
-Inneres Ventrikelystem: unauffällig 
+Inneres Ventrikelsystem: unauffällig 
 Äußere Liquorräume:
 Nasennebenhöhlen: unauffällig, soweit erfasst 
 Mastoidzellen: unauffällig 
